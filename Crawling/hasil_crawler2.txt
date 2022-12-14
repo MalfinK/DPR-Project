@@ -1,0 +1,30 @@
+
+Kelompok 	: 5
+Prodi 	: Ilmu komputer
+    
+Kalimat-Kalimat Negatif
+
+
+- Kalimat dengan kata "ga_seru" ==> 0
+
+
+
+- Kalimat dengan kata "ga_seru" ==> 0
+
+Kalimat-Kalimat Positif
+
+
+- Kalimat dengan kata "bagus" ==> 0
+
+
+
+- Kalimat dengan kata "ngakak" ==> 0
+
+
+
+- Kalimat dengan kata "ketawa" ==> 0
+
+
+
+- Kalimat dengan kata "lucu" ==> 0
+
