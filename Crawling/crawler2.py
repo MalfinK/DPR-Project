@@ -1,23 +1,27 @@
 import re
 
 # kalimat negatif
-kata_kunci_negatif = ['ga_seru', 'ga_seru']
+kata_kunci_negatif = ['ga seru', 'ga seru']
 pencarianBarisNegatif = [[] for x in range(len(kata_kunci_negatif))]
 pencarianKalimatNegatif = [[] for x in range(len(kata_kunci_negatif))]
 
-with open(r"hasil_crawler.txt", 'r', encoding="utf8") as dataFile:
-    dataText = dataFile.read()
-    barisPerSatuKalimat = re.sub(
-            pattern = r"(?is)\n+",
-            repl = ' ',
-            string = dataText)
-    barisPerSatuKalimat = barisPerSatuKalimat.split(". ")
+get_data = open(r'hasil_crawler.txt', 'r', encoding='utf-8')
+
+barisPerSatuKalimat = list(get_data.read().split('\n\n'))
+
+# with open(r"hasil_crawler.txt", 'r', encoding="utf8") as dataFile:
+#     dataText = dataFile.read()
+#     barisPerSatuKalimat = re.sub(
+#             pattern = r"(?is)\n+",
+#             repl = ' ',
+#             string = dataText)
+#     barisPerSatuKalimat = barisPerSatuKalimat.split(". ")
 
 for indexNo, baris in enumerate(barisPerSatuKalimat):
     hanyaKata = re.sub(
         pattern = r"[^\w\s]",
         repl = "",
-        string = baris.upper())
+        string = baris.lower())
     for indexKata, kataNegatif in enumerate(kata_kunci_negatif):
         kataDalamKalimat = hanyaKata.split()
         for kata in kataDalamKalimat:
@@ -34,11 +38,12 @@ for indexNo, baris in enumerate(barisPerSatuKalimat):
     hanyaKata = re.sub(
         pattern = r"[^\w\s]",
         repl = "",
-        string = baris.upper())
+        string = baris.lower())
+    print(kata_kunci_positif)
     for indexKata, kataPositif in enumerate(kata_kunci_positif):
         kataDalamKalimat = hanyaKata.split()
         for kata in kataDalamKalimat:
-            if kata.upper() == kataPositif and indexNo not in pencarianBarisPositif[indexKata]:
+            if kata.lower() == kataPositif and indexNo not in pencarianBarisPositif[indexKata]:
                 pencarianBarisPositif[indexKata].append(indexNo)
                 pencarianKalimatPositif[indexKata].append(baris)
 

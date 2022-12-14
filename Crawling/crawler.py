@@ -12,7 +12,7 @@ key = ['MATA NAJWA', 'Stand Up Comedy', 'indonesia idol', '@OVJ_Trans7', 'YKS', 
 
 with open("hasil_crawler.txt", "w", encoding="utf8") as hasilKeseluruhan:
     for tags in key:
-        print("KEY => PROGRAM TV", file=hasilKeseluruhan)
+        # print("KEY => PROGRAM TV", file=hasilKeseluruhan)
         data = client.search_recent_tweets(query=tags, max_results=100)
         # print(data)
         for tweet in data.data:
@@ -21,10 +21,11 @@ with open("hasil_crawler.txt", "w", encoding="utf8") as hasilKeseluruhan:
                 repl="",
                 string=tweet.text)
             hasilBanyakKata = hasilBanyakKata.lower()
-            print('-----------------------------', file=hasilKeseluruhan)
-            print("Penanda Tweet Seseorang Start", file=hasilKeseluruhan)
-            print('-----------------------------', file=hasilKeseluruhan)
+            # print('-----------------------------', file=hasilKeseluruhan)
+            # print("Penanda Tweet Seseorang Start", file=hasilKeseluruhan)
+            # print('-----------------------------', file=hasilKeseluruhan)
             print(hasilBanyakKata, file=hasilKeseluruhan)
-            print('----------------------------', file=hasilKeseluruhan)
-            print("Penanda Tweet Seseorang Stop", file=hasilKeseluruhan)
-            print('----------------------------\n\n', file=hasilKeseluruhan)
+            # print('----------------------------', file=hasilKeseluruhan)
+            # print("Penanda Tweet Seseorang Stop", file=hasilKeseluruhan)
+            # print('----------------------------\n\n', file=hasilKeseluruhan)
+            print('\n', file=hasilKeseluruhan)

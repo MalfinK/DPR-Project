@@ -1,30 +1,42 @@
 
 Kelompok 	: 5
-Prodi 	: Ilmu komputer
+Prodi 		: Ilmu komputer
     
 Kalimat-Kalimat Negatif
 
 
-- Kalimat dengan kata "ga_seru" ==> 0
+- Kalimat dengan kata "ga seru" ==> 0
 
 
 
-- Kalimat dengan kata "ga_seru" ==> 0
+- Kalimat dengan kata "ga seru" ==> 0
 
 Kalimat-Kalimat Positif
 
 
-- Kalimat dengan kata "bagus" ==> 0
+- Kalimat dengan kata "bagus" ==> 2
+
+1. 
+holabuna setuju jangan buat mereka troma di sentuh2 oleh pihak asinglebih bagus sn pertama ke indonesia  pengawalannya jelasbiarpun berbelok tapi mereka enggak  pengang2 idol
+2. 
+baytzye holabuna tapi enggk harus pegang2 segitunya
+sudah banyak idol kpop datang  ke indonesiatapi mereka enggk seperti itu apa lagi mereka idol cewek
+masih bagus pengamanan sn pertama kali ke indonesiatidak ada 1 pun sekurit disana yg pengang 2 mereka padahal itu sangat padat
 
 
+- Kalimat dengan kata "ngakak" ==> 1
 
-- Kalimat dengan kata "ngakak" ==> 0
-
+1. 
+intakpath ngakak banget anjir gak pindah ke mata kaki aja apa ke mata najwa lmaoaf v
 
 
 - Kalimat dengan kata "ketawa" ==> 0
 
 
 
-- Kalimat dengan kata "lucu" ==> 0
+- Kalimat dengan kata "lucu" ==> 2
 
+1. 
+anisadwila20_ cie lucu bgt kaya stand up comedy 
+2. 
+rt kakdeo stand up comedy harry maguayer ini kenapa lucu sekali  httpstconau1i0j9xm
