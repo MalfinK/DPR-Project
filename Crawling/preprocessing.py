@@ -3,6 +3,7 @@
 import re
 
 def preprocessing(data) :
+    # tokenisasi
     data = data.split()
     # coversi emoticon
     emoticons = { 
@@ -24,10 +25,9 @@ def preprocessing(data) :
             data[i] = 'kecewa'
         elif data[i] in emoticons['suka']:
             data[i] = 'suka'
-            
-    # transform the crawled data to lower case
     temp = []
     for word in data:
+        # transform the crawled data to lower case
         word = word.lower()
         # remove all non-alphanumeric characters
         word = re.sub(r'[^a-z0-9\s]', '', word)
@@ -54,6 +54,20 @@ def preprocessing(data) :
     # stopwords = open('stopwords.txt', 'r').read().split()
     # remove stopwords indonesia language
     data = [word for word in data if word not in stopwords]
-    
-
+    # stemming
+    for i in range(len(data)):
+        # word endwith
+        if data[i].endswith('nya') or data[i].endswith('kah') or data[i].endswith('lah') or data[i].endswith('pun') or data[i].endswith('kan'):
+            data[i] = data[i][:-3]
+        elif data[i].endswith('ku') or data[i].endswith('mu'):
+            data[i] = data[i][:-2]
+        elif data[i].endswith('i'):
+            data[i] = data[i][:-1]
+        # word startwith
+        if data[i].startswith('mem') or data[i].startswith('kan') or data[i].startswith('ter') or data[i].startswith('ber') or data[i].startswith('bel') or data[i].startswith('per') or data[i].startswith('pel'):
+            data[i] = data[i][3:]
+        elif data[i].startswith('me') or data[i].startswith('di') or data[i].startswith('ke') or data[i].startswith('se'):
+            data[i] = data[i][2:]
+        elif data[i].startswith('m'):
+            data[i] = data[i][1:]
     return data

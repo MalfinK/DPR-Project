@@ -42,10 +42,10 @@ for indexNo, baris in enumerate(barisPerSatuKalimat):
 
 with open("hasil_crawler2.txt", "w", encoding="utf8") as hasilKeseluruhan:
     
-    print(f'''
-Kelompok \t: 5
-Prodi \t\t: Ilmu komputer
-    ''', file=hasilKeseluruhan)
+#     print(f'''
+# Kelompok \t: 5
+# Prodi \t\t: Ilmu komputer
+#     ''', file=hasilKeseluruhan)
 
     print("Kalimat-Kalimat Negatif", file=hasilKeseluruhan)
     total = 0   

@@ -1,94 +1,84 @@
-
-Kelompok 	: 5
-Prodi 		: Ilmu komputer
-    
 Kalimat-Kalimat Negatif
 
 
-- Kalimat dengan kata "ga_seru" ==> 22
+- Kalimat dengan kata "ga_seru" ==> 14
 
 1. 
-['awas', 'ga_seru', 'maen', 'nya', 'ketawa']
+['anime', 'in', 'nurut', 'ga_seru', 'tap', 'gambar', 'lucu']
 2. 
-['kalo', 'ga_ngejagoin', 'ga_seru']
+['yah', 'ga_seru', 'lag', 'kalo', 'liat', 'debat', 'fans', 'bang', 'do', 'sama', 'fans', 'ss']
 3. 
-['skysphire', 'ga_seru', 'ya', 'kak', 'ya', 'allah']
+['pantesan', 'nih', 'base', 'p', 'ga_kyk', 'base', 'kampus', 'be', 'yg', 'isi', 'acem2', 'admin', 'ga_seru']
 4. 
-['fyp', 'tiktokku', 'sekarang', 'aga', 'ga_seru', 'banyak', 'foto', 'bergeser', 'itu', 'ama', 'template', 'capcut', 'ini', 'aku', 'doang', 'apa', 'kalian', 'uga']
+['asmanadia', 'amadarling2021', 'jgn', 'lamaan', 'konflik', 'bu', 'ga_seru', 'skrang', 'lag', 'usim', 'yg', 'satset']
 5. 
-['entertainment', 'bener', 'ni', 'buat', 'yg', 'netral', 'tapi', 'klo', 'dsuruh', 'milih', 'ga_seru', 'aja', 'klo', 'prancis', 'juara', 'lg']
+['ga_seru', 'banget', 'pagipag', 'ovt']
 6. 
-['karena', 'ga_seru', 'kalo', 'nonton', 'bola', 'ga_ada', 'yang', 'didukung', 'malem', 'ini', 'dukung', 'prancis', 'ah']
+['box2boxid', 'imakasih', 'ama', 'lautaro', 'bangkalo', 'a', 'ga_buang', 'uang', 'final', 'in', 'ga_seru', 'langsung', 'na', 'ntal', 'france']
 7. 
-['ah', 'ga_seru', 'ternyata', 'tempat', 'nobarnya', 'pake', 'dari', 'yg', 'broadcastnya', 'sctv', 'wkwkwkwk', 'abis', 'makan', 'gw', 'balik', 'aja', 'lah', 'nonton', 'rumah']
+['junaedirudy', 'lalu', 'rama', 'juga', 'ga_seru', 'ga_dapat', 'feel', '', 'dan', 'agak', 'rawan', 'aja']
 8. 
-['geiegar', 'yang', 'dipuji', 'fcnya', 'heh', 'bukan', 'orangnya', 'ga_seru', 'ah']
+['prideuxca', 'a', 'living', 'world', 'aja', 'deh', 'ska', 'ga_seru']
 9. 
-['piala', 'dunia', 'udah', 'ga_seru', 'ujar', 'arekarek', 'wedok', 'yg', 'ikut', 'euforia', 'pildun', 'karna', 'mau', 'liat', 'jungkook', 'opening', 'dan', 'pemain', 'ganteng', 'kyk', 'gavi', 'neymar', 'sama', 'cho', 'sung', 'si', 'nomer', 'yg', 'negaranya', 'udah', 'ga_main']
+['anime', 'in', 'nurut', 'ga_seru', 'tap', 'gambar', 'lucu']
 10. 
-['convomfs', 'kimiaaa', 'apa', 'aja', 'dipelajarin', 'mulai', 'dari', 'biologi', 'kek', 'bener', 'bener', 'rasanya', 'masuk', 'jurusan', 'biologi', 'trs', 'fisika', 'ngukur', 'sutt', 'bener', 'bener', 'merasakan', 'kek', 'anak', 'fisika', 'jg', 'matematika', 'kalkulus', 'hadeh', 'gtw', 'deh', 'ya', 'dan', 'praktikumm', 'yg', 'seruwwwww', 'bgt', 'tp', 'lapraknya', 'yg', 'ga_seru']
+['ga_seru', 'tdur', 'cpet', 'warsoffj']
 11. 
-['sepupu', 'udah', 'balik', 'kampung', 'ga_seru']
+['angiyann', 'piye', 'tetep', 'ga_seru', 'yan', 'wkwkw']
 12. 
-['geiegar', 'ini', 'apa', 'sih', 'ga_sesuai', 'perjanjian', 'ah', 'males', 'banget', 'ga_seru', 'mainnya', 'ew', 'disleeek', 'buat', 'apa', 'bagus', 'diranking', 'tapi', 'mines', 'akhlak', 'nyenye']
+['td', 'udh', 'kyk', 'bodo', 'amat', 'atch', 'ga_seru', 'yg', 'penting', 'argentina', 'nang', 'ehh', 'nit', '80', '81', 'jebolan', 'bappe', 'extra', 'time', 'trs', 'ss', 'ngegoalin', 'a', 'udh', 'yeay', 'tp', 'org', 'ga_bingung', 'itu', 'goal', 'apa', 'engga', 'nyata', 'goal', 'waktu', 'udh', 'au', 'abis', 'eh', 'hand', 'penalty', 'bappe', 'goal']
 13. 
-['hyojungsc', 'nevermore', 'nih', 'bau', 'baunya', 'ga_ribut', 'ga_seru']
+['idextratime', 'bang', 'udah', 'bang', 'udah', 'ga_seru', 'lag', 'debat', 'nang', 'telak']
 14. 
-['ga_seru', 'anjir']
+['jamsjamm', 'ga_seru', 'ga_seru']
+
+
+- Kalimat dengan kata "ga_lucu" ==> 22
+
+1. 
+['rt', 'susuvanillaasl', 'ah', 'balon', 'ga_muncul', 'jad', 'ga_lucu', 'dehh']
+2. 
+['ah', 'balon', 'ga_muncul', 'jad', 'ga_lucu', 'dehh']
+3. 
+['nugarislucu', 'sudah', 'simpulan', 'twit', 'anda', 'kal', 'in', 'ga_lucu', 'posting', 'video', 'yg', 'potong', 'dg', 'caption', 'yg', 'nyesat']
+4. 
+['ribut', '', 'ga_lucu', 'klo', 'bab', 'td', 'padahal', 'dah', 'ijin', 'cemburu', 'sama', 'yg', 'bu', 'siapa', 'anjir']
+5. 
+['jangan', 'dlu', 'neng', 'deh', 'takut', 'kirim', '', 'gua', 'doang', '', 'ga_lucu']
+6. 
+['ga_lucu', '', 'kalo', 'hape', 'ga_bisa', 'nyala']
+7. 
+['convomf', 'wajar', 'atuh', 'takut', 'sangka', 'lu', 'beda', 'planet', '', 'ga_lucu', 'jadi']
+8. 
+['kata', 'belum', 'napa', 'napa', 'nding', 'inum', 'pirantel', 'pamoat', 'kak', 'itu', 'kalo', 'apotek', 'buat', 'dewasa', 'warna', 'masan', 'biru', 'urah', 'kok', 'kak', '', 'ga_lucu', 'at', 'garagara', 'cacingan', 'aduuuuh']
+9. 
+['convomfs', 'hah', 'apaan', 'sih', 'ga_jelas', 'kalo', '', 'canda', 'juga', 'ga_lucu', 'gajelas']
+10. 
+['canda', 'boleh', 'tp', 'please', 'jangan', 'canda', 'soal', 'fisik', 'ga_lucu']
+11. 
+['lag', 'ring', 'pengen', 'iak', 'tetiba', 'deh', 'untung', 'tahan', '', 'ga_lucu', 'lag', 'tor', 'us', 'iak', 'nang']
+12. 
+['tiba', 'tiba', 'sad', 'hour', 'ga_lucu', 's']
+13. 
+['dxew', 'beaccaa', 'jd', 'kalau', 'satu', 'ga_lucu']
+14. 
+['wlfdeersh', 'convomf', 'wkwkw', 'ss', 'ka', 'sama', 'arab', 'aja', 'bacotin', 'ka', 'copa', '2016', 'jadiin', 'e', 'sampe', 'karang', 'dan', 'lo', 'inta', 'respect', 'pa', 'ga_lucu']
 15. 
-['kalo', 'menang', 'messi', 'jadi', 'immortal', 'dong', 'ga_seru', 'ah']
+['dem', 'ga_lucu', 'banget', 'akun', 'ddeongwu131', 'kuuu', 'bisa', 'lamat', 'ga_ya', 'itu', 'akun']
 16. 
-['sefrekuensiiii', 'males', 'ah', 'ga_seru']
+['safii26', 'frostypufff', 'ga_lucu', 'gausah', 'tawa']
 17. 
-['aku', 'werk', 'jadi', 'ga_seru']
+['twittlatihan', 'ridwankamil', 'haha', 'ga_lucu']
 18. 
-['tadi', 'mama', 'minta', 'nonton', 'sayap', 'sayap', 'patah', 'terus', 'denger', 'judulnya', 'langsung', 'yang', 'kaya', 'duh', 'film', 'alay', 'apa', 'lagi', 'coba', 'udah', 'bilang', 'gini', 'itu', 'film', 'apaan', 'ga_semua', 'film', 'ada', 'netflix', 'terus', 'berat', 'hati', 'coba', 'cari', 'sambil', 'nyeletuk', 'film', 'yang', 'ga_seru', 'ga_masuk', 'netflix']
+['fifa', 'becanda', 'ga_lucu', 'fifaworldcupqatar2022', 'argentinavsfrance', 'bappe']
 19. 
-['ga_seru', 'disini', 'seru', 'akun', 'satunya', 'lagi', 'wakak']
+['ak', 'au', 'rjain', 'vcs', 'lo', 'ohon', 'tidor', 'ga_lucu', 'lg', 'buka', 'tete', 'tbtb', 'a', 'lewat']
 20. 
-['rt', 'keripikpotato', 'markhyuck', 'au', 'wherein', 'abang', 'wiuwiunya', 'adek', 'sekarang', 'udah', 'dewasa', 'katanya', 'sih', 'orang', 'dewasa', 'itu', 'ga_seru']
+['rt', 'susuvanillaasl', 'ah', 'balon', 'ga_muncul', 'jad', 'ga_lucu', 'dehh']
 21. 
-['txtdrpemerintah', 'siksa', 'aja', 'dulu', 'jangan', 'langsung', 'tembak', 'mati', 'ga_seru', 'dia', 'aja', 'bisa', 'nyiksa', 'joshua', 'segila', 'itu', 'ga_usah', 'berlindung', 'dg', 'pasal', 'ham', 'ygy', 'ham', 'itu', 'khusus', 'buat', 'manusia']
+['ah', 'balon', 'ga_muncul', 'jad', 'ga_lucu', 'dehh']
 22. 
-['argentina', 'aja', 'lah', 'ya', 'masa', 'iya', 'back', 'to', 'back', 'ga_seru', 'lah32', 'for', 'messi', 'fc']
-
-
-- Kalimat dengan kata "ga_lucu" ==> 17
-
-1. 
-['ga_lucu', 'banget', 'word', 'malem', 'malem']
-2. 
-['argentina', 'kalah', 'besok', 'lo', 'hm', 'ya', 'taruhannya', 'ga_lucu', 'ketawa']
-3. 
-['ga_lucu', 'spotiku', 'bs', 'dibuka']
-4. 
-['ga_lucu', 'gua', 'mau', 'nangis', 'dijalan', 'wkwke']
-5. 
-['rt', 'kqoyo', 'convomf', 'ga_lucu', 'sih', 'jujur']
-6. 
-['rt', 'cursedmie', 'convomf', 'prank', 'lo', 'ga_lucu', 'jujur']
-7. 
-['nieotrai', 'keseringan', 'ya', 'tu', 'meme', 'sebar', 'luas', 'iya', 'aja', 'kalo', 'memenya', 'lucu', 'ini', 'tu', 'ga_lucu', 'sama', 'sekali', 'aneh']
-8. 
-['paling', 'sebel', 'kalau', 'kedinginan', 'nipple', 'kenceng', 'banget', 'kalau', 'keliatan', 'nyeplak', 'kan', 'ga_lucu']
-9. 
-['wahahhaa', 'anjing', 'ga_lucu', 'baru', 'uninstall', 'wa', 'terus', 'pas', 'mau', 'install', 'lagi', 'ngabisa', 'masuk', 'app', 'store']
-10. 
-['convomf', 'tapi', 'emang', 'agak', 'ga_lucu', 'sih', 'jujur', 'kaya', 'orang', 'udah', 'khawatir', 'gataunya', 'cuma', 'prank']
-11. 
-['pacarsayo', 'limbadcerewet', 'maaf', 'ga_lucu']
-12. 
-['sydneyyeay', 'hahshahsh', 'masiiihhhh', 'ih', 'banyak', 'yang', 'berubaahh', 'tauuu', 'aku', 'terakhir', 'kesana', 'aja', 'udah', 'banyak', 'yang', 'diubah', 'kamu', 'tahun', 'berapa', 'deh', 'ituu', 'teeh', 'ga_lucu', 'ini', 'kalo', 'aku', 'sempet', 'jadi', 'adkel', 'kamu']
-13. 
-['roseustulipes', 'ga_lucu']
-14. 
-['enih', 'rambutku', 'udh', 'lucu', 'klo', 'sampe', 'besok', 'dosen', 'nyuruh', 'gelapin', 'ga_lucu', 'sihhh']
-15. 
-['dih', 'ga_lucu']
-16. 
-['ga_lucu', 'ga_jaemin']
-17. 
-['ga_lucu', 'banget', 'word', 'malem', 'malem']
+['nugarislucu', 'sudah', 'simpulan', 'twit', 'anda', 'kal', 'in', 'ga_lucu', 'posting', 'video', 'yg', 'potong', 'dg', 'caption', 'yg', 'nyesat']
 
 
 - Kalimat dengan kata "ga_peduli" ==> 0
@@ -96,784 +86,593 @@ Kalimat-Kalimat Negatif
 Kalimat-Kalimat Positif
 
 
-- Kalimat dengan kata "bagus" ==> 2
+- Kalimat dengan kata "bagus" ==> 3
 
 1. 
-['karna', 'banyak', 'au', 'yoshiden', 'seliweran', 'ditl', 'padahal', 'ga_ngefollow', 'karna', 'au', 'nya', 'seru', 'dan', 'bagus', 'jdi', 'penasaran', 'pengen', 'baca', 'manganya']
+['bintangemon', 'ga_cuman', 'final', '', 'yg', 'bagus', 'opening', '', 'jg', 'bagus', 'nampilin', 'mua', 'askot', 'nyanyiin', 'ost', 'pildun', 'yg', 'populer', 'tandingan', 'babak', 'penyisihan', 'jg', 'ru']
 2. 
-['geiegar', 'ini', 'apa', 'sih', 'ga_sesuai', 'perjanjian', 'ah', 'males', 'banget', 'ga_seru', 'mainnya', 'ew', 'disleeek', 'buat', 'apa', 'bagus', 'diranking', 'tapi', 'mines', 'akhlak', 'nyenye']
-
-
-- Kalimat dengan kata "ngakak" ==> 103
-
-1. 
-['mau', 'ketawa', 'ngakak', 'tiap', 'hari', 'follow', 'nih', 'gt', 'wkwk', '2155', 'wib']
-2. 
-['sebegobegonya', 'temen', 'kadang', 'cuma', 'mereka', 'yang', 'bisa', 'bikin', 'kita', 'ketawa', 'ngakak', 'seakan2', 'ngilangin', 'beban', 'masalah', 'kita']
+['hehejiyuenj', 'adiisantosa', 'nightefold', 'hqsveng', 'idextratime', 'iya', 'udah', 'puas', 'sih', 'final', 'tad', 'ru', 'sama', 'ngotot', 'strateg', 'scalon', 'brilian', 'deschamp', 'juga', 'pu', 'sihir', 'buat', 'prancis', 'luar', 'dar', 'buntuan', 'babak', 'tama', 'apresias', 'buat', 'pemain', 'ancis', 'ga_kepancing', 'ama', 'hal', 'cil', 'yg', 'provok', '22', '', 'tim', 'bagus', 'cara', 'ain', 'ndir']
 3. 
-['ngakak', 'banget', 'nangis', 'ampe', 'ketawa']
+['notebook', 'spiral', 'a5', 'aesthetic', '100', 'halaman', 'bu', 'tulis', 'catatan', 'bookpaper', 'journal', 'jurnal', 'binder', 'ary', 'ko', 'kuliah', 'ring', 'garis', 'polos', 'grid', 'dotted', 'bagus', 'korea', 'besar', 'tebal', 'urah', 'lucu', 'rating', '48', 'cek', 'promo']
+
+
+- Kalimat dengan kata "ngakak" ==> 107
+
+1. 
+['rt', 'haruwoomfs', 'hrjw', 'gemesss', 'banget', 'huhuhu', 'aegyo', 'nyaaa', 'adek', 'sampe', 'tawa', 'ngakak', 'banget', 'liat', 'aegyo', 'kakak']
+2. 
+['rt', 'haruwoomfs', 'hrjw', 'gemesss', 'banget', 'huhuhu', 'aegyo', 'nyaaa', 'adek', 'sampe', 'tawa', 'ngakak', 'banget', 'liat', 'aegyo', 'kakak']
+3. 
+['kop', 'kop', 'apa', 'yang', 'tawa', 'ngakak']
 4. 
-['yakin', 'kakashi', 'dalem', 'hati', 'ketawa', 'ngakak', 'ngeliat', 'ini', 'tiga', 'ktar', 'ktir']
+['rt', 'santtai', 'e', 'lucu', 'receh', 'kocak', 'ngakak', 'dagelan', 'tawa', 'videolucu', 'ngakakkocak']
 5. 
-['mau', 'ketawa', 'ngakak', 'tiap', 'hari', 'follow', 'nih', 'gt', 'wkwk', '2150', 'wib']
+['pu', 'temen', 'yang', 'hobi', 'tawa', 'kitdikit', 'ngakak', 'bah', 'bahasan', 'garing', '', 'a', 'bisa', 'tawa', 'gitu', 'itu', 'enak', 'dih', 'nggak_keliatan']
 6. 
-['soojinweeekly', 'ngakak', 'bgt', 'shsh', 'lucu', 'aaargh', 'aku', 'baikk', 'selalu', 'dibaik2in', 'sebenernyaaa', 'main', 'rp', 'ga_sayangku', 'lt3']
+['gua', 'klo', 'ntn', 'bola', 'ksl', 'pas', 'mainan', '', 'ksl', 'sama', 'rival', 'dll', 'lar', 'tanding', '', 'yauda', 'lar', 'ga_sampe', 'hina', 'sana', 'sn', 'bandingin', 'in', 'itu', 'tp', 'in', 'org', 'org', 'lucu', 's', 'sampe', 'ngolok2', 'bawa2', 'hal', 'pribad', 'pemain', 'bola', 'itu', 'sndr', 'k', 'lo', 'nikmatin', 'mainan', 'bola', '', 'apa', 'gmn', 's', 'ngakak']
 7. 
-['wkwkwk', 'ngakak', 'bgt', 'ketawa']
+['lihat', 'tl', 'ttg', 'final', 'pildun', '2022', 'kal', 'in', 'kok', 'lucu', 'ngakak', 'low', 'd', 'jad', 'satu', 'nang', 'ga_prancis', 'ga_mbappe', 'dan', 'tim', 'ga_kiper', 'argentina', 'ga_mess']
 8. 
-['rt', 'jnjment', 'hai', 'kak', 'minta', 'rekomendasi', 'au', 'nomin', 'yang', 'kocak', 'dan', 'bikin', 'ngakak', 'tralala', 'tapi', 'yang', 'end', 'terimakasih', 'jnjmfic']
+['nctzenbase', 'ahajhahahaj', 'ngakak', 'knceng']
 9. 
-['njaemdep', 'nctzenbase', 'maap', 'ka', 'tapi', 'ngakak']
+['kwkwkwkw', 'ngakak', 'bangsat']
 10. 
-['naoireii', 'ngakak', 'bisa', 'gitu', 'mentangmentang', 'namanya', 'sama', 'rei', 'yah']
+['hahaha', 'ngakak', 'bgt', 'replyan', 'apalag']
 11. 
-['rt', 'lockeypang', 'ngakak', 'nonton', 'ini', 'konten', 'ya', 'walaupun', 'ga_ada', 'subnya', 'tapi', 'ngerti', 'lah', 'dikit', '5ecretnumber', 'secretnumber']
+['aridarariyu', 'ngakak', 'baca', 'nada', 'wkwk']
 12. 
-['ngakak', 'ketawa']
+['rt', 'eskupsyujiem', 'awas', 'ntar', 'ajak', 'duel', 'cheol', 'lag', 'baru', 'tau', 'rasa', 'lu', 'jun', 'tap', 'in', 'ngakak', 'banget', 'bak', 'sampe', 'binggung', 'harus', 'ngadepin', '']
 13. 
-['ketika', 'ibuku', 'merasa', 'si', 'paling', 'tau', 'final', 'pildun', 'dan', 'sama', 'bapakku', 'iyain', 'aja', 'ngakak']
+['ngakak', 'wkwkwk']
 14. 
-['wkwkkwkww', 'anjir', 'lah', 'ngakak']
+['ngakak', 'bgt', 'org', 'org', 'pd', 'ngira', 'julu', 'ss', 'bnrn', 'kambing', 'ih', '', 'greatest', 'of', 'all', 'time', 'yak']
 15. 
-['kan', 'dibawah', 'kalo', 'twt', 'diatas', 'kan', 'jadi', 'binggung', 'disitu', 'masi', 'ngakak', 'dan', 'pura', 'ga_tau', 'maksudnya']
+['rt', 'racoustic', 'kaget', 'dan', 'auto', 'ngakak', '10', 'detik', 'nin', 'yg', 'syahdu', 'in', 'ahahahah']
 16. 
-['tadi', 'iyh', 'tadi', 'kan', 'ada', 'yg', 'ngobrol', 'bahas', 'tweet', 'disitu', 'pura', 'ga_tauu', 'trus', 'ada', 'yg', 'ngomong', 'main', 'twet', 'susah', 'kalo', 'mau', 'komen', 'tempat', 'komenannya', 'diatas', 'trus', 'jabaw', 'hah', 'kok', 'bisa', 'maksutnya', 'suara', 'yg', 'ngakak', 'dan', 'sok', 'ga_tau', 'trus', 'dijelasin', 'lahh', 'iyh', 'kalo', 'fb', 'ig', 'komenannya']
+['ngakak', 'banget']
 17. 
-['blueangle0407', 'nakutin', 'bgt', 'aku', 'ngakak', 'pe', 'nangis2', 'kak']
+['asw', 'ngakak', 'dua', 'in']
 18. 
-['mas', 'said', 'udh', 'foto', 'kirim', 'ke', 'wa', 'ya', 'bos', 'ya', 'allah', 'ngakak', 'bgt', 'pdhl', 'cm', 'foto', 'sekali', 'pas', 'kmrn', 'skrg', 'malah', 'dia', 'fotoin', 'duluan']
+['nctzenbase', 'ngakak', 'wkwk', 'akkeuya']
 19. 
-['ngakak', 'beutt', 'ah']
+['unclejimeng', 'hahahahaha', 'lag', 'soal', 'aneh', 'ngakak']
 20. 
-['bangsattt', 'gw', 'baru', 'tau', 'lagu', 'yg', 'gw', 'nyanyiin', 'ujian', 'peramcis', 'gw', 'tuh', 'lagu', 'kebangsaan', 'perancis', 'hahahahhaah', 'ngakak', 'banget', 'masi', 'apal', 'sampe', 'detik', 'ini', 'bangsatttt', 'this', 'is', 'hilarious']
+['lucbayunugroho', 'jek', 'ngakak', 'bgt', 'dubbing', 'spotlessss']
 21. 
-['archille0511', 'ngakak', 'pliszzzz']
+['zarryhendrik', 'ngakak', 'banget', 'raul', 'lemoos', 'bisabisanyaa', 'tp', 'iya', 'sih', 'emang']
 22. 
-['librranation', 'ngakak', 'ketawa', 'jangan', 'marah2', 'ntar', 'cangtip', 'nya', 'ilang']
+['rt', 'jforjunhw', 'oalaaa', 'beneran', 'astha', 'ya', 'wkwkwk', 'ngakak', 'banget']
 23. 
-['ngakak']
-24. 
-['txtdaribogor', 'sekterahimanget', 'ngakak', 'bancaaat']
-25. 
-['ga_berenti', 'ngomong', 'sendiri', 'dah', 'daritadi', 'sama', 'ngakak', 'aneh', 'sih', 'tapi', 'yauda', 'sokap', 'aja']
-26. 
-['girlgrouparea', 'dia', 'tuh', 'tipe', 'cewekcewek', 'cakep', 'yang', 'kehidupan', 'sehariharinya', 'kayak', 'sitcom', 'ada', 'aja', 'yg', 'bikin', 'ngakak']
-27. 
-['kdramamenfess', 'mr', 'queen', 'asli', 'bikin', 'ngakak', 'banget', 'dan', 'gak_ngebosenin', 'buat', 'ditonton']
-28. 
-['gua', 'msh', 'ngakak', 'pph', 'windah', 'tau', 'innersleeve', 'gua', 'kira', 'tuh', 'doi', 'koleksi', 'nya', 'langsung', 'masuk', 'toplo', 'terus', 'ke', 'binder', 'krn', 'pernah', 'dia', 'ig', 'story', 'kocak', 'bgt', 'pas', 'kmrn', 'amboksing', 'kartu', 'upin', 'ipin', 'dia', 'blg', 'gua', 'gamau', 'grasak', 'grusuk', 'ges', 'soalnya', 'gua', 'kolektor', 'kartu', 'wkwkwkwk', 'anak', 'sbt', 'kah', 'blio']
-29. 
-['euvour', 'ngakak', 'terus', 'gimana']
-30. 
-['kagettt', 'anjir', 'wkwk', 'tp', 'ngakak', 'bgt', 'dah']
-31. 
-['creneaau', 'wkwkwkwk', 'ngakak']
-32. 
-['drama', 'brawl', 'ini', 'alias', 'ngakak', 'bnget', 'anjirrr', 'gabisa', 'main', 'melissa']
-33. 
-['jiseunr', 'ngakak', 'bumbu', 'dapur', 'yah', 'bleh', 'gw', 'kasih', 'tau']
-34. 
-['chogyulate', 'salmonberrypie', 'kochengfs', 'yaallah', 'ak', 'ngakak']
-35. 
-['ngakak', 'bgt', 'ampe', 'mau', 'nangis', 'onlyzeroprivate']
-36. 
 ['rt', 'forrecomd', 'kumpulan', 'chat', 'lucu', 'ojol', 'dan', 'customer', 'bikin', 'ngakak', 'parah', 'thread']
-37. 
-['hiropfumi', 'aaanyooieng', 'ngakak']
-38. 
-['kekwkwkwkwkwkw', 'ngakak', 'kenceng', 'banget']
-39. 
-['rt', 'vkookfess', 'vkf', 'hi', 'gays', 'tolong', 'kasih', 'aku', 'au', 'yang', 'fluf', 'yang', 'bisa', 'balikin', 'mood', 'kita', 'dongyang', 'sama', 'bucin', 'to', 'the', 'boneyang', 'bikin', 'ngakak']
-40. 
-['gua', 'ngakak', 'banget', 'keknya', 'krn', 'gua', 'jaemin', 'kaga', 'ngehomo', 'jadinya', 'dikacangin']
-41. 
-['aduh', 'gw', 'ngik', 'ngik', 'anjer', 'ngakak']
-42. 
-['convomf', 'barusan', 'ikutan', 'ngepreng', 'iyas', 'ngakak']
-43. 
-['cghanbin', 'ngakak', 'idol', 'kerjaan', 'sampingan', 'kajjaa', 'ngebadut']
-44. 
-['meiwu', 'wkwkw', 'ngakak', 'bacanyaa', 'ketawa', 'geli', 'bangettt', 'wahhh', 'samaaa', 'ku', 'jg', 'lg', 'suka', 'ost', 'op', 'red', 'lagu', 'fav', 'aku', 'ini', 'skrg', 'alekun', 'date']
-45. 
-['boolshittt', 'rlgxg', 'please', 'ini', 'aing', 'ngakak', 'bgt']
-46. 
-['ngakak', 'bgt', 'nonton', 'logbook', 'hongjoong', 'yg', 'birthday', 'exhibition', 'doi', 'belom', 'apa2', 'staffnya', 'udh', 'dieval', 'disuruh', 'taro', 'ina', 'itu', 'ketawa']
-47. 
-['mon', 'maaf', 'ni', 'ngakak', 'banget', 'yg', 'sebelah', 'kanannya', 'menghela', 'napas', 'lagi']
-48. 
-['echaniwatteoyo', 'yg', 'editan', 'mahae', 'jg', 'ngakak', 'buatan', 'adel', 'apa', 'ya', 'lupa']
-49. 
-['tinycuppycake', 'iya', 'pasti', 'lo', 'suka', 'yang', 'estetip', 'cottage', 'hijau', 'atau', 'warna', 'pastel', 'gt', 'sist', 'wkwk', 'ngakak', 'gua', 'suka', 'begitu', 'emang', 'karena', 'ap', 'kek', 'kek', 'emang', 'suka', 'bingungan', 'anaknya', 'makanya', 'kudu', 'dinyalain', 'dulu', 'mesinnya']
-50. 
-['unanimous', 'ngakak']
-51. 
-['klo', 'inget', 'ini', 'ngakak', 'bgt', 'ada', 'aja', 'kelakuan', 'wayv', 'indo']
-52. 
-['syalaan', 'ngakak', 'tp', 'emg', 'bener', 'sih']
-53. 
-['mau', 'ketawa', 'ngakak', 'tiap', 'hari', 'follow', 'nih', 'gt', 'wkwk', '2155', 'wib']
-54. 
-['sebegobegonya', 'temen', 'kadang', 'cuma', 'mereka', 'yang', 'bisa', 'bikin', 'kita', 'ketawa', 'ngakak', 'seakan2', 'ngilangin', 'beban', 'masalah', 'kita']
-55. 
-['fitogiwa', 'ngakak']
-56. 
-['ngakak', 'kok', 'bisa', 'anjir', 'hahahah']
-57. 
-['kariyayoo', 'ini', 'ngakak', 'wkwwkw', 'cipungnya', 'ghosting', 'nih']
-58. 
-['zhrnndta', 'ngakak']
-59. 
-['kakaknyasunwoo', 'mmf', 'tpi', 'ak', 'ngakak']
-60. 
-['sagurubby', 'rewatch', 'lahhhh', 'ngakak', 'banget', 'ternyata', 'isinya', 'wkwkwkwk']
-61. 
-['cape', 'bgt', 'ngakak', 'nonton', 'imperfect', 'season']
-62. 
-['nenkmonica2', 'rinteez', 'ketawa', 'ketawa', 'ketawa', 'njrit', 'pingin', 'ngakak', 'wasitnya', 'kna', 'kartu', 'merah']
-63. 
-['luvkminji', 'monminj', 'ngakak']
-64. 
-['jjyounu', 'indomyfess', 'yoongi', 'mamah', 'dan', 'ngakak', 'bgt']
-65. 
-['ngakak', 'carats', 'salfok']
-66. 
-['nctzenbase', 'gini', 'aja', 'ngakak', 'bgtt']
-67. 
-['indonesiamegah', 'dan', 'monyet', 'pun', 'jadi', 'ngakak']
-68. 
-['meiliatashaa', 'riyansupyans', 'wkwkwkwk', 'ngakak', 'jir', 'naha', 'bisa', 'kefikiran', 'ya', 'aing', 'jawab', 'ldr', 'ugm', 'jogja']
-69. 
-['ngakak', 'kenapa', 'sih']
-70. 
-['cghanbin', 'wkwkwkwkw', 'ngakak']
-71. 
-['monminj', 'ngakak', 'bgt', 'tolong']
-72. 
-['ngakak']
-73. 
-['rt', 'gangsalbara', 'ngakak', 'kenapa', 'jadi', 'sales', 'kartu', 'kredit']
-74. 
-['ykbestfriend', 'behavior', 'soalnya', 'aku', 'gitu', 'weh', 'kalo', 'semisal', 'temenku', 'yg', 'canggung', 'parah', 'sama', 'mantannya', 'trus', 'tiba', 'harus', 'interaksi', 'gitu', 'aku', 'pasti', 'bakal', 'ngakak', 'amp', 'ngeledek', 'temenku']
-75. 
-['awokaowk', 'ngakak']
-76. 
-['hahahahaha', 'kumpul', 'kebo', 'maksudnyaaaaaa', 'ngakak', 'bgt']
-77. 
-['dzanipon1005', 'ngakak', 'anjimmm', 'yaudah', 'selow', 'dikit', 'lagi', 'geo', 'aku', 'brb', 'bentar']
-78. 
-['haadiriot', 'maudyayunda', 'ngakak', 'bgsat', 'coookk']
-79. 
-['caratstalk', 'demi', 'gw', 'gapaham', 'tapi', 'tetep', 'ngakak']
-80. 
-['sebattskuy', 'ya', 'abisan', 'ngakak', 'bamget', 'anjie', 'dlu']
-81. 
-['diantharis', 'pas', 'itu', 'banya', 'readyin', 'layout', 'sepanjang', 'sekereta', 'ngakak', 'suka']
-82. 
-['karinayepo', 'ngakak', 'slh', 'gdm']
-83. 
-['rt', 'moviemenfes', 'mvs', 'sinetron', 'apa', 'ini', 'ngakak', 'bgttt']
-84. 
-['ngakak', 'banget', 'nangis', 'ampe', 'ketawa']
-85. 
-['rt', 'txtdrmagelang', 'kangdonatt', 'receinaja', 'ngakak', 'asu']
-86. 
-['gw', 'suka', 'ngakak', 'klo', 'ngeliatin', 'china', 'fansnya', 'krystal', 'weibo', 'random', 'bgt', 'soalnya']
-87. 
-['habisnontonfilm', 'wkwkwkkwwk', 'lewat', 'lagi', 'hih', 'ngakak']
-88. 
-['ngakak']
-89. 
-['bagian', 'lumine', 'itu', 'mau', 'ngasih', 'nama', 'buat', 'wanderer', 'nya', 'ngakak', 'ketawa']
-90. 
-['itspjmwifeu', 'moonjunels', 'maysazahra', 'goldenbaby13', 'urhufflefriend', 'rimamaktabi', 'wkwkkwkwkwkk', 'ngakak']
-91. 
-['bangchnan', 'malah', 'ngakak', 'bener', 'bener', 'ya', 'kecewa']
-92. 
-['perroukok', 'ngerti', 'hahaha', 'ngakak']
-93. 
-['itspjmwifeu', 'yyolala', 'maysazahra', 'goldenbaby13', 'urhufflefriend', 'rimamaktabi', 'wkwkwkwkwkwk', 'gw', 'yg', 'ngetag', 'aja', 'mules', 'ngakak']
-94. 
-['wkwkwkw', 'ngakak', 'banget', 'anjir', 'ini', 'usn', 'doang', 'yang', 'agak', 'rated', 'orang', 'nya', 'mah', 'baik', 'dan', 'suci']
-95. 
-['lilyannefinly', 'ngakak']
-96. 
-['bntr', 'gw', 'ngakak', 'bgt', 'wkwkkwkw']
-97. 
-['hexatera', 'diethingy', 'ngakak', 'anjj', 'wkwkwkwk']
-98. 
-['ngakak']
-99. 
-['jpfbase', 'ngakak', 'liat', 'replyannya']
-100. 
-['szkhxuan', 'lucu', 'soalnya', 'jadi', 'ngakak']
-101. 
-['ngakak']
-102. 
-['vandvonne', 'ngakak', 'kamu', 'download', 'namanya', 'sumone', 'buat', 'countdown', 'hari', 'jadian', 'sama', 'pasangan', 'kamu', 'terus', 'ada', 'pertanyaannya', 'juga', 'tiap', 'hari', 'coba', 'deh', 'download', 'kalau', 'penasaran', 'tapi', 'aku', 'udah', 'main', 'jadi', 'gak_bisa', 'lagi', 'cari', 'pasangan', 'dulu']
-103. 
-['ngakak', 'banget', 'ya', 'allah', 'emak', 'aing', 'mau', 'tidur', 'senam', 'doong', 'buat', 'ngecilin', 'peruut', 'musik', 'nya', 'dj', 'buat', 'dugem', 'lagi', 'xaxaxa']
-
-
-- Kalimat dengan kata "ketawa" ==> 104
-
-1. ['adnandinsky', 'jgn', 'sampe', 'kirim', 'vn', 'ketawa']
-2. 
-['manabannovi', 'gibrantweet', 'ngebuat', 'rakyat', 'ny', 'ketawa']
-3. 
-['tanyakanrl', 'ga_dong', 'harusnya', 'kan', 'itu', 'kebutuhan', 'kita', 'juga', 'tapi', 'emang', 'pernah', 'sih', 'beli', 'pembalut', 'afla', 'dia', 'nawarin', 'plastik', 'tp', 'ga_mau', 'karna', 'mau', 'masukin', 'ke', 'bagasi', 'motor', 'eh', 'dia', 'ketawa', 'itu', 'sepanjang', 'jalan', 'keluar', 'afla', 'liatin', 'orang', 'kek', 'aneh', 'bgt', 'si', 'sm', 'pembalut', 'doang', 'anjir']
-4. 
-['malem', 'ini', 'kebanyakan', 'ketawa', 'semoga', 'besok', 'gapapa']
-5. 
-['rrnsfy', 'siapa', 'yg', 'kalau', 'ketawa', 'matanya', 'ilang']
-6. 
-['minutes', 'into', 'the', 'big', 'dan', 'gw', 'udh', 'ketawa', 'aduh', 'receh', 'bgt', 'emg']
-7. 
-['dunia', 'harusss', 'tau', 'kalo', 'malem', 'ini', 'ortu', 'ku', 'lucu', 'bangett', 'ini', 'aku', 'jadi', 'bahagia', 'lagi', 'ketawa', 'seneng', 'liat', 'pp', 'piu', 'malem', 'ini', 'love', 'pp', 'piuu', 'makasii', 'yaaa', 'udah', 'jadi', 'sumber', 'aku', 'selalu', 'tersenyum', '1990cme', '90st91jae']
-8. 
-['kepalanya', 'diusap', 'sm', 'ngmg', 'lembut', 'abis', 'itu', 'jedotin', 'kali', 'maksudnya', 'ya', 'gamasuk', 'bgt', 'nasehat', 'bgtu', 'hahaha', 'realistis', 'aja', 'suami', 'udh', 'bgtu', 'masa', 'iya', 'makin', 'dilembutin', 'jwb', 'aku', 'sih', 'ya', 'aku', 'lembutin', 'aku', 'bisikin', 'kalo', 'keluarga', 'udh', 'ikhlas', 'trs', 'kt', 'ketawa', 'dan', 'mama', 'blg']
-9. 
-['rt', 'echaniwatteoyo', 'ak', 'receh', 'bgt', 'tiap', 'video', 'ini', 'lewat', 'tl', 'aja', 'mau', 'ketawa']
-10. 
-['hhahaha', 'cape', 'ketawa', 'bgt']
-11. 
-['fak', 'ketawa']
-12. 
-['rt', 'aerilynjc', 'seru', 'banget', 'pada', 'bisa', 'ketawa', 'karena', 'kak', 'ted', 'jawab', 'nyamuk', 'main', 'pasir']
-13. 
-['caratstalk', 'random', 'bgt', 'tapi', 'ketawa', 'bgt', 'pas', 'partnya', 'hao']
-14. 
-['thesttars', 'ndagels', 'gw', 'bacanya', 'sambil', 'ketawa', 'lagi', 'padahal', 'udh', 'sedih', 'tadi']
-15. 
-['jjaykees', 'pls', 'ikut', 'ketawa']
-16. 
-['ketawa', 'aja', 'sama', 'istilah', 'ini']
-17. 
-['mbappe', 'kalo', 'mau', 'ketawa', 'jangan', 'ditahan']
-18. 
-['kisserkook', 'milkynewarchive', 'hahaha', 'milky', 'im', 'tidak_berhenti', 'ketawa']
-19. 
-['wkwkw', 'gakuat', 'ketawa']
-20. 
-['capek', 'ketawa', 'sampe', 'nangis']
-21. 
-['dybala', 'kaya', 'mau', 'ketawa']
-22. 
-['essentiaievil', 'sebenernya', 'udah', 'ketawa', 'karena', 'tweetmu', 'lewat', 'yang', 'ini', 'sama', 'meme', 'yang', 'know', 'other', 'dottore']
-23. 
-['lagi', 'nontonin', 'standupcomedy', 'yt', 'pake', 'tv', 'tiba2', 'bapak', 'nimbrung', 'terus', 'nyeletuk', 'apaan', 'deh', 'ga_ada', 'lucu2nya', 'garame', 'tapi', 'ttep', 'ikut', 'nonton', 'yaallah', 'serius', 'dah', 'itu', 'lagi', 'ketawa', 'kenceng', 'banget', 'langsung', 'ga_mood', 'kek']
 24. 
-['yubaryom', 'astaga', 'ketawa']
+['purple4methyst', 'kakeksk', 'ngakak']
 25. 
-['mau', 'ketawa', 'ngakak', 'tiap', 'hari', 'follow', 'nih', 'gt', 'wkwk', '2155', 'wib']
+['napa', 'kumpulan', 'reels', '', 'pada', 'kambing', 'suka', 'ledekin', 'gt', 's', 'wkwk', 'asem', 'tenan', 'ngakak']
 26. 
-['hiyubyu', 'kokkkkk', 'ketawa']
+['paimonfess', 'ngakak', 'bgt', 'hmpir', 'tahuan', 'iss', 'hina', 'gorou']
 27. 
-['convomfs', 'wkwkwkwk', 'ketawa', 'aja', 'dikit', 'sisa', 'nya', 'nangis']
+['n', 'pag', 'tap', 'ngakak', 'banget', 'ngebaca', 'in', 's', 'black', 'nih', 'gimana', 'ya', 'cara', 'pikir']
 28. 
-['thank', 'you', 'raline', 'thank', 'you', 'for', 'doing', 'your', 'great', 'job', 'makasih', 'pokoknya', 'udah', 'bikin', 'kita', 'ketawa', 'dan', 'ketemu', 'kita', 'semua', 'luv', 'you']
+['rt', 'nct127fess', 'chilzen', 'in', 'jokes', 'apa', 'ya', 'tap', 'a', 'ngakak']
 29. 
-['sebegobegonya', 'temen', 'kadang', 'cuma', 'mereka', 'yang', 'bisa', 'bikin', 'kita', 'ketawa', 'ngakak', 'seakan2', 'ngilangin', 'beban', 'masalah', 'kita']
+['hahahhahaha', 'ngakak', 'bgtt']
 30. 
-['ketawa', 'aja', 'terus', 'kalian', 'puaspuasin']
+['20haee', 'bisa', 'nggk', 'ngakak', 's', 'bazoka', 'tawa']
 31. 
-['treasuremenfess', 'pgn', 'nangis', 'saking', 'keselnya', 'tp', 'pgn', 'ketawa', 'juga', 'wkwkwkwk']
+['littlechixz', 'a', 'ngakak', 'baca', 'binal', 'banget', 'sih', 'baru', 'juga', 'nal']
 32. 
-['ketawa', 'bgt']
+['ngakak', 'banget', 'sama', 'komen']
 33. 
-['parasukcial', 'ayu', 'ketawa', 'dikit', 'gpp', 'gasi']
+['rt', 'haruwoomfs', 'hrjw', 'gemesss', 'banget', 'huhuhu', 'aegyo', 'nyaaa', 'adek', 'sampe', 'tawa', 'ngakak', 'banget', 'liat', 'aegyo', 'kakak']
 34. 
-['seru', 'banget', 'pada', 'bisa', 'ketawa', 'karena', 'kak', 'ted', 'jawab', 'nyamuk', 'main', 'pasir']
+['anggitodo', 'kok', 'ngakak', 'sih']
 35. 
-['ketawa', 'bgt']
-36. 
-['elvinastanleeey', 'hahaha', 'hanya', 'mampu', 'ketawa']
-37. 
-['lagi', 'deep', 'talk', 'sama', 'dekur', 'perkara', 'gua', 'bln', 'dpn', 'jd', 'pengangguran', 'udah', 'nangis', 'ingus', 'meler', 'tiba2', 'dia', 'blg', 'maap', 'aku', 'mules', 'bentar', 'ya', 'kamu', 'kuat', 'ko', 'semangat', 'semangat', 'trs', 'ngibrit', 'ke', 'kamar', 'mandi', 'kekkkkkk', 'anjirrr', 'pen', 'ketawa', 'bgt', 'tp', 'lg', 'sedih', 'tu', 'gmn']
-38. 
-['convomfs', 'miss', 'my', 'dad', 'my', 'lovely', 'dad', 'partner', 'sepedahan', 'partner', 'jalan', 'jalan', 'suka', 'ketawa', 'copyannya', 'aku', 'bgt', 'hihi', 'untungnya', 'ada', 'banyak', 'video', 'amp', 'voice', 'note', 'bareng', 'bapakal', 'fatihah']
-39. 
-['sabx89a', 'red', 'blue', 'green', 'buat', 'bang', 'ikan', 'maaf', 'bang', 'tapi', 'setiap', 'anda', 'terpicu', 'saya', 'ketawa']
-40. 
-['heryidris5', 'begitulah', 'gayanya', 'tapi', 'lumayan', 'buat', 'hiburan', 'gratis', 'bikin', 'ketawa']
-41. 
-['hilmia0123', 'dumay', 'hanya', 'hiburan', 'aja', 'dikala', 'kita', 'lelah', 'nyari', 'temen2', 'yg', 'lucu2', 'yg', 'bisa', 'bikin', 'ketawa', 'ajalah', 'ga_perlu', 'heboh', 'dan', 'ngejar', 'pengakuan', 'sampe', 'hujat2an', 'ketawa', 'merasa', 'paling', 'hebat', 'dan', 'merendahkan', 'temen', 'sebarisan']
-42. 
-['heeanqwy', 'ketawa', 'banget']
-43. 
-['rt', 'kishibeyum', 'yoshiden', 'onetweet', 'au', 'garing', 'tp', 'klo', 'denji', 'yg', 'buat', 'jokes', 'nya', 'yoshida', 'pasti', 'ketawa', 'cw', 'harshword']
-44. 
-['capek', 'ketawa', 'karna', 'sukebak']
-45. 
-['aku', 'lumayan', 'lama', 'jadi', 'penikmat', 'kdrama', 'tapi', 'beneran', 'ngga', 'pernah', 'sampe', 'segininya', 'sampe', 'ngerasa', 'sesayang', 'ini', 'sama', 'sebuah', 'drama', 'dibikin', 'takut', 'nangis', 'ketawa', 'linglung', 'terharu', 'sampe', 'baper', 'kupukupu', 'snowdrop', 'doang', 'emang']
-46. 
-['hanarchive', 'wkwkwk', 'duhh', 'sori', 'ga_tau', 'lagi', 'maskeran', 'tt', 'ketawa', 'ajh', 'plis', 'ak', 'dah', 'brusaha', 'menghiburmu', 'ciaa']
-47. 
-['mingyukcm', 'ketawa', 'bikin', 'caption', 'upchar', 'itu', 'udah', 'effort', 'banget', 'yaa', 'kak']
-48. 
-['ngakak', 'banget', 'nangis', 'ampe', 'ketawa']
-49. 
-['wkwkw', 'aduh', 'anj', 'ketawa', 'banget']
-50. 
-['antara', 'pengen', 'ketawa', 'sama', 'nangis', 'degan', 'banget']
-51. 
-['rt', 'askrlfess', 'askrl', 'ketawa', 'bangett']
-52. 
-['orangbiasamales', 'cewek2nya', 'ngempet', 'ketawa', 'sumpah']
-53. 
-['katzuwha', 'wkwkkwkw', 'kok', 'ketawa', 'ya', 'baca', 'ini']
-54. 
-['sedih', 'tapi', 'ketawa']
-55. 
-['rt', 'wayvfess', 'wayzenni', 'dia', 'itu', 'keliatan', 'banget', 'orang', 'baik', 'ya', 'apalagi', 'kalo', 'dia', 'ketawa', 'kaya', 'yg', 'tulus', 'bangett', 'liat', 'dia', 'waktu', 'rookie', 'bener']
-56. 
-['depannya', 'aja', 'ketawa', 'padahal', 'mah', 'dalem', 'hati']
-57. 
-['bucintaimu', 'ingga', 'jgn', 'malu', 'maluin', 'wkwkwk', 'ketawa', 'bgt', 'gueee']
-58. 
-['rt', 'starfess', 'base', 'sender', 'ketawa', 'banget', 'tiap', 'liat', 'pict', 'ini', 'jadi', 'jun', 'baju', 'biru', 'ngiranya', 'joshua', 'baju', 'coklat', 'itu', 'mau', 'banjur', 'dirinya', 'send']
-59. 
-['ernestprakasa', 'ekpektasi', 'pelanggan', 'tu', 'dimarahin', 'lucu', 'dan', 'ketawa', 'tapi', 'ternyata', 'gak_sesuai', 'ekspektasi', 'haha']
-60. 
-['ketawa', 'sama', 'reaksi', 'nctzen', 'when', 'they', 'dont', 'know', 'how', 'uls', 'works']
-61. 
-['caratstalk', 'sumpah', 'baru', 'nonton', 'ini', 'tadi', 'pagi', 'dannn', 'lgsg', 'mikir', 'ini', 'mah', 'srimulat', 'anjerr', 'beneran', 'pelawak', 'mereka', 'ketawa', 'muluuu', 'tiap', 'menit', 'wkwkwk', 'pembawaannya', 'pada', 'dapet', 'bgt', 'keren', 'dah']
-62. 
-['weirdookidz', 'lu', 'ngerti', 'ga_definisi', 'lu', 'lagi', 'sedih', 'tp', 'ketawa']
-63. 
-['ak', 'receh', 'bgt', 'tiap', 'video', 'ini', 'lewat', 'tl', 'aja', 'mau', 'ketawa']
-64. 
-['lucu', 'mah', 'harusnya', 'ketawa', 'yak', 'kok', 'jd', 'sayang']
-65. 
-['ngga', 'kuat', 'ketawa', 'lucu', 'banget']
-66. 
-['isabellendul', 'minjindul', 'seohamndul', 'haechanndul', 'ketawa', 'bgt', 'wkwk', 'ko', 'yg', 'semangat']
-67. 
-['ciyumdlu', 'kwkwkwkwkkdkekskdjekajjsjs', 'geblek', 'gw', 'ketawa', 'kerqs']
-68. 
-['jjongvitamin', 'ketawa', 'dalam', 'course', 'filem', 'video']
-69. 
-['mikiiimikuu', 'wkwkwkw', 'maaf', 'ketawa', 'tp', 'lucu', 'bangettttt', 'kalo', 'ngetweet', 'ginian']
-70. 
-['irene5am', 'jgn', 'ketawa', 'km', 'irene', 'bae']
-71. 
-['ilhamprim', 'ketawa', 'se', 'geng']
-72. 
-['apa', 'sii', 'ketawa', 'banget', 'heeseung', 'gw', 'yaampun']
-73. 
-['mau', 'ketawa', 'how', 'worry', 'we', 'are', 'about', 'the', 'charts', 'but', 'thats', 'the', 'fun', 'in', 'fangirlingfanboying', 'tho', 'thats', 'the', 'thrill']
-74. 
-['ruangkeiuh', 'lu', 'kalo', 'gua', 'lempar', 'batu', 'ketawa', 'kh']
-75. 
-['rt', 'ditakaaar', 'pada', 'ngerti', 'ngomong', 'apa', 'dih', 'nanya', 'kalian', 'ketawa', 'aja', 'kita', 'ketawa', 'ngerti', 'kagaaaaaaaaaaaa']
-76. 
-['yakin', 'kakashi', 'dalem', 'hati', 'ketawa', 'ngakak', 'ngeliat', 'ini', 'tiga', 'ktar', 'ktir']
-77. 
-['ketawa', 'banget']
-78. 
-['ketawa', 'bgt', 'ruto', 'es', 'wawan', 'wkwk', 'beneran', 'mirip', 'es', 'wawan']
-79. 
-['salah', 'satu', 'hal', 'tersedih', 'ketika', 'keadaan', 'udah', 'gak_baik', 'baik', 'aja', 'liat', 'mereka', 'bukannya', 'ketawa', 'tapi', 'malah', 'nangis', 'emang', 'bener', 'ya', 'pada', 'akhirnya', 'yang', 'ninggalin', 'perlahan', 'itu', 'bukan', 'mereka', 'tapi', 'diri', 'ini', 'sendiri', 'yang', 'menjauh', 'peluk', 'aku', 'sekali', 'lagi', 'please']
-80. 
-['nerofortes', 'seungmodar', 'bruakakakakaka', 'ketawa', 'kenceng', 'semangat', 'pejuang', 'hts', 'bang', 'gigi']
-81. 
-['convomfs', 'baca', 'beginian', 'bukannya', 'aku', 'takut', 'malah', 'ketawa', 'wkwk']
-82. 
-['no', 'sooil', 'laughter', 'kamu', 'lucuuu', 'harusnya', 'aku', 'ketawa', 'tapi', 'kenapa', 'aku', 'malah', 'jatuh', 'cinta']
-83. 
-['nctzenbase', 'ketawa', 'bgt', 'jing']
-84. 
-['stressdep', 'malah', 'ketawa', 'anjir', 'lu', 'ngomong', 'apa', 'itu', 'tbtb', 'warung', 'madura']
-85. 
-['lebih', 'banyak', 'ketawa', 'bahagianya', 'bukan', 'ketawa', 'purapura']
-86. 
-['rjnfxx', '248kai', 'numpang', 'ketawa', 'maaf']
-87. 
-['mau', 'ketawa', 'ngakak', 'tiap', 'hari', 'follow', 'nih', 'gt', 'wkwk', '2150', 'wib']
-88. 
-['strneus', 'ketawa', 'bgt']
-89. 
-['gini', 'aja', 'ketawa', 'babii']
-90. 
-['argentina', 'kalah', 'besok', 'lo', 'hm', 'ya', 'taruhannya', 'ga_lucu', 'ketawa']
-91. 
-['joonytaa', 'lah', 'foto', 'yg', 'itu', 'kah', 'yg', 'lagi', 'diacara', 'amerika', 'tu', 'itu', 'kan', 'tempat', 'yg', 'emg', 'dibolehin', 'ngerokok', 'lucu', 'juga', 'kita', 'yg', 'army', 'aja', 'ga_nyimpen', 'fotonya', 'krna', 'kyk', 'foto', 'dari', 'sasaeng', 'kok', 'malah', 'fandom', 'lain', 'yg', 'nyimpen', 'ketawa']
-92. 
-['wkwkwk', 'ngakak', 'bgt', 'ketawa']
-93. 
-['ngakak', 'ketawa']
-94. 
-['librranation', 'ngakak', 'ketawa', 'jangan', 'marah2', 'ntar', 'cangtip', 'nya', 'ilang']
-95. 
-['meiwu', 'wkwkw', 'ngakak', 'bacanyaa', 'ketawa', 'geli', 'bangettt', 'wahhh', 'samaaa', 'ku', 'jg', 'lg', 'suka', 'ost', 'op', 'red', 'lagu', 'fav', 'aku', 'ini', 'skrg', 'alekun', 'date']
-96. 
-['ngakak', 'bgt', 'nonton', 'logbook', 'hongjoong', 'yg', 'birthday', 'exhibition', 'doi', 'belom', 'apa2', 'staffnya', 'udh', 'dieval', 'disuruh', 'taro', 'ina', 'itu', 'ketawa']
-97. 
-['mau', 'ketawa', 'ngakak', 'tiap', 'hari', 'follow', 'nih', 'gt', 'wkwk', '2155', 'wib']
-98. 
-['sebegobegonya', 'temen', 'kadang', 'cuma', 'mereka', 'yang', 'bisa', 'bikin', 'kita', 'ketawa', 'ngakak', 'seakan2', 'ngilangin', 'beban', 'masalah', 'kita']
-99. 
-['nenkmonica2', 'rinteez', 'ketawa', 'ketawa', 'ketawa', 'njrit', 'pingin', 'ngakak', 'wasitnya', 'kna', 'kartu', 'merah']
-100. 
-['ngakak', 'banget', 'nangis', 'ampe', 'ketawa']
-101. 
-['bagian', 'lumine', 'itu', 'mau', 'ngasih', 'nama', 'buat', 'wanderer', 'nya', 'ngakak', 'ketawa']
-102. 
-['awas', 'ga_seru', 'maen', 'nya', 'ketawa']
-103. 
-['ketawa', 'maria', 'nomor', 'punggungnya', '11', 'dan', 'angka', 'favorit', '11', 'nama', 'mariah', 'wkwkwk', 'fakta', 'lucu']
-104. 
-['dunia', 'harusss', 'tau', 'kalo', 'malem', 'ini', 'ortu', 'ku', 'lucu', 'bangett', 'ini', 'aku', 'jadi', 'bahagia', 'lagi', 'ketawa', 'seneng', 'liat', 'pp', 'piu', 'malem', 'ini', 'love', 'pp', 'piuu', 'makasii', 'yaaa', 'udah', 'jadi', 'sumber', 'aku', 'selalu', 'tersenyum', '1990cme', '90st91jae']
-
-
-- Kalimat dengan kata "lucu" ==> 175
-
-1. 
-['dunia', 'harusss', 'tau', 'kalo', 'malem', 'ini', 'ortu', 'ku', 'lucu', 'bangett', 'ini', 'aku', 'jadi', 'bahagia', 'lagi', 'ketawa', 'seneng', 'liat', 'pp', 'piu', 'malem', 'ini', 'love', 'pp', 'piuu', 'makasii', 'yaaa', 'udah', 'jadi', 'sumber', 'aku', 'selalu', 'tersenyum', '1990cme', '90st91jae']
-2. 
-['ernestprakasa', 'ekpektasi', 'pelanggan', 'tu', 'dimarahin', 'lucu', 'dan', 'ketawa', 'tapi', 'ternyata', 'gak_sesuai', 'ekspektasi', 'haha']
-3. 
-['lucu', 'mah', 'harusnya', 'ketawa', 'yak', 'kok', 'jd', 'sayang']
-4. 
-['ngga', 'kuat', 'ketawa', 'lucu', 'banget']
-5. 
-['mikiiimikuu', 'wkwkwkw', 'maaf', 'ketawa', 'tp', 'lucu', 'bangettttt', 'kalo', 'ngetweet', 'ginian']
-6. 
-['universqe', 'lucu', 'tapi', 'ga_gemez', 'aja', 'ya', 'mending', 'ini', 'daripada', 'yg', 'bawah', 'tadi', 'malah', 'pawang', 'monyet']
-7. 
-['orang', 'udah', 'punya', 'pacar', 'tapi', 'ga_bisa', 'tegas', 'ke', 'cewe', 'lain', 'aja', 'udah', 'aneh', 'pun', 'ke', 'orang', 'yg', 'mau', 'jodohin', 'ga_mau', 'pisah', 'tapi', 'mau', 'sama', 'cewe', 'lain', 'wkwk', 'giliran', 'bereaksi', 'malah', 'playing', 'victim', 'lucu', 'memang']
-8. 
-['rt', 'moanamenfess', 'photobook', 'txt', 'kenapa', 'lucu', 'banget', 'ya', 'sender', 'ga_nyesel', 'bellii', 'album', 'mereka', 'soalnya', 'konsepnya', 'selalu', 'cakepp']
-9. 
-['hichol', 'aku', 'hichol', 'mah', 'cakep', 'yak', 'make', 'kaos', 'muka', 'sendiri', 'wkwkk', 'dan', 'jatohnya', 'lucu', 'lah', 'aku', 'bikin', 'begini', 'anjir', '2019', 'kehilangan', 'akal', 'sehat', 'sampe', 'sekarang', 'sih', 'klo', 'aku', 'ga_ada', 'yg', 'mau', 'ga_ya', 'wkwkwk', 'lumayan', 'buat', 'keset', 'rumah', 'injek2nya', 'pas', 'muka', 'aku']
-10. 
-['rt', 'ccxkhai', 'disini', 'tuh', 'lucu', 'bgt', 'member', 'pada', 'keluar', 'satu2', 'cakep2', 'bgt', 'trus', 'tiap', 'keluar', 'pada', 'histeris', 'kasian', 'fiki', 'ngomongnya', 'ga_sel']
-11. 
-['bangun', 'tidur', 'buka', 'hp', 'liat', 'ada', 'notif', 'eh', 'ada', 'anak', 'ganteng', 'update', 'ternyata', 'melihatlihat', 'isi', 'postingan', 'apasih', 'kok', 'lucu', 'banget', 'kamu', 'jaemin', 'jangan', 'luculucu', 'kalo', 'ga_jadi', 'pacarku']
-12. 
-['matapandaan', 'mohon', 'maaf', 'ak', 'ga_bisa', 'bantu', 'karna', 'iniii', 'gw', 'jga', 'bingung', 'bgt', 'lucu', 'semuaa']
-13. 
-['bisa', 'stop', 'lucu', 'ga']
-14. 
-['txtdariminjeong', 'ga_aegyo', 'jg', 'lucu', 'btw', 'bales', 'wa', 'kak']
-15. 
-['liivesoftoys', 'lucu', 'bangeeeet', 'kak', 'bara', 'ayo', 'verifaaaan', 'ga_sabar']
-16. 
-['menjelaskan', 'kalau', 'itu', 'lagunya', 'mbak', 'taeyeon', 'tapi', 'dia', 'cuma', 'oh', 'doang', 'dan', '12minggu', 'kemudian', 'abangku', 'pansos', 'gt', 'dengerin', 'lagu', 'kpop', 'lebih', 'tepatnya', 'twice', 'tapi', 'ga_sampai', 'ngestan', 'cuma', 'pansos', 'doang', 'kalau', 'inget', 'inget', 'lucu', 'soalnya', 'ni', 'anak', 'waktu', 'pansos', 'mukanya']
-17. 
-['lucu', 'padahal', 'ga_salah', 'dia']
-18. 
-['temen', 'lama', 'live', 'trs', 'tiba2', 'nyapa', 'pake', 'nama', 'panggilan', 'kita', 'dulu', 'lucu', 'banget', 'padahal', 'tahun', 'ga_pernah', 'ketemu', 'lagi', 'lost', 'contact', 'tapi', 'inget']
-19. 
-['siluetfrasa', 'lucu', 'ya', 'liat', 'orang', 'bucin', 'tapi', 'pernah', 'ga_si', 'lu', 'dibucinin']
-20. 
-['rt', 'kkummambam', 'lucu', 'bgt', 'ini', 'mereka', 'kyk', 'main', 'telepathy', 'gt', 'ya', 'terus', 'vocal', 'team', 'ga_janjian', 'semuanya', 'pose', 'peace', 'terus', 'diprotes', 'kan', 'itu']
-21. 
-['nieotrai', 'keseringan', 'ya', 'tu', 'meme', 'sebar', 'luas', 'iya', 'aja', 'kalo', 'memenya', 'lucu', 'ini', 'tu', 'ga_lucu', 'sama', 'sekali', 'aneh']
-22. 
-['trouvaullie', 'ga_bosen', 'apa', 'lucu', 'mulu', 'prim']
-23. 
-['rt', 'kkummambam', 'lucu', 'bgt', 'ini', 'mereka', 'kyk', 'main', 'telepathy', 'gt', 'ya', 'terus', 'vocal', 'team', 'ga_janjian', 'semuanya', 'pose', 'peace', 'terus', 'diprotes', 'kan', 'itu']
-24. 
-['rt', 'kkummambam', 'lucu', 'bgt', 'ini', 'mereka', 'kyk', 'main', 'telepathy', 'gt', 'ya', 'terus', 'vocal', 'team', 'ga_janjian', 'semuanya', 'pose', 'peace', 'terus', 'diprotes', 'kan', 'itu']
-25. 
-['demenredono', 'lucu', 'loh', 'mba', 'kadang', 'kalau', 'pd', 'mau', 'pake', 'nalar', 'seeutik', 'bae', 'ga_akan', 'dah', 'sampe', 'sejauh', 'itu', 'tapi', 'dipikir2', 'ya', 'udah', 'mungkin', 'kalau', 'ngak', 'hate', 'ke', 'shk', 'ga_ada', 'hiburan']
-26. 
-['wkwkwk', 'lucu', 'bgt', 'kemaren', 'maknya', 'cessna', 'kan', 'live', 'ig', 'trs', 'ama', 'maknya', 'cessna', 'blgin', 'cess', 'gendutan', 'kan', 'eh', 'anaknya', 'marah', 'dblg', 'gendut', 'lgsg', 'mukul', 'maknya', 'smg', 'pukul', 'aja', 'ga_dicakar', 'atau', 'digigit', 'tp', 'tu', 'apwakwoakwosj', 'bgt', 'si']
-27. 
-['gatau', 'ngasal', 'aja', 'escekek2k', 'lucu', 'ga_si', 'usnq', 'slalu', 'berbau', 'makanan']
-28. 
-['lucu', 'tapi', 'yang', 'paling', 'bawah', 'ga_bener']
-29. 
-['rt', 'ofheejinc', 'hai', 'kamu', 'selamat', 'atas', 'comeback', 'nya', 'ya', 'ga_tau', 'kamu', 'keren', 'lucu', 'dan', 'manis', 'manis', 'pake', 'banget', 'sukses', 'terus', 'halusinasxi']
-30. 
-['rt', 'eisyeci7', 'ga_pernah', 'sama', 'sekali', 'kepikiran', 'orang', 'koreaamerika', 'ngajarin', 'bahasa', 'indonesia', 'ke', 'orang', 'korea', 'ini', 'konten', 'lucu', 'banget']
-31. 
-['rt', 'kkummambam', 'lucu', 'bgt', 'ini', 'mereka', 'kyk', 'main', 'telepathy', 'gt', 'ya', 'terus', 'vocal', 'team', 'ga_janjian', 'semuanya', 'pose', 'peace', 'terus', 'diprotes', 'kan', 'itu']
-32. 
-['feuliciti', 'padahal', 'ga_galak', 'ya', 'ji', 'malah', 'lucu']
-33. 
-['2023', 'punya', 'kucing', 'lucu', 'super', 'lucu', 'mbul', 'kesampean', 'ga_ya']
-34. 
-['semieiita', 'gw', 'nanyain', 'elu', 'karena', 'nyari', 'bangku', 'kosong', 'ga_sih', 'waktu', 'itu', 'terus', 'elu', 'iyain', 'aja', 'gw', 'cuma', 'mikirnya', 'lucu', 'chairmateku', 'kayak', 'anak', 'sd', 'beneran', 'ini', 'ga_boong']
-35. 
-['apalagi', 'kamu', 'keren', 'kadang', 'kadang', 'ga_sih', 'terus', 'kamu', 'lucu', 'kok', 'bisa', 'ya', 'kakak', 'melawak', 'gitu', 'kayak', 'biasa', 'aja', 'tapi', 'kok', 'bisa', 'lucu', 'hahahay', 'ajarin', 'aku', 'jadi', 'pelawak', 'senang', 'aku', 'mau', 'menghibur', 'orang', 'orang', 'juga', 'oke', 'aku', 'udah', 'gatau', 'mau', 'bilang', 'apalagi', 'kakak', 'semoga', 'baik', 'ya']
-36. 
-['hai', 'kamu', 'selamat', 'atas', 'comeback', 'nya', 'ya', 'ga_tau', 'kamu', 'keren', 'lucu', 'dan', 'manis', 'manis', 'pake', 'banget', 'sukses', 'terus', 'halusinasxi', 'nctdreamcandy']
-37. 
-['tanyakanrl', 'enaakkkk', 'bgttt', 'apa', 'lagi', 'buat', 'pergi', 'konser', 'pas', 'haid', 'hari', 'ga_bakal', 'bocor', 'juga', 'dan', 'lucu', 'warna', 'nya', 'pink', 'make', 'nya', 'ngga', 'bakal', 'bingung', 'bcs', 'ada', 'tulisan', 'nya', 'cmn', 'butuh', 'effort', 'pas', 'nyuci', 'nya', 'kya', 'nyuci', 'pampers', 'wkwk']
-38. 
-['soojinweeekly', 'ngakak', 'bgt', 'shsh', 'lucu', 'aaargh', 'aku', 'baikk', 'selalu', 'dibaik2in', 'sebenernyaaa', 'main', 'rp', 'ga_sayangku', 'lt3']
-39. 
-['planet', 'jupiter', 'lucu', 'banget', 'ga_si', 'oowhskshsksbs', 'mau', 'gua', 'nikahin', 'anjrit', 'anjrit', 'love', 'youuu']
-40. 
-['pildun', 'date', 'lucu', 'ga_si']
-41. 
-['rt', 'kkummambam', 'lucu', 'bgt', 'ini', 'mereka', 'kyk', 'main', 'telepathy', 'gt', 'ya', 'terus', 'vocal', 'team', 'ga_janjian', 'semuanya', 'pose', 'peace', 'terus', 'diprotes', 'kan', 'itu']
-42. 
-['rt', 'convomf', 'liat', 'siapa', 'yang', 'pagi', 'pagi', 'mayah', 'soalnya', 'ga_dapet', 'cium', 'lucu', 'banget', 'pacarku', 'mau', 'ku', 'pamerin', 'aja', 'rasanya', 'biar', 'dunia', 'tau', 'pacarku']
-43. 
-['rt', 'ofheejinc', 'hai', 'kalian', 'selamat', 'atas', 'comeback', 'nya', 'ya', 'ga_tau', 'kalian', 'keren', 'lucu', 'dan', 'manis', 'manis', 'pake', 'banget', 'sukses', 'terus', 'jaemlnoo']
-44. 
-['tanyakanrl', 'benerbener', 'cantik', 'lucu', 'gitulhoh', 'ngerti', 'gasih', 'diliat', 'dari', 'sisi', 'manapun', 'ga_ngebosenin', 'pas', 'makan', 'lucu', 'kl', 'ngomong', 'jg', 'lucu', 'santai', 'bgt', 'orgnya', 'cantik', 'bgt', 'deh', 'udh', 'pokoknya', 'mama', 'gigi']
-45. 
-['boticious', 'centcious', 'lucu', 'banget', 'ga_kuat']
-46. 
-['telat', 'yg', 'penting', 'lunas', 'noel', 'itu', 'kadang', 'ngeselin', 'jamet', 'tp', 'bisa', 'lucu', 'jg', 'wkwk', 'dia', 'kocak', 'dah', 'smpe', 'bsa', 'bkin', 'gua', 'cekikikan', 'humble', 'friendly', 'jg', 'nih', 'kyk', 'polos', 'pdhl', 'mah', 'ga_gua', 'rasa', 'dah', 'ya', 'bocah']
-47. 
-['rt', 'eisyeci7', 'ga_pernah', 'sama', 'sekali', 'kepikiran', 'orang', 'koreaamerika', 'ngajarin', 'bahasa', 'indonesia', 'ke', 'orang', 'korea', 'ini', 'konten', 'lucu', 'banget']
-48. 
-['hai', 'kalian', 'selamat', 'atas', 'comeback', 'nya', 'ya', 'ga_tau', 'kalian', 'keren', 'lucu', 'dan', 'manis', 'manis', 'pake', 'banget', 'sukses', 'terus', 'jaemlnoo', 'jaeminou', 'clozfer', 'therenjuin', 'nctreinjun', 'xrenjan', 'hoaecan', 'douvnghyuck', 'haechban', 'leheachan', 'sxuperhero', 'mlarkiee', 'maarkvee', 'nctdreamcandy']
-49. 
-['joonytaa', 'lah', 'foto', 'yg', 'itu', 'kah', 'yg', 'lagi', 'diacara', 'amerika', 'tu', 'itu', 'kan', 'tempat', 'yg', 'emg', 'dibolehin', 'ngerokok', 'lucu', 'juga', 'kita', 'yg', 'army', 'aja', 'ga_nyimpen', 'fotonya', 'krna', 'kyk', 'foto', 'dari', 'sasaeng', 'kok', 'malah', 'fandom', 'lain', 'yg', 'nyimpen', 'ketawa']
-50. 
-['hahaha', 'cape', 'banget', 'temen', 'ak', 'nonton', 'connect', 'duluan', 'baru', 'mau', 'ngepoin', 'dia', 'terus', 'ak', 'kasih', 'tau', 'project', 'dia', 'yang', 'lain', 'eh', 'malah', 'ga_percaya', 'dong', 'kalo', 'ni', 'orang', 'sebenernya', 'emang', 'lucu', 'dan', 'fit', 'banget', 'genre', 'komedi']
-51. 
-['enih', 'rambutku', 'udh', 'lucu', 'klo', 'sampe', 'besok', 'dosen', 'nyuruh', 'gelapin', 'ga_lucu', 'sihhh']
-52. 
-['rt', 'cabeelawit', 'sayang', 'ayang', 'sayangku', 'iya', 'cintaku', 'cewe', 'lucu', 'banget', 'anjing', 'beeboo', 'bub', 'bayii', 'caca', 'bayiii', 'kamu', 'bayi', 'ban']
-53. 
-['omg', 'guys', 'just', 'cut', 'my', 'hair', 'ga_sengaja', 'depannya', 'kependekan', 'jadi', 'curtain', 'bangsuntung', 'lucu']
-54. 
-['kalo', 'anak', 'kelas', 'smp', 'umuran', 'berapa', 'dah', 'demi', 'allah', 'ini', 'anak', 'cakep', 'banget', 'alus', 'lucu', 'kalem', 'mas', 'tungguin', 'sampe', 'kamu', 's1', 'kok', 'tenang', 'kamu', 'tau', 'ga_sih', 'kamu', 'kalo', 'udah', 'gede', 'pasti', 'cantik', 'banget', 'mas', 'rela', 'sabetsabetan', 'sama', 'ken', 'arok', 'kalo', 'buat', 'dapetin', 'kamu', 'mah']
-55. 
-['rt', 'foodfess2', 'gapernah', 'beli', 'bakpia', 'kering', 'tapi', 'ini', 'enak', 'banget', 'isiannya', 'full', 'gitu', 'ga_pelit', 'packagingnya', 'lucu', 'fess']
-56. 
-['vinandanf', 'moviemenfes', 'njir', 'ni', 'film', 'kroco', 'mba', 'klo', 'dibandingin', 'dngn', 'film', 'hollywood', 'lainny', 'dn', 'plot', 'twist', 'ny', 'ga_yang', 'ngena', 'banget', 'kaya', 'cuma', 'oh', 'gtu', 'doang', 'lucu', 'si', 'tweet', 'lu']
-57. 
-['rt', 'convomfs', 'gaiiis', 'kalian', 'punya', 'ga_sih', 'gombalan', 'atau', 'ke', 'uwuan', 'lucu', 'gitu', 'kasih', 'pasangan', 'kaya', 'suruh', 'cari', 'gugel', 'hasilnya', 'gini', 'wkwkwkw']
-58. 
-['case', 'disini', 'lucu', 'tp', 'cm', 'ad', 'buat', 'ipon', 'nyari', 'dri', 'tdi', 'yang', 'kek', 'gini', 'ver', 'andro', 'ga_ktmu']
-59. 
-['dreamiesfry', 'bisa', 'request', 'packing', 'lucu', 'buat', 'pacar', 'ga_nih', 'ka']
-60. 
-['jekeysgurl', 'bisa', 'request', 'packing', 'lucu', 'buat', 'pacar', 'ga_nih', 'ka']
-61. 
-['tempat', 'pelaksanaan', 'ini', 'salah', 'satu', 'yg', 'lucu', 'sih', 'wkwkw', 'sekolah', 'punya', 'fasilitas', 'aula', 'yang', 'gede', 'bgt', 'tp', 'kalau', 'lomba', 'malah', 'suka', 'make', 'kelas', 'sbg', 'tempat', 'pelaksanaannya', 'ini', 'malah', 'bikin', 'lomba', 'gabisa', 'hype', 'dan', 'sama', 'aja', 'kaya', 'gaada', 'lomba', 'suasananya', 'ga_dapet']
-62. 
-['ini', 'kakak', 'ipar', 'kita', 'dikasih', 'bunga', 'pie', 'nya', 'dari', 'exol', 'ya', 'kertasnya', 'gambar', 'exo', 'yg', 'pake', 'kostum', 'itu', 'lucu', 'bgttt', 'jadi', 'pengen', 'ngirim', 'jg', 'tapi', 'ga_tau', 'stay', 'hotel', 'beda', 'pulau', 'lagi', 'kakak', 'ipar', 'caci', 'bgtt']
-63. 
-['hai', 'kalian', 'selamat', 'atas', 'comeback', 'nya', 'ya', 'ga_tau', 'kalian', 'keren', 'lucu', 'dan', 'manis', 'manis', 'pake', 'banget', 'sukses', 'terus', 'ljeinno', 'jevonandr', 'jentnct', 'jenolid', 'ofjenok', 'blavcke', 'zennnojam', 'ofjaeminc', 'najeaminw', 'dirutn', 'najeamvin', 'j7aemiin', 'ofjaems', 'njaemizn', 'njaelmln', 'nctdreamcandy']
-64. 
-['suhkses', 'ga_cuma', 'lucu', 'tapi', 'pede', 'abis', 'ya', 'abe']
-65. 
-['starfess', 'ya', 'gimana', 'ga_ktar', 'ktir', 'cui', 'dia', 'disanaa', 'selama', 'dia', 'as', 'idol', 'ya', 'lucu', 'aja', 'lucu', 'imut', 'gitu', 'tiba2', 'progres', 'militernya', 'dia', 'kok', 'seserius', 'itu', 'gua', 'ga_tau', 'kalo', 'tu', 'orang', 'mau', 'ngelamar', 'jadi', 'bodyguard', 'kalo', 'ga_keterima', 'exo', 'telat', 'kasi', 'info', 'juga', 'sih', 'dianya']
-66. 
-['hati', 'ga_baik', 'baik', 'saja', 'anjir', 'lucu', 'bgt']
-67. 
-['gapernah', 'beli', 'bakpia', 'kering', 'tapi', 'ini', 'enak', 'banget', 'isiannya', 'full', 'gitu', 'ga_pelit', 'packagingnya', 'lucu', 'fess']
-68. 
-['anjir', 'lucu', 'banget', 'sumpah', 'ga_kuattttt']
-69. 
-['ya', 'allah', 'ya', 'tuhan', 'aku', 'gatau', 'harus', 'bereaksi', 'apa', 'antara', 'bingung', 'dan', 'lucu', 'apa', 'ga_22nya']
-70. 
-['mvaserati', 'eh', 'ini', 'au', 'lucu', 'bgt', 'puki', 'gua', 'dah', 'baca', 'kali', 'juga', 'ga_bosen']
-71. 
-['ini', 'lucu', 'bgt', 'knp', 'br', 'liat', 'skrg', 'kak', 'buttermilkbubu', 'ga_ada', 'rencana', 'open', 'lg', 'kah', 'hheheeh']
-72. 
-['minta', 'tolong', 'bantu', 'retweet', 'aku', 'cari', 'adopter', 'atau', 'relawan', 'pecinta', 'kucing', 'bisa', 'rawat', 'kucing', 'yang', 'ada', 'kost', 'aku', 'dia', 'ga_akur', 'sama', 'kucing', 'aku', 'yang', 'lain', 'terus', 'tetangga', 'kost', 'pada', 'gasuka', 'sama', 'dia', 'dia', 'jantan', 'lucu', 'banget', 'cuma', 'ada', 'beberapa', 'titik', 'badannya', 'yang', 'lagi', 'kena', 'jamur']
-73. 
-['rt', 'eisyeci7', 'ga_pernah', 'sama', 'sekali', 'kepikiran', 'orang', 'koreaamerika', 'ngajarin', 'bahasa', 'indonesia', 'ke', 'orang', 'korea', 'ini', 'konten', 'lucu', 'banget']
-74. 
-['rt', 'convomfs', 'gaiiis', 'kalian', 'punya', 'ga_sih', 'gombalan', 'atau', 'ke', 'uwuan', 'lucu', 'gitu', 'kasih', 'pasangan', 'kaya', 'suruh', 'cari', 'gugel', 'hasilnya', 'gini', 'wkwkwkw']
-75. 
-['vierkaezar', 'pipinya', 'lucu', 'banget', 'bleh', 'cubit', 'ga']
-76. 
-['hal', 'yang', 'dari', 'awal', 'kuhindari', 'kejadian', 'lagi', 'wkwk', 'lucu', 'bgt', 'bener', 'emang', 'ga_usah', 'ketemu', 'siapasiapa', 'dan', 'ga_dikenal', 'ngga', 'usah', 'ngerasa', 'bersalah', 'sampe', 'mampus', 'tenaga', 'abis', 'cok']
-77. 
-['euanseok', 'kita', 'ketemu', 'dimana', 'sih', 'lupa', 'maaf', 'tapi', 'ketemu', 'dimana', 'ya', 'kepikiran', 'space', 'ga_sih', 'dari', 'pertama', 'ketemu', 'sampai', 'sekarang', 'sih', 'menurutku', 'gak_beda', 'jauh', 'bawel', 'dan', 'lucu', 'sekarang', 'juga', 'samaaa', 'tapi', 'aku', 'gak_nyangka', 'kita', 'bisa', 'sedekat', 'nadi', 'huhu', 'sayang', 'banget', 'dah', 'sm', 'lu']
-78. 
-['rt', 'eisyeci7', 'ga_pernah', 'sama', 'sekali', 'kepikiran', 'orang', 'koreaamerika', 'ngajarin', 'bahasa', 'indonesia', 'ke', 'orang', 'korea', 'ini', 'konten', 'lucu', 'banget']
-79. 
-['dioncrish', 'gabieyela', 'yhonmin', 'ga_jadi', 'pundung', 'kamu', 'lucu']
-80. 
-['rt', 'eisyeci7', 'ga_pernah', 'sama', 'sekali', 'kepikiran', 'orang', 'koreaamerika', 'ngajarin', 'bahasa', 'indonesia', 'ke', 'orang', 'korea', 'ini', 'konten', 'lucu', 'banget']
-81. 
-['rt', 'kkummambam', 'lucu', 'bgt', 'ini', 'mereka', 'kyk', 'main', 'telepathy', 'gt', 'ya', 'terus', 'vocal', 'team', 'ga_janjian', 'semuanya', 'pose', 'peace', 'terus', 'diprotes', 'kan', 'itu']
-82. 
-['rt', 'kkummambam', 'lucu', 'bgt', 'ini', 'mereka', 'kyk', 'main', 'telepathy', 'gt', 'ya', 'terus', 'vocal', 'team', 'ga_janjian', 'semuanya', 'pose', 'peace', 'terus', 'diprotes', 'kan', 'itu']
-83. 
 ['rt', 'forrecomd', 'kumpulan', 'chat', 'lucu', 'ojol', 'dan', 'customer', 'bikin', 'ngakak', 'parah', 'thread']
+36. 
+['wednesday', 'ade', 'y', 'onday', 'pengen', 'ngakak', 'bgt', 'but', 'its', 'cool']
+37. 
+['ngakak', 'bgt', 'gua', 'ajak', 'jalan', 'wkwk']
+38. 
+['njiiibgf', 'ngakak', 'anjrit']
+39. 
+['gk', 'ngikutin', 'pildun', 'tp', 'liat', 'e', 'yang', 'liweran', 'tl', 'ngakak', 'bgt', 'gua']
+40. 
+['ngakak']
+41. 
+['plis', 'in', 'ngakak']
+42. 
+['cloudieskiee', 'llosbo', 'ngakak']
+43. 
+['har', 'kmrin', 'dan', 'har', 'in', 'super', 'banget', 'tdk', 'nyangka', 'bisa', 'slesai', 'lporan', 'cepat', 'itu', 'tp', 'mg', 'tangan', 'dan', 'pala', 'asap', 'vc', 'sm', 'kawankawan', 'smpe', 'ngakak', 'nobar', 'wc', 'yg', 'drama', 'k', 'film', 'sanjung', 'yaaal', 'krenz']
+44. 
+['amrazing', 'ngakak', 'wkwk', 'temen', 'sampe', 'ada', 'yang', 'cut', 'kara', 'capek', 'begadang', 'karna', 'nonton', 'final', 'pildun', 'tawa']
+45. 
+['andihiyat', 'ngakak', 'ngab']
+46. 
+['ngakak', 'banget', 'ain', 'l', 'jam', 'gin', 'liat', 'randoman', 'publik', 'yang', 'udah', 'ngantuk']
+47. 
+['gemes', 'tp', 'ngakak']
+48. 
+['gw', 'jd', 'inget', 'komenan', 'tiktok', 'gra2', 'jn', 'ngliatin', 'lowkey', 'nyamperin', 'nna', 'ada', 'yg', 'komen', 'j3nooo', 'banyak', 'cewek', 'loh', 'ituuu', 'hahahhahahaha', 'gw', 'ngakak', 'banget', 'heh', 'au', 'banyak', 'apa', 'bidadar', 'juga', 'klo', 'hat', '', 'udh', 'buat', 'ja3min', 'au', 'apa', 'lo', 'hahahha', 'kapal', 'gw', 'ril', 'dek', 'jgn', 'nangis']
+49. 
+['rt', 'tanyakanrl', 'ga_mau', 'ngakak', 'ndir']
+50. 
+['rt', 'sharonanisya', 'ngakak', 'bgt', 'soal', 'in', '500', 'klo', 'penasaran', '500', 'won', 'dulu', 'sin', 'in', 'irip', 'bgt', 'sama', 'yg', 'pak', 'ogah', 'cepek', 'dulu', 'sama2', 'ja']
+51. 
+['nakulaprwhjr', 'bentar', 'duluu', 'itu', 'ngakak', 'bgt', 'pls']
+52. 
+['chaeenuuu', 'ata', 'juga', 'ngakak']
+53. 
+['itzsejun', 'tap', 'ngakak', 'njrit']
+54. 
+['whahahahh', 'ngakak', 'dewe', 'ndelok', 'video2', 'pas', 'ngonseer']
+55. 
+['rt', 'walkingrigel', 'nit', 'ngakak']
+56. 
+['nessiejudge', 'ngakak', 'kaget', 'panik', 'aura', 'nerror', 'asa']
+57. 
+['echaniwatteoyo', 'in', 'apaan', 's', 'dem', 'apa', 'ngakak', 'bangettt', 'hahhhhhh', 'anjerrrrrr', 'ec', 'bulet', 'ledakkkkkk']
+58. 
+['kuntumseroja', 'akubaru', 'ne', 'tap', 'a', 'ngakak', 'iya', 'banget', 'in']
+59. 
+['ya', 'al', 'ngakak', 'a', 'tuh', 'pede', 'banget', 'dah', 'a', '']
+60. 
+['rt', 'haruwoomfs', 'hrjw', 'gemesss', 'banget', 'huhuhu', 'aegyo', 'nyaaa', 'adek', 'sampe', 'tawa', 'ngakak', 'banget', 'liat', 'aegyo', 'kakak']
+61. 
+['rt', 'tanyakanrl', 'ga_mau', 'ngakak', 'ndir']
+62. 
+['rt', 'tanyakanrl', 'ga_mau', 'ngakak', 'ndir']
+63. 
+['bener', 'ngakak', 'liat', 'story', 'ig']
+64. 
+['akmummasjid', 'ngakak', 'anj']
+65. 
+['mana', 'orang2', 'dah', 'pake', 'lagu', '', 'jk', 'postingan2', 'world', 'cupehh', 'ada', 'yg', 'pake', 'lagu', '', 'ricky', 'artin', 'yg', 'buat', 'world', 'cup', 'lol', 'sampe', 'bengek', 'ngakak']
+66. 
+['ngakak', 'nan', 'kayak', 'ake', 'rok']
+67. 
+['jam', 'pag', 'bikin', 'ngakak', 'poll', 'sma', 'e', 'pildun', 'wkwkwkw']
+68. 
+['bulanmurela', 'syaland', 'bul', 'aaf', 'a', 'ngakak', 'kit']
+69. 
+['rkanov', 'thecoffee', 'areajulid', 'hahaa', 'rius', 'kak', 'aap', 'ngakak']
+70. 
+['ngakak', 'tap', 'ya', 'gimana', 'yaa']
+71. 
+['pengen', 'ngakak', 'tp', 'sakne']
+72. 
+['ga_bisa', 'banget', 'ngeliat', 'reply', 'sial', 'bikin', 'ngakak', 'jam', 'gin']
+73. 
+['rt', 'forrecomd', 'kumpulan', 'chat', 'lucu', 'ojol', 'dan', 'customer', 'bikin', 'ngakak', 'parah', 'thread']
+74. 
+['rt', 'forrecomd', 'kumpulan', 'chat', 'lucu', 'ojol', 'dan', 'customer', 'bikin', 'ngakak', 'parah', 'thread']
+75. 
+['wo', '', 'ngakak', 'banget']
+76. 
+['cutestcharacter', 'hahahahah', 'ngakak', 'tap', 'ancen', 'cepet', 'itu', 'dunia', 'in', 'putar', 'vol', 'layak', 'balik', 'telapak', 'tangan']
+77. 
+['wkwkwkwk', 'ngakak', 'gaplokin', 'aja', 'nder', 'kbiasaan']
+78. 
+['ndllyne', 'gw', 'baca', '', 'o', 'ngakak']
+79. 
+['ngakak']
+80. 
+['ngakak']
+81. 
+['agusmagelangan', 'ngakak']
+82. 
+['safiraalf', 'astagfirul', 'ngakak']
+83. 
+['kop', 'kop', 'apa', 'yang', 'tawa', 'ngakak']
 84. 
-['szkhxuan', 'lucu', 'soalnya', 'jadi', 'ngakak']
+['wkwkwkwkw', 'ngakak']
 85. 
-['dari', 'nuker', 'tiket', 'sampe', 'vierra', 'tuh', 'udah', 'aman', 'tuh', 'ga_ujan2', 'bgt', 'paling', 'gerimis', 'lah', 'dikit2', 'tapi', 'tengah2', 'vierra', 'ujan', 'gede', 'itu', 'semua', 'bener2', 'nyanyi', 'sambil', 'make', 'raincoat', 'sambil', 'teriak2', 'anjer', 'beneran', 'lucu', 'bgt', 'pas', 'itu', 'tapi', 'itu', 'yang', 'bikin', 'seru', 'pas', 'konsernya', 'yaitu', 'ujan']
+['14', 'chat', 'pdkt', 'in', 'kocak', 'parah', 'dar', 'ngenes', 'sampa', 'ngakak']
 86. 
-['lucu', 'banget', 'bayik']
+['ngakak', 'banget', 'anjir']
 87. 
-['akwoakowkaow', 'lucu', 'banget']
+['ngakak', 'juga', 'suddenly', 'jam', 'gin', 'a', 'inget', 'gen', 'ngerp', 'wkwkwk']
 88. 
-['rt', 'harukyucafe', 'kalian', 'kok', 'lucu', 'banget', 'sihhhh', 'hjk']
+['ngakak', '', 'ada', 'ita', 'yg', 'ninggal', 'ya', 'us', 'gua', 'siyokk', 'kaya', 'org', 'nal', 'us', 'gua', 'buka', 'pintu', 'sambil', 'bilang', 'ada', 'yg', 'ninggal', 'us', 'bapa', 'gua', 'lag', 'tidur', 'langsung', 'bangun', 'trus', 'lar', 'sambil', 'bilang', 'hah', 'napa', 'harus', 'lar', 'sih', 'bapa', 'gua', 'tidur', 'tengah', 'rumah', 'soal', 'abis', 'nnton', 'bola']
 89. 
-['rt', 'starfess', 'base', 'salahsatu', 'momen', 'lucu', 'woojuho', 'minju', 'kan', 'biasanya', 'ditengah', 'kalo', 'mau', 'pose', 'khas', 'woojuho', 'tapi', 'dia', 'pengen', 'sesekali', 'gantian']
+['ngakak']
 90. 
-['wwkwkwkwkw', 'ini', 'lucu']
+['ngakak', 'soo', 'hardd']
 91. 
-['yailah', 'lucu', 'bgt', 'ini', 'gw', 'cuma', 'kebagian', 'nontonin', 'doang', 'yh']
+['pag', 'pag', 'ngakak', 'ngeliat', 'temen', 'temen', 'pada', 'adu', 'ti', 'ngeprediks', 'piala', 'dunia']
 92. 
-['rt', 'webcomicfess', 'mau', 'baca', 'romance', 'manis', 'lucu', 'ni', 'recommend', 'gak_ges', 'alesannya', 'baru', 'eksplor', 'judul', 'se4s0ns', '0f', 'bl0ss0m']
+['shitallk', 'ngakak']
 93. 
-['ini', 'user', 'shandyun1ty', 'gak_ada', 'abisnya', 'kalo', 'nge', 'lucu', 'gilangun1ty', 'baper', 'gak_bang', 'kasih', 'finger', 'heart', 'sama', 'bangsen', 'wkwkwkwk']
+['rt', 'hwangfelgalaxy', 'hyl', 'ngakak', 'banget', 'gaess', 'nyatahhh', 'ada', 'yg', 'jealous', 'maren']
 94. 
-['eeeehhhhh', 'lucu', 'bener', 'eh']
+['aduhhh', 'ngakak', 'bgt']
 95. 
-['robiarrsyd', 'diruangraga', 'lucu', 'nek', 'iki', 'rob', 'tenan']
+['rt', 'ilovyumoreeee', 'isyalevronkaa', 'jd', 'inget', 'yg', 'be', 'sama', 'brrt', 'klo', 'ada', 'yg', 'bilang', 'atur', 'suwun', 'jwab', 'be', 'be', 'ngaceng', 'bgt', 'alias', 'ngakak']
 96. 
-['fifi18', 'forjunkyu09', 'ryuhelen', 'kjybri', 'lucu', 'bgt', 'memenya', 'ijin', 'ambil']
+['caratstalk', 'random', 'bgt', 'gapaham', 'sm', 'konsep', 'yg', 'jelas', 'full', 'ngakak', 'krn', 'emg', 'svt', 'itu', 'awak', 'kedok', 'idol']
 97. 
-['ketawa', 'maria', 'nomor', 'punggungnya', '11', 'dan', 'angka', 'favorit', '11', 'nama', 'mariah', 'wkwkwk', 'fakta', 'lucu']
+['lfolconvo', 'in', 'lucu', 'ngakak', 'tawa']
 98. 
-['nctsmtowndream', 'anak2mu', 'yang', 'lucu', 'dan', 'menggemaskan', 'itu', 'update', 'kek', 'pimping', 'mass', 'streaming', 'ini', 'yuhuuuu', 'marklee', 'haechan', 'jaemin', 'chenle', 'jisung', 'renjun', 'jeno']
+['arcel17320', 'frozenbe', 'gblgnunfaedh', 'njir', 'tingan', 'kata', 'wkwkw', 'ngakak', 'indset', 'lu', 'aneh', 'banget']
 99. 
-['onionbie', 'kelii', 'wkwk', 'lucu', 'betull', 'kamu', 'mahhh', 'makasih', 'banyaaakk']
+['wkwkwk', 'ngakak']
 100. 
-['wkwkwkwk', 'njir', 'lucu']
+['ngakak', 'kal', 'tad', 'kampung']
 101. 
-['edenwrnata', 'baru', 'saja', 'akan', 'melahap', 'yamos', 'kesayangannya', 'yang', 'baru', 'tiba', 'kanya', 'dikejutkan', 'kehadiran', 'sosok', 'lucu', 'sepiring', 'nasi', 'gorengnya', 'lah', 'utas', 'beraniberaninya', 'begini', 'batinnya', 'bingung']
+['lalu', 'ngakak', 'tiap', 'jongin', 'update', 'soal', 'an', 'couldnt', 'even', 'play', 'football', 'tawa']
 102. 
-['apasih', 'lucu', 'bgt']
+['ngakak', 'bet', 'sama', 'gingin', 'ngotot', 'bkl', 'nang', 'tau', 'tau', 'ka', 'wgwg']
 103. 
-['caratsmarket', 'kanann', 'nderrr', 'pliss', 'lucu', 'bgt']
+['fianfalahian', 'oviemenfes', 'ngakak', 'brutal', 'as']
 104. 
-['rt', 'nctzenbase', 'huang', 'renjun', 'gemes', 'lucu', 'bgt']
+['tiyofoto', 'ahmadsu21978942', 'sukardi2017', 'buset', 'ngakak', 'guah', 'wkwkwk', 'ga_ada', 'korelasi', 'dar', 'zaman', 'rasulul', 'juga', 'ada', 'rumah', 'kok', 'wkwkwk']
 105. 
-['princepotterx', 'iya', 'lucu', 'soalnya']
+['rt', 'forrecomd', 'kumpulan', 'chat', 'lucu', 'ojol', 'dan', 'customer', 'bikin', 'ngakak', 'parah', 'thread']
 106. 
-['trnyata', 'sy', 'suka', 'cowo', 'pintar', 'instead', 'of', 'tampang', 'dan', 'lucu', 'saja']
+['rt', 'forrecomd', 'kumpulan', 'chat', 'lucu', 'ojol', 'dan', 'customer', 'bikin', 'ngakak', 'parah', 'thread']
 107. 
+['rt', 'forrecomd', 'kumpulan', 'chat', 'lucu', 'ojol', 'dan', 'customer', 'bikin', 'ngakak', 'parah', 'thread']
+
+
+- Kalimat dengan kata "ketawa" ==> 0
+
+
+
+- Kalimat dengan kata "lucu" ==> 178
+
+1. 
+['lucu', 'bgt', 'twitter', 'wkkwkkkw', 'tawa', 'subuh2']
+2. 
+['jujur', 'in', 'lucu', 'bgt', 'k', 'bahdbsnjsnsja', 'wkwkkw', 'tawa', 'banget']
+3. 
+['sibrithanie', 'shaneee', 'im', 'so', 'grateful', 't', 'you', 'ka', 'lucu', 'banget', 'sunshine', 'mua', 'orang', 'tingkah', 'yang', 'lalu', 'bikin', 'a', 'tawa', 'kadang', 'darting', 'kit', 'ka', 'tuh', 'eun', 'yang', 'palinggpalingg', 'dar', 'mua', 'eun', 'yang', 'a', 'nal', 'deeh', 'happy', 'new', 'year', 'yah', 'moga', 'tahun', 'ikut', 'kita', 'temenan']
+4. 
+['throwback', 'soundre', 'sih', 'dmn', 'as', 'pdkt', 'an', 'sm', 'wwn', 'yg', 'super', 'duper', 'lucu', 'us', 'usan', 'lama', 'brg', 'sm', 'a', 'gig', 'ring', 'karna', 'banya', 'tawa', 'wkakaka']
+5. 
+['lucu', 'banget', 'judul', 'jurnal', 'kalo', 'ga_lag', 'deadline', 'pengen', 'tawa', 'sampe', 'siang', 'haha', 'haha', 'haha']
+6. 
+['rt', 'santtai', 'e', 'lucu', 'receh', 'kocak', 'ngakak', 'dagelan', 'tawa', 'videolucu', 'ngakakkocak']
+7. 
+['tawa', 'dong', 'bak', 'kalo', 'lucu', 'tenank', 'emg', 'jd', 'bijak', 'tu', 'syulit', 'ya', 'ges', 'ya', 'lanjutin', 'bakkk']
+8. 
+['lucu', 'banget', 'ga_ekspet']
+9. 
+['rt', 'eisyeci7', 'ga_pernah', 'sama', 'kal', 'pikiran', 'orang', 'koreaamerika', 'ngajarin', 'bahasa', 'indonesia', '', 'orang', 'korea', 'in', 'konten', 'lucu', 'banget']
+10. 
+['rt', 'buatbacain', 'help', 'k', 'lucu', 'tap', 'gw', 'ga_ngert', 'bahasa']
+11. 
+['eh', 'lucu', 'bgt', 'ga_kuat']
+12. 
+['sjsjsjsjs', 'ga_bisa', 'ga_bisa', 'jungwon', 'lucu', 'bgt', 'so', 'pwetty']
+13. 
+['lucu', 'banget', 'ga_ngert', 'lag']
+14. 
+['hih', 'lucunyaaaaa', 'panjang', 'ngedit', 'gabisa', 'ga_ngomong', 'lucu', 'banget', 'hiksss']
+15. 
+['lucu', 'banget', 'nobar', 'world', 'cup', 'lee', 'hyuk', 'jae', 'apa', 'ga_kemeng', 'itu', 'tanganmuu', 'and', 'kim', 'heechul', 'wkwk', 'penonton', 'tap', 'tidak_tau', 'ndukung', 'siapa', 'karna', 'a', 'orang', 'korea']
+16. 
+['convomf', 'pia', '1010', 'lucu', 'anggil', 'r', 'ndir', 'jg', 'gin', 'sop', '710', 'asa', 'sayur', 'sop', 'piak', '910', 'lucuu', 'k', 'anak', 'ayam', 'piyot', '710', 'jamet', 'dengeran', 'sop', '810', 'k', 'aplikas', 'oren', 'dew', '810', 'okeoke', 'aja', 'ya', 'wiwik', '910', 'in', 'y', 'om', 'yg', 'anggil', 'gin', 'oke', 'lucu', 'nur', '610', 'ga_suka', 'mf', 'pak']
+17. 
+['rt', 'oonareas', 'in', 'yang', 'react', 'tentang', 'bola', 'napa', 'pada', 'lucu', 'lucu', 'banget', 'siii', 'sumpah', 'nder', 'ga_paham', 'tentang', 'piala', 'dunia', 'tap', 'liat']
+18. 
+['portugal', 'vs', 'ghana', 'lepas', 'dar', 'skor', 'yang', 'rapet', 'buat', 'yang', 'nonton', 'tandingan', 'in', 'past', 'inget', 'banget', 'sama', 'lebras', 'osman', 'bukar', 'yang', 'niruin', 'ronaldo', 'in', 'lucu', 'banget', 'ronaldo', 'sampe', 'ga_terima']
+19. 
+['rt', 'eisyeci7', 'ga_pernah', 'sama', 'kal', 'pikiran', 'orang', 'koreaamerika', 'ngajarin', 'bahasa', 'indonesia', '', 'orang', 'korea', 'in', 'konten', 'lucu', 'banget']
+20. 
+['rt', 'kkummambam', 'lucu', 'bgt', 'in', 'reka', 'kyk', 'ain', 'telepathy', 'gt', 'ya', 'us', 'vocal', 'team', 'ga_janjian', 'mua', 'pose', 'peace', 'us', 'protes', '', 'itu']
+21. 
+['na', 'ga_s', 'lo', 'nangis', 'karna', 'liat', 'orang', 'lucu', 'bgt']
+22. 
+['zeikul', 'jeonnielle', 'ambilalih2022', '', 'kasus', 'emang', 'ga_ada', 'saks', 'langsung', 'anak', 'pinter', 'aka', 'a', 'nyar', 'bukt', 'dar', 'sin', 'kalo', 'ada', 'saks', 'langsung', 'ngapain', 'a', 'umbar2', 'aib', 'suami', 'sin', 'ka', 'lucu', 'kal', 'nding', 'ulang', 'lag', 'sd', '', 'ajar', 'abcd', 'biar', 'akin', 'pintaar']
+23. 
+['a', 'tau', 'kalo', 'twt', 'itu', 'sangat', 'amat', 'ru', 'tap', 'a', 'ga_ne', 'akun', 'yang', 'lucu']
+24. 
+['rt', 'kkummambam', 'lucu', 'bgt', 'in', 'reka', 'kyk', 'ain', 'telepathy', 'gt', 'ya', 'us', 'vocal', 'team', 'ga_janjian', 'mua', 'pose', 'peace', 'us', 'protes', '', 'itu']
+25. 
+['ohmybeautybank', 'pake', 'anting', 'dr', 'bay', 'smpe', 'skrg', 'ga_gant', 'hehe', 'lucu', 'soal', 'emas', 'trs', 'cil', 'gt']
+26. 
+['lucu', 'banget', 'judul', 'jurnal', 'kalo', 'ga_lag', 'deadline', 'pengen', 'tawa', 'sampe', 'siang', 'haha', 'haha', 'haha']
+27. 
+['ada', 'satu', 'lak', 'lak', 'yang', 'ga_pernah', 'nyerah', 'a', 'nang', 'kal', 'bikin', 'nang', 'lucu']
+28. 
+['garena', 'gamau', 'collab', 'sma', 'nct', 'dream', 'kahhh', 'lucu', 'loh', 'klo', 'ijo', 'bgin', 'nmbah', 'smngat', 'push', 'rank', 'ragu', 'nih', '', 'ga_ya', 'wrna', 'neon', 'nct', 'tp', 'skill', 'snjata', 'kureng', 'battt', 'cuma', 'nang', 'visual', 'gmna', 'ya']
+29. 
+['rt', 'anteeyhunters', 'lucu', 'ga_sih', 'akuuu', 'hihih', 'pilihan', 'video', 'viral']
+30. 
+['jlnnyl', 'ih', 'ena', 'banget', 'kalo', 'ada', 'tombol', 'ga_boleh', 'gitu', 'dong', 'tap', 'tenang', 'rory', 'yang', 'karang', 'lag', 'ode', 'uang', 'lucu', 'kok', 'nang']
+31. 
+['theresia', '810', 'umum', 'bgt', 'e', '8510', 'umum', 'jg', '', '9510', 'suka', 'simpel', '', '', '910', 'lucuu', 'sia', '610', 'jrg', 'ada', 'yg', 'anggil', 'dengeran', 'aneh', 'ga_sih', 're', 'or', 'rere', '810', 'sdikit', 'tdk', 'biasa', 'tp', 'oke', 'lucu', 'jugaa', 'ul', '1000010', 'in', 'utie', 'yg', 'anggil', 'biasa', 'anjg', 'gok', '10000010', 'utie', 'jg', 'ga_bgt']
+32. 
+['ga_ngikutin', 'anime', '', 'tap', 'in', 'lucu', 'hahahaha', 'bahasa']
+33. 
+['alias', 'a', 'ga_sabarrrr', 'pengen', 'ain', '', 'cafe', 'cafe', 'overpriced', 'lucu', 'us', 'foto', 'yang', 'banyaaaak', 'us', 'am', 'akanan', 'enak', 'omg', 'omg', 'omg', 'aaaaa', 'g', '', 'jiufen', 'biar', 'foto', 'ala', 'ala', 'spirited', 'away', 'omg']
+34. 
+['tama', 'kal', 'gw', 'bilang', 'lelak', 'ren', 'sama', 'orang', 'asing', 'gegara', 'gw', 'izin', 'boleh', 'nyalain', 'roko', 'atau', 'ngga', 'jujur', 'gw', 'kira', 'in', 'hal', 'yang', 'normal', 'a', 'uj', 'lera', 'pakain', 'gw', 'yang', '', 'bapa', 'bapa', 'kata', 'lucu', 'te', 'kian', 'lama', 'akhir', 'saya', 'puj', 'orang', 'ga_baper', 'neng', 'aja', 'puj']
+35. 
+['lucu', 'ada', 'orang', 'yang', 'ga_tau', 'syukur', 'pu', 'banyak', 'teman', 'yg', 'pedul', 'ri']
+36. 
+['anak', 'tikus', 'rindu', 'ibu', 'ga_mau', '', 'nih', 'cerita', 'cewa', 'lucu']
+37. 
+['anime', 'in', 'nurut', 'ga_seru', 'tap', 'gambar', 'lucu']
+38. 
+['au', 'bikin', 'sidename', 'oting', 'gyul', 'tuh', 'tigerbell', 'lucu', 'ga_siii']
+39. 
+['kaann', 'idextratime', 'lucu', 'bgt', 'papa', 'wkwk', 'buka', 'lowongan', 'antu', 'ga']
+40. 
+['rt', 'kkummambam', 'lucu', 'bgt', 'in', 'reka', 'kyk', 'ain', 'telepathy', 'gt', 'ya', 'us', 'vocal', 'team', 'ga_janjian', 'mua', 'pose', 'peace', 'us', 'protes', '', 'itu']
+41. 
+['turu', 'sama', 'jeje', 'buat', 'n', 'hari', 'ga_tenang', 'lain', 'koyo', 'helikopter', 'juga', 'nyanding', 'kabel', 'charger', '', 'ra', 'lucu', 'kalo', 'gulune', 'jundet']
+42. 
+['askrlfess', 'looks', '510', 'creativity', '1010', 'im', 'graphic', 'designer', 'humour', '710', 'lucu', 'orang', 'yg', 'tepat', 'ntal', 'health', '410', 'empathy', '910', 'ga_tegaan', 'patience', '100010', 'social', 'skills', '610', 'ory', '10000010', 'remember', 'everything']
+43. 
+['lucu', 'yah', 'sindir', 'ga_seneng', 'tap', 'nyindir', 'orang', 'us', 'haha']
+44. 
+['clarenceamadeus', 'aaronierooo', 'utdfocusid', 'abis', 'lucu', 'ase', 'yang', 'udah', 'jelas', 'depan', 'ata', 'a', 'ga_diliat', 'tawa']
+45. 
+['rt', 'sarrahzahrawr', 'cosplay', 'pake', 'topeng', 'hihih', 'lucu', 'ga_sii', 'pilihan', 'video', 'viral']
+46. 
+['rt', 'starfess', 'idol', 'lucu', 'banget', 'marin', 'liat', 'live', 'ig', 'yg', 'nyambut', 'cret', 'number', 'anado', 'btw', 'kpopers', 'anado', 'ada', 'yg', 'har', 'in', 'nonton', 'cret']
+47. 
+['ada', 'lag', 'scene', 'lucu', 'ronaldo', 'a', 'ga_muncul', 'ronaldo', 'brazil', 'aaah', 'lagian', 'a', 'udh', 'ka', 'duluan', 'ga_masuk', 'final', 'khalayak', 'rama', 'weeeeeeeiiiiiwww', 'sorak', 'tanda', 'tak_percaya']
+48. 
+['kalo', 'usik', 'lag', 'lucu', 'gin', 'napa', 'gabisa', 'yg', 'komed', 'gitu', 'ya', 'yoonjeong', 'kayak', 'ga_cocok', 'ain', 'yg', 'agak2', 'komed', 'deh', 'apa', 'karena', 'image', 'naksu', 'udh', 'lekat', 'bgt', 'ya']
+49. 
+['apalag', 'pas', 'ndekat', 'extra', 'time', 'abis', 'france', 'ga_nyiapin', 'squad', 'yg', 'yaaa', 'at', 'least', 'dpt', 'percaya', '', 'buat', 'penalty', 'wkwkkw', 'lucu', 'cok']
+50. 
+['anjir', 'ga_nonton', 's', 'speed', 'tap', 'lucu', 'sih', 'in']
+51. 
+['misal', 'argen', 'ga_juara', 'in', 'bakal', 'lucu', 'bgt', 'sih']
+52. 
+['ga_nonton', 'bola', 'tap', 'tl', 'twt', 'jad', 'lucu', 'lucu', 'banget', 'hahhahahahhahaha']
+53. 
+['lucu', 'n', 'indset', 'orang', 'au', 'batas', 'leda', 'populas', 'kucing', 'liar', 'steril', 'gblg', 'hent', 'kas', 'a', 'juga', 'ga_bakal', 'hasil', 'toh', 'kucing', 'bener', 'bisa', 'buru', 'ndir', 'dan', 'nyuruh', 'orang', 'hent', 'streetfeeding', 'napa', 'coba', 'suka2', 'reka', '', 'lu', 'aja', 'yg', 'aneh']
+54. 
+['rt', 'convomfs', 'gaiiis', 'kalian', 'pu', 'ga_sih', 'gombalan', 'atau', '', 'uwuan', 'lucu', 'gitu', 'kasih', 'pasangan', 'kaya', 'suruh', 'car', 'gugel', 'hasil', 'gin', 'wkwkwkw']
+55. 
+['help', 'k', 'lucu', 'tap', 'gw', 'ga_ngert', 'bahasa']
+56. 
+['gua', 'klo', 'ntn', 'bola', 'ksl', 'pas', 'mainan', '', 'ksl', 'sama', 'rival', 'dll', 'lar', 'tanding', '', 'yauda', 'lar', 'ga_sampe', 'hina', 'sana', 'sn', 'bandingin', 'in', 'itu', 'tp', 'in', 'org', 'org', 'lucu', 's', 'sampe', 'ngolok2', 'bawa2', 'hal', 'pribad', 'pemain', 'bola', 'itu', 'sndr', 'k', 'lo', 'nikmatin', 'mainan', 'bola', '', 'apa', 'gmn', 's', 'ngakak']
+57. 
+['rt', 'barbut', 'hey', 'lelakii', 'wkwk', 'nurut', 'gua', 'in', 'baru', 'karens', 'ner', 'indo', 'yg', 'nyablek', 'lucu', 'ga_cringe', 'think', 'they', 'have', 'learned', 'from', 'prev']
+58. 
+['nctzenbase', 'jagain', 'daegal', 'soal', 'daegal', 'lucuk', 'pengen', 'unyelunyel', 'sleepcall', 'ru', 'banget', 'apalag', 'dengerin', 'suara', 'lucu', 'nana', 'klo', 'chattingan', 'ales', 'ngetik', 'karokean', '10', 'jam', 'agak', 'bikin', 'sakit', 'tenggoro', 'ya', 'ga_bisa', 'ain', 'basket', 'nemenin', 'ucan', 'ain', 'bola', 'saja']
+59. 
+['lihat', 'tl', 'ttg', 'final', 'pildun', '2022', 'kal', 'in', 'kok', 'lucu', 'ngakak', 'low', 'd', 'jad', 'satu', 'nang', 'ga_prancis', 'ga_mbappe', 'dan', 'tim', 'ga_kiper', 'argentina', 'ga_mess']
+60. 
+['ga_pernah', 'ngerasain', 'tiup', 'lilin', 'dan', 'kasih', 'boneka', 'lucu', 'aihhhhh', 'bangsat', 'bangsat', 'bangsattt']
+61. 
+['rt', 'sarrahzahrawr', 'hihih', 'cosplay', 'gin', 'lucu', 'ga_sii', 'pilihan', 'video', 'viral']
+62. 
+['lucu', 'banget', 'ga_sih']
+63. 
+['collegemenfess', 'wkwk', 'kalo', 'a', 'kukasih', 'file', 'proposal', 'yg', 'blm', 'revis', 'sm', 'kal', 'tp', 'jujur', 'lucu', 's', 'org', 'ky', 'gin', 'kalo', 'te', 'ga_pernah', 'nyapa', 'save', 'an', 'nomor', 'aja', 'engga', 'tbtb', 'ngechat', 'karna', 'sama', 'dosbing', '']
+64. 
+['convomf', 'nama', 'depan', 'sylvia', '510', 'standar', 'tp', 'ka', 'bgt', 'silpia', '810', 'temen', 'ga_deket', 'silp', '1010', 'gemec', 'temen', 'deket', 'biasa', 'pia', '1010', 'lucu', 'aja', 'in', 'pupu', 'gua', 'yg', 'anggil', 'bgitu', 'nama', 'tengah', 'jihan', '1010', 'yg', 'nal', 'gua', 'te', 'gua', 'ula', 'rja', 'hantuw', '710', 'in', 'desna', 'yg', 'kasih', 'nama']
+65. 
+['dulu', 'juga', 'ikir', 'gin', 'trus', 'satu', 'waktu', 'do', 'cerita', 'lucu', 'ttg', 'pengalaman', 'rja', 'ga_digaj', 'tap', 'sambil', 'ngejokes', 'lucu', 'bgt', 'dan', 'tawa2', 'a', 'jad', 'ikir', 'kalo', 'lama', 'a', 'ama', 'a', 'bisa', 'ga_ya', 'trus', 'biar', 'lama', 'ya', 'ni', 'au', 'gamau']
+66. 
+['drama', 'sleepcallan', 'in', 'cukup', 'lucu', 'nat', 'ka', 'tidur', 'besok', 'bangun', 'pag', 'ga_mau', 'au', 'tidur', 'kalo', 'ka', 'nyany', 'nat', 'a', 'gabisa', 'nyany', 'ok', 'a', 'nyany', 'ajah', 'deh', 'nat', 'nyany', 'apa', 'nina', 'bobo', 'oh', 'nina', 'bobo', 'nat', 'ka', 'a', 'takut', 'lagu', 'itu', 'lanjut', 'nat', 'end', 'call']
+67. 
+['ga_ngehype', 'bola', 'tp', 'in', 'lucu', 'bgt']
+68. 
+['rt', 'eisyeci7', 'ga_pernah', 'sama', 'kal', 'pikiran', 'orang', 'koreaamerika', 'ngajarin', 'bahasa', 'indonesia', '', 'orang', 'korea', 'in', 'konten', 'lucu', 'banget']
+69. 
+['aap', 'kalo', 'bisa', 'egois', 'pengin', 'lo', 'jad', 'sahabat', 'tap', 'kaya', 'gabisa', 'ya', 'ul', 'soal', 'lu', 'udah', 'pu', 'hehe', 'tap', 'gapapa', 'neng', 'bisa', 'nal', 'lo', 'walo', 'telat', 'gin', 'dih', 'aja', 'napa', 'orang', 'orang', 'lalu', 'pu', 'sahabat', 'mentara', 'ga_pu', 'wkwk', 'lucu']
+70. 
+['ga_sadar', 'udah', 'jam', 'gin', 'daritad', 'scroll', 'ig', 'liatin', 'video', 'kocheng', 'us', 'tiap', 'yg', 'lucu', 'share', '', 'vernon', 'sama', 'zuho', 'wkwkkwk']
+71. 
+['gw', 'deact', 'akun', 'be', 'jd', 'lama', 'ga_ngikutin', 'et', 'bjir', 'wkakakak', 'lucu']
+72. 
+['convomf', 'lucu', 'bgt', 'baik', 'bgt', 'cantik', 'bgt', 'pokok', 'yg', 'baik', 'baik', 'tambahin', 'bgt', 'ye', 'ga_ndinycd']
+73. 
+['rt', 'aqilanafila', 'aqila', 'lucu', 'ga_sihhhh', 'a', 'tu', 'suka', 'insecure', 'gitu', 'kalo', 'lag', 'bikin', 'video', 'takut', 'kalian', 'ga_sukaaaa', 'hmmm', 'pilihan', 'video', 'viral']
+74. 
+['shaniepng', 'aduh', 'kasian', 'tap', 'lucu', 'juga', 'yang', 'lain', 'gang', 'apa', 'emang', 'ga_dia', 'ndir', '', 'yang', 'gang', 'prancis', 'cewa']
+75. 
+['napa', 's', 'dr', 'td', 'tweet', 'lucu', 'ga_abis2']
+76. 
+['atthaiia', 'kalo', 'urusan', 'love', 'hate', 'rls', 'ga_perlu', 'tanya', 'dan', 'ragu', 'lag', 'kak', 'sumpah', 'a', 'jago', 'banget', 'kalo', 'urusan', 'itu', 'bisa', 'bilang', 'juga', 'kalo', 'a', 'ngeselin', 'dan', 'suka', 'antem', 'tap', 'ya', 'lucu', 'juga', 'you', 'e', 'the', 'duality', 'jamin', 'kalo', 'pacaran', 'sama', 'a', 'ga_bosen', 'deh', 'a', 'ru']
+77. 
+['rt', 'forrecomd', 'kumpulan', 'chat', 'lucu', 'ojol', 'dan', 'customer', 'bikin', 'ngakak', 'parah', 'thread']
+78. 
+['rt', 'forrecomd', 'kumpulan', 'chat', 'lucu', 'ojol', 'dan', 'customer', 'bikin', 'ngakak', 'parah', 'thread']
+79. 
+['rt', 'forrecomd', 'kumpulan', 'chat', 'lucu', 'ojol', 'dan', 'customer', 'bikin', 'ngakak', 'parah', 'thread']
+80. 
+['rt', 'forrecomd', 'kumpulan', 'chat', 'lucu', 'ojol', 'dan', 'customer', 'bikin', 'ngakak', 'parah', 'thread']
+81. 
+['lfolconvo', 'in', 'lucu', 'ngakak', 'tawa']
+82. 
+['rt', 'forrecomd', 'kumpulan', 'chat', 'lucu', 'ojol', 'dan', 'customer', 'bikin', 'ngakak', 'parah', 'thread']
+83. 
+['a', 'tau', 'kalo', 'twt', 'itu', 'sangat', 'amat', 'ru', 'tap', 'a', 'ga_ne', 'akun', 'yang', 'lucu']
+84. 
+['anime', 'in', 'nurut', 'ga_seru', 'tap', 'gambar', 'lucu']
+85. 
+['wkwkwkw', 'lucu', 'lag']
+86. 
 ['lucu', 'bgt']
+87. 
+['lucu', 'bgt', 'banyak', 'anak2', 'sd']
+88. 
+['lucu', 'banget', 'hahahahaha']
+89. 
+['notrecolline', 'lucu', 'bangett', 'skshsk']
+90. 
+['ya', 'jorua', 'tuh', 'lucu', 'kak', 'joya', 'lucu', 'bangett', 'marin', 'lca', 'juga', '', 'aksksksk', 'tellonym']
+91. 
+['rt', 'araffiindra', 'good', 'opinion', 'araffiindra', 'baper', 'gebetan', 'trending', 'bucin', 'hahaha', 'couple', 'viral', 'jomblo', 'pacar', 'lucu', 'haha', 'bodor']
+92. 
+['jotaclauw', 'nadtt', 'lstsamurai', 'tharahta', 'ayeetza', 'roseyivy', 'neourverse', 'yaal', 'lucu', 'bgt']
+93. 
+['lucu', 'bgt', 'hehhhh']
+94. 
+['askrlfess', 'awan', 'lucu']
+95. 
+['napa', 'lucu', 'banget', 'ya']
+96. 
+['napa', 'yaaa', 'nder', 'suka', 'banget', 'sama', 'boneka', 'winter', 'jikjik', 'in', 'lucu', 'bangettt']
+97. 
+['lucu', 'bgt', 'twitter', 'wkkwkkkw', 'tawa', 'subuh2']
+98. 
+['nyata', 'a', 'juga', 'nonton', 'piala', 'dunia', 'wkwk', 'lucu', 'bgt', 'ngabarin', 'pag', 'pag']
+99. 
+['lucu', 'banget', 'ga_ekspet']
+100. 
+['nain', 'lucu', 'yg', 'asl', 'k', 'pentolan', 'ko']
+101. 
+['heheheheh', 'so', 'lucu', 'hehehehe', 'har', 'in', 'pacaran', 'hehehehe']
+102. 
+['rt', 'kuotiie', 'tingkyuu', 'buat', 'kamuh', 'udh', 'et', 'up', 'overnight', 'sama', 'akuh', 'nonton', 'film', 'lucu', 'netflix', 'lanjut', 'a', 'cd', 'tengah', 'tingkyuu']
+103. 
+['rt', '41004', 'wkwkwkwn', 'lucu', 'bgt']
+104. 
+['lucu', 'banget', 'soobin', 'pst', 'ain', 'twt', 'ya']
+105. 
+['rt', 'th38ha0', 'starfess', 'her', 'natural', 'hair', 'ika', 'gitu', 'lucu']
+106. 
+['verknoeien', 'ya', 'al', 'lucu', 'lucu', 'bgt', 'respon']
+107. 
+['ajojeq', 'lucu', 'amat']
 108. 
-['everytimejeon', 'iyaaa', 'lucu', 'kan', 'gatega', 'mau', 'maem']
+['rt', 'frrhmwn', 'lucu', 'banget', 'cengcengin', 'bapak', 'tawa', 'alias', 'cantik', 'banget', 'an']
 109. 
-['hello', 'namaku', 'si', 'kucings', 'kecils', 'sihir', 'putih', 'ajaibs', 'misterius', 'empust', 'meongs', 'vuskey', 'cimuts', 'ohanie', '19', 'onyets', 'cenenets', 'nyidz', 'nyidz', 'licioust', 'sad', 'dreams', 'boys', 'dan', 'kamu', 'peri', 'suci', 'manis', 'cantik', 'imuts', 'lucu', 'unyu', 'tercinta', 'jenny', 'meiyou', 'lana', 'cinvia', 'rose', 'dawsons', 'juliettes', 'sad', 'baby', 'cats', 'girls']
+['convomf', 'cipa', '910', 'pling', 'lucu']
 110. 
-['jiheogn', 'naniiii', 'inii', 'aku', 'dibilang', 'lucu', 'samaa', 'nunak', 'yang', 'jauuuuh', 'lebih', 'lucu', 'akuu', 'jadii', 'makin', 'maluu', 'senang', 'nunakk', 'biasin', 'aku', 'juga', 'gaa', 'atauu', 'suka', 'member', 'trejo', 'yang', 'lainn', 'hihiii', 'samasamaa', 'aku', 'malah', 'mau', 'makasi', 'sama', 'noona', 'karena', 'udah', 'hadir', 'sebagaii', 'idol', 'fromis9']
+['nagetabc', 'haaaaaa', 'lucu', 'bat']
 111. 
-['kenapa', 'lucu', 'banget', 'si']
+['lucu']
 112. 
-['jungwonbsd', 'eh', 'yaallah', 'lucu', 'banget', 'ada', 'aku', 'bnr2', 'spt', 'supporter', 'ika', 'umin', 'since', 'day']
+['lucu', 'abisss', 'nggainget', 'har']
 113. 
-['boadjingan', 'moonareas', 'salting', 'gua', 'banh', 'stop', 'lucu']
+['lucu', 'bgt']
 114. 
-['rl', 'kiseryoske', 'tolong', 'stop', 'lucu', 'banh', 'ak', 'tambah', 'naksir', 'nanti']
+['rt', 'eisyeci7', 'ga_pernah', 'sama', 'kal', 'pikiran', 'orang', 'koreaamerika', 'ngajarin', 'bahasa', 'indonesia', '', 'orang', 'korea', 'in', 'konten', 'lucu', 'banget']
 115. 
-['rosasthread', 'dikit', 'lagi', 'lucu', 'semangat', 'ya']
+['rt', 'axxjjae', 'jun', 'agak', 'ngenes', 'ya', 'haha', 'lucu', 'banget', 'wantwit', '', 'aww']
 116. 
-['rt', 'labiebsadat', 'tolong', 'ini', 'ada', 'yang', 'bisa', 'jelasin', 'gak_sih', 'lucu', 'banget', 'ya', 'allah', 'kok', 'bisabisanya', 'juventus', 'ballpossession', '25', 'shots']
+['rt', 'buatbacain', 'help', 'k', 'lucu', 'tap', 'gw', 'ga_ngert', 'bahasa']
 117. 
-['lucu', 'amat', 'ya', 'gkuat']
+['rt', 'arshasociety', 'arsha', 'lucu', 'yaaa', 'yaaaa', 'lmarshajkt48', 'jkt4811thannivconcert', 'jkt4811thanniversary', 'arshajkt48']
 118. 
-['universqe', 'lucu', 'tapi', 'ga_gemez', 'aja', 'ya', 'mending', 'ini', 'daripada', 'yg', 'bawah', 'tadi', 'malah', 'pawang', 'monyet']
+['eh', 'lucu', 'bgt', 'ga_kuat']
 119. 
-['rt', 'lovelybambee', 'lucu', 'bgt', 'jodoh', 'aku']
+['in', 'lucu', 'bgt']
 120. 
-['lucu', 'bgt', 'yaallah']
+['lucu', 'banget', 'jake']
 121. 
-['pjmukyu', 'harumeng', 'emang', 'lucu']
+['lucu', 'bgt', 'e', 'cok']
 122. 
-['kochengfs', 'lucu']
+['rt', 'forrecomd', 'kumpulan', 'chat', 'lucu', 'ojol', 'dan', 'customer', 'bikin', 'ngakak', 'parah', 'thread']
 123. 
-['bhanqchan', 'lucu', 'banget']
+['rt', 'kochengfs', 'malem', 'te', 'sama', 'adek', 'in', 'tempat', 'ngop', 'lucu', 'bgt', 'planga', 'plongo', 'doang', 'rja']
 124. 
-['sancotuary', 'gapapaa', 'lucu', 'kok', 'lu', 'jd', 'boti']
+['siimayaaa', 's', 'bocil', 'bocil', 'lucu', 'sokin', 'pedo', 'yg', 'nanyain']
 125. 
-['ajiggg', 'bajingannn', 'abis', 'dibikin', 'seneng', 'langsung', 'dijatuhinnnn', 'anjingggg', 'bgetttt', 'bsk', 'mww', 'sklhh', 'gk', 'lucu', 'klo', 'mata', 'bengkakkk', 'aaaaaaa', 'anjinggggg']
+['emng', 'na', 'jaemin', 'lucu', 'bgt']
 126. 
-['laserquets', 'kmn', 'aja', 'dam', 'baru', 'aktif', 'lagi', 'fi', 'nya', 'ini', 'orang', 'selalu', 'lucu', 'tiap', 'join', 'ca', 'tp', 'kerasa', 'hard', 'to', 'approach', 'pas', 'cyber']
+['caratstalk', 'aaakkkkkkkkk', 'lucu', 'kali']
 127. 
-['pp', 'aku', 'lucu', 'banget', 'pake', 'helm', 'gogekkk']
+['sjsjsjsjs', 'ga_bisa', 'ga_bisa', 'jungwon', 'lucu', 'bgt', 'so', 'pwetty']
 128. 
-['seolaryz', 'selamat', 'yaa', 'atas', 'pernikahannya', 'lucu', 'bgt', 'suami', 'suportif', 'apalagi', 'kalo', 'ada', 'nachimbong', 'dansepaket', 'nacific', 'aaa', 'gemes', 'bgtt', 'bridesmaid', 'nya', 'gada', 'yg', 'mau', 'surpise', 'dance', 'skz', 'ni']
+['lucu', 'weh', 'isi', 'kocheng', 'hayday']
 129. 
-['feministjelly', 'mbem', 'lucu', 'bgt']
+['cowo', 'yg', 'nama', 'awalan', 'huruf', 'knp', 'lucu', 'bgt', 'si', 'nafis', 'contoh']
 130. 
-['cuddlensex', 'mau', 'gimana', 'pun', 'brya', 'tetap', 'lucu', 'kok']
+['anjgggf', 'lucu', 'bgt']
 131. 
-['raden', 'jongseng', 'witnessing', 'jalan', 'cerita', 'cinta', 'orang', 'lucu', 'lucu']
+['vulchra', 'wkwkwkw', 'lucu', 'banget', 'm', 'akhir', 'pe', 'is', 'ulang', 'tahun', 'kalo', 'ka']
 132. 
-['fraigncis', 'niraaaa', 'ihihi', 'aku', 'jadi', 'salting', 'dibilang', 'lucu', 'salam', 'kenal', 'juga', 'ayo', 'kita', 'kudu', 'sering2', 'interaksi']
+['cewek', 'lucu', 'itu', 'cewek', 'yang', 'idung', 'pesek', 'lt3lt3']
 133. 
-['febrianagil', 'mbok', 'ra', 'lucu']
+['limut', 'tahilalats', 'lucu', 'bgt', 'dah']
 134. 
-['nangissss', 'lucu', 'bgt', 'aaaa']
+['in', 'lucu', 'bgt', 'anjinggg']
 135. 
-['wkwkwk', 'lucu', 'liatnya']
+['cek', 'sweater', 'wanita', 'fine', 'love', 'korean', 'sweet', 'style', 'sweatshirt', 'baju', 'wanita', 'lucu', 'bahan', 'fleece', 'allsize', 'harga', 'rp35500', 'rp37000', 'dapat', 'shopee', 'karang']
 136. 
-['gabisa', 'ini', 'lucu', 'bgt']
+['yedamfess', 'lucu', 'bangett']
 137. 
-['hyunrwook', 'emojinya', 'lucu', 'banget', 'anjirr']
+['zuckerschnuite', 'foto', 'lucu', 'tap', 'napa', 'caption', 'begitu']
 138. 
-['apaannnnn', 'lucu', 'bgni']
+['rt', 'kawaiipi', 'rekomendas', 'kalung', 'lucu', 'aestetic', 'harga', 'bawah', '20k', 'thread']
 139. 
-['orang', 'udah', 'punya', 'pacar', 'tapi', 'ga_bisa', 'tegas', 'ke', 'cewe', 'lain', 'aja', 'udah', 'aneh', 'pun', 'ke', 'orang', 'yg', 'mau', 'jodohin', 'ga_mau', 'pisah', 'tapi', 'mau', 'sama', 'cewe', 'lain', 'wkwk', 'giliran', 'bereaksi', 'malah', 'playing', 'victim', 'lucu', 'memang']
+['hamkkungs', 'gapapa', 'lucu']
 140. 
-['diem', 'jgn', 'lucu', 'lucu']
+['hey', 'lucu', 'amat']
 141. 
-['wkwkwkw', 'bener', 'sih', 'tapii', 'kan', 'engga', 'lucu']
+['lucu', 'banget', 'ga_ngert', 'lag']
 142. 
-['sarina', 'anaknya', 'ci', 'soniaeryka', 'lucu', 'banget', 'astagaaaaaa']
+['tetcsuro', 'kajaksnajsaj', 'lucu', 'bgt', 'anjir', 'jad', 'a']
 143. 
-['anaheirm', 'lucu', 'dr', 'awal', 'vibesnya', 'kayak', 'dedekdedek']
+['subagwang', 'lucu', 'tauuu']
 144. 
-['dunia', 'harusss', 'tau', 'kalo', 'malem', 'ini', 'ortu', 'ku', 'lucu', 'bangett', 'ini', 'aku', 'jadi', 'bahagia', 'lagi', 'ketawa', 'seneng', 'liat', 'pp', 'piu', 'malem', 'ini', 'love', 'pp', 'piuu', 'makasii', 'yaaa', 'udah', 'jadi', 'sumber', 'aku', 'selalu', 'tersenyum', '1990cme', '90st91jae']
+['tap', 'saya', 'baru', 'sadar', 'lupa', 'aen', 'lukis', 'lukis', 'padahal', 'saya', 'ada', 'liat', 'gambaran', 'yang', 'lucu']
 145. 
-['coclatei', 'lucu', 'kayak', 'orang', 'pacaran']
+['napa', 'lucu', 'bgt', 'gtlt']
 146. 
-['rt', 'lemonyscents', 'jaemjen', 'au', 'dimana', 'semesta', 'lain', 'jaem', 'adalah', 'seorang', 'budak', 'korporat', 'yang', 'punya', 'tiga', 'hybrid', 'lucu', 'rumah']
+['outfit', 'zuu', 'lucu', 'bet', 'dah']
 147. 
-['jenioarkhafa', 'aku', 'tuh', 'emg', 'lucu', 'yh']
+['hyuneslov', 'apaaaaa', 'iniiiiii', 'lucu', 'bangettttt']
 148. 
-['apaajaiklan', 'holla', 'dear', 'follow', 'kita', 'yuk', 'banyak', 'stuff', 'dan', 'aksesoris', 'lucu', 'harga', 'grosir', 'welcome', 'reseller']
+['rt', 'kochengfs', 'jad', 'tetangga', 'depan', 'rumah', 'pasutr', 'baru', 'abis', 'adopt', 'a', 'sumpah', 'lucu', 'banget', 'karna', 'kalo', 'n', 'kucing', 'kabur', 'suka', 'reka', 'du']
 149. 
-['dah', 'lah', 'inti', 'nya', 'lucu', 'bangeedddd', 'aku', 'nyaa']
+['lucu', 'banget', 'akxjwgxkksgxsjxh']
 150. 
-['lucu', 'amettttttttt']
+['angaikecil', 'lucu', 'lucu', 'lalu', 'njad', 'san', 'tiap', 'lihat', 'lutf', 'dekat', 'dan', 'reka', 'yang', 'lihat', 'kecil', 'apa', 'itu', 'mangat', 'rta', 'antusias', 'yang', 'lalu', 'perlihat', 'kasih', 'lalu', 'buat', 'a', 'gemas', 'nyum', 'yang', 'lalu', 'tampil', 'pada', 'lalu', 'buat', 'hukum', 'tular']
 151. 
-['rt', 'adipramomo', 'dilandaewokas', 'gheajhanalie7', 'lucu', 'dikau', 'as', 'dan', 'rusia', 'aja', 'berebut', 'simpati', 'dan', 'dukungan', 'islam', 'anda', 'malah', 'mencoba', 'menarasik']
+['lucu', 'banget', 'base', 'nyaaaa', 'jad', 'akin', 'gen']
 152. 
-['daleoflies', 'lucu', 'bangeeet']
+['rt', 'yainiuna', 'lucu', 'bgt', 'dah']
 153. 
-['kueichigo', 'adik', 'adik', 'lucu', 'yang', 'kalo', 'sabtu', 'demennya', 'ngemall', 'sama', 'gengnya', 'terus', 'belanja', 'pernak', 'pernik', 'lucu', 'toys', 'kingdom', 'habis', 'itu', 'makan', 'cake', 'cantik', 'sbux']
+['in', 'lucu', 'anjir']
 154. 
-['tanyakanrl', 'raissa', 'anggiani', 'sih', 'matanya', 'lucu']
+['rt', 'sweets0urlife', 'wkwkkwkww', 'lucu', 'banget', 'cowok', 'gw', 'inta', 'izin', 'buat', 'g', 'tap', 'bonyok', 'gw', 'a', 'forward', '', 'grup', 'luarga']
 155. 
-['kiri', 'under', '200k', 'ea', 'wkwkwk', 'lucu', 'banget', 'kalo', 'diinget2', 'sayang', 'pc', 'nya', 'dah', 'dijual', 'semua', 'kanan', 'rupiah', 'alias', 'gratis']
+['lacav', 'lucu', 'banget', 'a', 'gw', 'install', 'lag']
 156. 
-['tanyarlfes', 'hahahaha', 'lucu', 'bangett']
+['rt', 'renjunbase', 'renjun', 'napa', 'lucu', 'banget', 'gak_kwattt', 'cr', 'softcookiee323']
 157. 
-['croccotta', 'koga', 'selalu', 'lucu']
+['cowo', 'lucu', 'tuh', 'lebih', 'ashdkfoeiwbnqkshsinwnqnkskeheunwkqlqowbehebajajshsbsbkqowywnwkqoqouwhwbwuwjq', 'anjing', 'banget', 'pokok']
 158. 
-['daleoflies', 'eh', 'disuruh', 'siapa', 'sih', 'lucu', 'banget', 'kaya', 'gini', 'gagrhsgsgagegaggsgaahhs']
+['notebook', 'spiral', 'a5', 'aesthetic', '100', 'halaman', 'bu', 'tulis', 'catatan', 'bookpaper', 'journal', 'jurnal', 'binder', 'ary', 'ko', 'kuliah', 'ring', 'garis', 'polos', 'grid', 'dotted', 'bagus', 'korea', 'besar', 'tebal', 'urah', 'lucu', 'rating', '48', 'cek', 'promo']
 159. 
-['ya', 'tuhan', 'kenapa', 'lucu', 'banget']
+['notebook', 'notes', 'book', 'jurnal', 'journal', 'a5', 'bu', 'catatan', 'bu', 'tulis', 'ary', 'agenda', 'planner', 'spiral', 'aesthetic', 'grid', 'line', 'blank', 'dotted', 'urah', 'bahan', 'kualitas', 'desain', 'unik', 'lucu', 'rating', '49', 'cek', 'promo']
 160. 
-['hello', 'namaku', 'si', 'kucings', 'kecils', 'sihir', 'putih', 'ajaibs', 'misterius', 'empust', 'meongs', 'vuskey', 'cimuts', 'ohanie', '19', 'onyets', 'cenenets', 'nyidz', 'nyidz', 'licioust', 'sad', 'dreams', 'boys', 'dan', 'kamu', 'peri', 'cantik', 'suci', 'manis', 'imuts', 'lucu', 'unyu', 'tercinta', 'jenny', 'meiyou', 'lana', 'cinvia', 'rose', 'dawsons', 'juliettes', 'sad', 'baby', 'cats', 'girls']
+['lucu']
 161. 
-['leyzach', 'lucu', 'taau', 'sehat', 'sehat', 'arley', 'debay']
+['lucu', 'banget']
 162. 
-['kim', 'seungmin', 'grgr', 'dia', 'lucu', 'bgt']
+['rt', 'yainiuna', 'lucu', 'bgt', 'dah']
 163. 
-['subnevermore', 'makasi', 'kamu', 'juga', 'lucu']
+['wkwkwkwkkwkw', 'past', 'ru', 'nih', 'nontom', 'satu', 'dorm', 'tap', 'beda', 'dukungan', 'pengen', 'lihat', 'reka', 'live', 'past', 'lucu', 'bgy']
 164. 
-['helledistic', 'males', 'lah', 'makin', 'lucu']
+['deftoesn', 'lucu', 'bngt', 'wo']
 165. 
-['rt', 'minchanation', 'bnh', 'lucu']
+['sebuah', 'online', 'polling', 'fans', 'ilih', 'siapa', 'ber', 'paling', 'lucu', 'tika', 'dang', 'nggigit', 'bibir', 'fans', 'njawab', 'no1', 'baekhyun', 'no2', 'luhan']
 166. 
-['caledunla', 'emm', 'vanya', 'lucu', 'bgt']
+['rt', 'lemonyscents', 'jaemjen', 'au', 'mana', 'mesta', 'lain', 'jaem', 'ada', 'orang', 'budak', 'korporat', 'yang', 'pu', 'tiga', 'hybrid', 'lucu', 'rumah']
 167. 
-['mytaeby', 'moonareas', 'udah', 'cantik', 'gemes', 'lucu', 'apa', 'kantongin', 'aja', 'ya']
+['convomf', 'lucu', 'kal']
 168. 
-['lucu', 'bngt', 'ya', 'allah']
+['apas', 'lucu', 'bgt']
 169. 
-['l3y99i', 'lucu', 'bgt', 'tengs', 'leyy']
+['kalau', 'yur', 'suka', 'anggil', 'yoona', 'karena', 'ingin', 'ndengar', 'suara', 'lucu', 'yoona', 'beda', 'hal', 'tiffany', 'karena', 'a', 'tidak_suka', 'cara', 'b', 'yoona']
 170. 
-['hill', 'aaaajgggggg', 'tau', 'gak_gue', 'terharu', 'banget', 'kok', 'bs', 'lu', 'lucu', 'bgini', 'anying', 'aaaaauajsgeyeveg', 'chaewon', 'gf', 'gf', 'bark', 'bark', 'woof', 'wooofffffff', 'love', 'love', 'love']
+['rt', 'northuspec', 'kith', 'kith', 'lucu', 'banget', 'anjeng']
 171. 
-['rt', 'jimin5rth', 'nayeon5rth', 'belum', 'belum', 'usah', 'lucu', 'aja', 'km', 'nayeon']
+['dheadm', 'lucu', 'bgt', 'kaya', 'haim', 'but', 'its']
 172. 
-['zhong', 'chenleeee', 'lucu', 'bgt']
+['rt', 'holabuna', 'ta', 'lucu', 'bner', 'dah', 'pang', 'dua', 'hatihat', 'syang', '5ecretnumber']
 173. 
-['kimlizou', 'hlo', 'lucu', 'banget', 'jadi', 'pengen', 'unyel', 'kkumi', 'deh', 'tt', 'huhu', 'maaci', 'liz', 'gtlt', 'kapankapan', 'boleh', 'diajak', 'main', 'ya', 'mereka']
+['lovingnojaem', 'hah', 'lucu', 'sih', 'lucu', 'tp', 'gatau', 'aja', 'end', '']
 174. 
-['ai', 'lucu', 'bgt', 'demmmm']
+['btw', 'iya', 'kokom', 'lucu', 'banget', 'nyata', 'kalo', 'foto', 'dar', 'sin', 'k', 'gemesin', 'bgt']
 175. 
-['cheddzar', 'emang', 'lucu']
+['rt', 'forrecomd', 'kumpulan', 'chat', 'lucu', 'ojol', 'dan', 'customer', 'bikin', 'ngakak', 'parah', 'thread']
+176. 
+['anjing', 'in', 'lucu', 'bgt']
+177. 
+['lucu', 'bangeeetttt']
+178. 
+['rt', 'fthasya', 'oi', 'in', 'lucu', 'bgt', 'jad', 'andin', 'kampus', 'trs', 'kasih', 'tau', 'ada', 'yg', 'nungguin', 'pas', 'liat', 'depan', 'suami', 'trs', 'a', 'bilang', 'hai', 'sksks']
