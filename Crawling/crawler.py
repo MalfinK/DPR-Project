@@ -8,7 +8,8 @@ client = tweepy.Client(bearer_token)
 # respon_data = client.search_recent_tweets(kata_kunci, max_results=100)
 # print(respon_data)
 
-key = ['MATA NAJWA', 'Stand Up Comedy', 'indonesia idol', '@OVJ_Trans7', 'YKS', '@WCIndonesia', 'Rising Star Indonesia', 'ILK (Indonesia lawak klub)']
+# key = ['MATA NAJWA', 'Stand Up Comedy', 'indonesia idol', '@OVJ_Trans7', 'YKS', '@WCIndonesia', 'Rising Star Indonesia', 'ILK (Indonesia lawak klub)']
+key = ['gempa','ruang guru', 'piala dunia', 'ga seru']
 
 with open("hasil_crawler.txt", "w", encoding="utf8") as hasilKeseluruhan:
     for tags in key:

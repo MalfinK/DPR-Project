@@ -1,894 +1,1194 @@
-['main', 'cooking', 'dream', 'abis', 'watching', 'mata', 'najwa', 'adalah', 'kestabilan', 'yang', 'sesungguhnya']
+['berasa', 'goyang', 'mulu', 'bkn', 'gempa', 'sih', 'akunya', 'pusing', 'ampe', 'muter']
 
 
-['nurafrizall', 'padahal', 'aku', 'dah', 'liat', 'pke', 'mata', 'najwa']
+['rt', 'detikjabar', 'korban', 'gempa', 'cianjur', 'kembali', 'ditemukan', '28', 'hari', 'pascakejadian']
 
 
-['keluar', 'kuping', 'kanan', 'keluar', 'mata', 'najwa', 'boleh']
+['rt', 'bddablue', 'caratstalk', 'budak', 'corporate', 'yg', 'suka', 'mengeluh', 'pengen', 'resign', 'tapi', 'ga_resign', 'resign', 'tiap', 'malem', 'nangisin', 'hal', 'yg', 'ga_jelas', 'dan', 'suka']
 
 
-['mau', 'kuliah', 'negri', 'atau', 'swasta', 'semua', 'sama', 'mata', 'najwa']
+['rt', 'kentarockers', 'gw', 'mau', 'curhat', 'nih', 'tapi', 'mohon', 'maaf', 'bukan', 'maksud', 'menyudutkan', 'siapapun', 'ini', 'soal', 'amanah', 'ya', 'gini', 'gw', 'wa', 'salah', 'satu', 'pengung']
 
 
-['kalau', 'anies', 'jadi', 'ketua', 'kpk', 'mata', 'najwa', 'via', 'youtube']
+['padahal', 'yang', 'ngaku', 'pengen', 'mati', 'juga', 'panik', 'pas', 'lagi', 'gempa']
 
 
-['rillanimek', 'deh', 'maunya', 'mata', 'najwa']
+['rt', 'zweitheart', 'kalian', 'maw', 'liat', 'goyang', 'gempa', 'bumi', 'gak_']
 
 
-['rt', 'iskanql', 'buat', 'yg', 'debat', 'masalah', 'kritik', 'dan', 'penghinaan', 'pemerintah', 'dalam', 'kuhp', 'nih', 'dijawab', 'langsung', 'oleh', 'ahlinya', 'dr', 'zainal', 'ari']
+['infobmkg', 'setiap', 'hari', 'kokada', 'gempa', 'ya']
 
 
-['rt', 'arhanalfiansyah', 'anies', 'takut', 'dari', 'undangan', 'mba', 'najwa', 'acara', 'mata', 'najwa', 'capres', 'kok', 'takut', 'kenapa', 'haha', 'karens', 'diner', 'melon', 'top100']
+['rt', 'pksbogor', 'memasuki', 'hampir', 'bln', 'pasca', 'gempa', '56', 'sr', 'yang', 'menguncang', 'kabupaten', 'cianjur', 'relawan', 'pks', 'rpks', 'kabupaten', 'bogor', 'beserta', 'rpks', 'da']
 
 
-['anies', 'takut', 'dari', 'undangan', 'mba', 'najwa', 'acara', 'mata', 'najwa', 'capres', 'kok', 'takut', 'kenapa', 'haha', 'karens', 'diner', 'melon', 'top100', 'olla', 'depok', 'wendy', 'argentina', 'dj', 'happytriplenday2022', 'mynameisnanon', '12', 'days', 'ezra', 'sulung']
+['rt', 'doktertifa', 'saya', 'tdk', 'akan', 'info', 'kan', 'apapun', 'ttg', 'gempa', 'covid', 'vaksin', 'drpd', 'kena', 'suspend', 'utk', 'gempa', 'selalu', 'siaga', 'utk', 'covid', 'akan', 'terus']
 
 
-['mata', 'najwa']
+['rt', 'pksbogor', 'memasuki', 'hampir', 'bln', 'pasca', 'gempa', '56', 'sr', 'yang', 'menguncang', 'kabupaten', 'cianjur', 'relawan', 'pks', 'rpks', 'kabupaten', 'bogor', 'beserta', 'rpks', 'da']
 
 
-['alisyarief', 'sy', 'inget', 'ketika', 'mereka', 'dulu', 'diwawancarai', 'mba', 'najwa', 'shihab', 'acara', 'mata', 'najwa', 'sgt', 'low', 'profile', 'pokoknya', 'bikin', 'semua', 'pemirsa', 'tv', 'saat', 'itu', 'kesengsem', 'deh', 'bahwa', 'mereka', 'gak_akan', 'akan', 'aji', 'mumpung', 'sepertinya', 'seiring', 'waktu', 'berjalan', 'ternyata', 'skrg', 'berubah', '180', 'derajat', 'dri', 'wawancara', 'itu']
+['rt', 'infobmkg', 'gempa', 'update', 'mag39', '18des22', '095913', 'wib', 'lok822', 'ls', '11647', 'bt', 'pusat', 'gempa', 'berada', 'laut', '37', 'km', 'timurlaut', 'lombok', 'ut']
 
 
-['rt', 'farahnatanael', 'anies', 'selalu', 'menolak', 'undagan', 'hadir', 'acara', 'mata', 'najwa', 'milik', 'najwa', 'sihab', 'ia', 'takut', 'semua', 'kebusukannya', 'terbongkar']
+['rt', 'petabencana', 'dhennybataz09', 'halo', 'saya', 'bencana', 'bot', 'melaporkan', 'dampak', 'gempa', 'sekitarmu', 'silakan', 'balas', 'gempa']
 
 
-['semua', 'sama', 'mata', 'najwa']
+['petabencana', 'gempacianjur', 'bantuan', 'datang', 'membersihkan', 'puing2', 'oleh', 'brimob', 'polda', 'jabargempa', 'cianjur', 'rmh', 'rata', 'sama', 'tanah', 'babakanbandung']
 
 
-['buat', 'yg', 'debat', 'masalah', 'kritik', 'dan', 'penghinaan', 'pemerintah', 'dalam', 'kuhp', 'nih', 'dijawab', 'langsung', 'oleh', 'ahlinya', 'dr', 'zainal', 'arifin', 'mochtar', 'sh', 'llm', 'dikutip', 'dari', 'debat', 'rkuhp', 'merdeka', 'bersuara', 'mata', 'najwa']
+['doktertifa', 'sdh', 'ada', 'bmkg', 'soal', 'gempa', 'sdh', 'ada', 'satgas', 'covid', 'soal', 'covid']
 
 
-['dustabelaka', 'moviemenfes', 'wkskwkwkwk', 'mata', 'najwa']
+['couldnt', 'tell', 'was', 'it', 'gempa', 'or', 'my', 'blood', 'pressures', 'messing', 'up', 'with', 'my', 'head']
 
 
-['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak_berkontribusi', 'berkontribusi', 'mata', 'najwa']
+['jowojawi', 'pas', 'sowan', 'meditasi', 'ada', 'yg', 'bilang', 'gempa', 'trus', 'sekilas', 'ada', 'gambaran', 'kayak', 'ga_jauh', 'dari', 'pantai', 'gitu', 'meditasi', 'badan', 'sampe', 'kaki', 'berasa', 'geter', 'loh', 'mas', 'kaget', 'saya']
 
 
-['rt', 'matanajwa', 'sebentarsebentar', 'ini', 'ada', 'apa', 'kok', 'mata', 'najwa']
+['rt', 'infobmkg', 'gempa', 'mag30', '18dec2022', '153254wib', 'lok331lu', '9863bt', '27', 'km', 'timurlaut', 'kabkarosumut', 'kedlmn10', 'km', 'bmkg', 'disclaimer']
 
 
-['rt', 'purebprince', 'collegemenfess', 'bukan', 'seindonesia', 'lagi', 'nder', 'tapi', 'seasia', 'tenggara', 'inget', 'gak_kalo', 'kalo', 'mbak', 'nana', 'pernah', 'bilang', 'fee', 'suaminya', 'tuh']
+['rt', 'infobmkg', 'gempa', 'update', 'mag39', '18des22', '095913', 'wib', 'lok822', 'ls', '11647', 'bt', 'pusat', 'gempa', 'berada', 'laut', '37', 'km', 'timurlaut', 'lombok', 'ut']
 
 
-['rt', 'farahnatanael', 'anies', 'selalu', 'menolak', 'undagan', 'hadir', 'acara', 'mata', 'najwa', 'milik', 'najwa', 'sihab', 'ia', 'takut', 'semua', 'kebusukannya', 'terbongkar']
+['rt', 'infobmkg', 'gempa', 'mag30', '18dec2022', '201104wib', 'lok074lu', '12124bt', '28', 'km', 'baratdaya', 'buolsulteng', 'kedlmn26', 'km', 'bmkg', 'disclaimer']
 
 
-['anies', 'selalu', 'menolak', 'undagan', 'hadir', 'acara', 'mata', 'najwa', 'milik', 'najwa', 'sihab', 'ia', 'takut', 'semua', 'kebusukannya', 'terbongkar', 'depok', 'pernah', 'minggu', 'congrats', 'croatia', 'friendly', 'headache', 'parkir', 'snowdrop', 'best', 'drama', 'siang', 'argentinavsfrance']
+['baznas', 'kota', 'yogya', 'humas', 'alhamdulillah', 'jamaah', 'ahad', 'pagi', 'masjid', 'hayu', 'kurniawan', 'jl', 'lowanu', 'umbulharjo', 'kota', 'yk', 'ahad', '17122022', 'serahkan', 'infaq', 'sejumlah', 'rp1200000', 'bantuan', 'musibah', 'gempa', 'cianjur', 'bantuan', 'diserahkan', 'bpmulyanto', 'didampingi', 'ustadz', 'anang', 'sumarna']
 
 
-['rt', 'fathinahamdi', 'anies', 'selalu', 'menolak', 'undagan', 'hadir', 'acara', 'mata', 'najwa', 'milik', 'najwa', 'sihab', 'ia', 'takut', 'semua', 'kebusukannya', 'terbongkar']
+['rt', 'infobmkg', 'gempa', 'mag44', '18dec2022', '132021wib', 'lok272ls', '13800bt', '33', 'km', 'tenggara', 'mamberamorayapapua', 'kedlmn79', 'km', 'bmkg', 'discl']
 
 
-['anies', 'selalu', 'menolak', 'undagan', 'hadir', 'acara', 'mata', 'najwa', 'milik', 'najwa', 'sihab', 'ia', 'takut', 'semua', 'kebusukannya', 'terbongkar', 'depok', 'feel', 'my', 'rhythm', 'minggu', 'congrats', 'croatia', 'emina', 'toji', 'melon', 'top100', 'pernah', 'friendly', 'olla', 'headache', 'sering', 'haruto', 'minji', 'argentinavsfrance']
+['rt', 'infobmkg', 'gempa', 'mag33', '18dec2022', '205503wib', 'lok437ls', '12322bt', '43', 'km', 'tenggara', 'konawekepsultra', 'kedlmn10', 'km', 'bmkg', 'disclai']
 
 
-['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak_berkontribusi', 'berkontribusi', 'mata', 'najwa']
+['rt', 'bmkgjogja', 'info', 'gempa', 'mag15', '18des22', '205338', 'wib', 'lok803', 'ls11047', 'bt', '16', 'km', 'baratdaya', 'gunungkiduldiy', 'kedlmn10', 'km', 'bmkgpgr']
 
 
-['rt', 'matanajwa', 'cek', 'tips', 'bersuara', 'dari', 'joko', 'anwar', 'mata', 'najwa', 'tonton', 'youtube', 'najwa', 'shihab', 'atau', 'website', 'narasi']
+['jaeemine', 'kalo', 'ada', 'yg', 'jalan', 'berasa', 'gempa']
 
 
-['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak_berkontribusi', 'berkontribusi', 'mata', 'najwa']
+['rt', 'bmkgjogja', 'info', 'gempa', 'mag19', '18des22', '205352', 'wib', 'lok815', 'ls11054', 'bt', '19', 'km', 'baratdaya', 'gunungkiduldiy', 'kedlmn10', 'km', 'bmkgpgr']
 
 
-['rt', 'matanajwa', 'rkuhp', 'udah', 'sah', 'kita', 'bisa', 'bersuara', 'dunia', 'maya', 'enggak_sih', 'sih', 'mata', 'najwa']
+['rt', 'infobmkg', 'gempa', 'mag30', '18dec2022', '201104wib', 'lok074lu', '12124bt', '28', 'km', 'baratdaya', 'buolsulteng', 'kedlmn26', 'km', 'bmkg', 'disclaimer']
 
 
-['rt', 'matanajwa', 'rkuhp', 'udah', 'sah', 'kita', 'bisa', 'bersuara', 'dunia', 'maya', 'enggak_sih', 'sih', 'mata', 'najwa']
+['rt', 'infobmkg', 'gempa', 'mag30', '18dec2022', '201104wib', 'lok074lu', '12124bt', '28', 'km', 'baratdaya', 'buolsulteng', 'kedlmn26', 'km', 'bmkg', 'disclaimer']
 
 
-['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak_berkontribusi', 'berkontribusi', 'mata', 'najwa']
+['rt', 'bmkgwilayah2', 'info', 'gempa', 'mag32', '18dec22', '144928', 'wib', 'lok613', 'ls', '10506', 'bt', '74', 'km', 'baratdaya', 'lampungselatan', 'kedlmn', '28', 'km', 'bmk']
 
 
-['rt', 'matanajwa', 'rkuhp', 'udah', 'sah', 'kita', 'bisa', 'bersuara', 'dunia', 'maya', 'enggak_sih', 'sih', 'mata', 'najwa']
+['heiio911', 'bengkulu', 'emg', 'hampir', 'sempurna', 'cuma', 'kekurangannya', 'demen', 'gempa', 'dan', 'rawan', 'tsunami']
 
 
-['rt', 'matanajwa', 'sebentarsebentar', 'ini', 'ada', 'apa', 'kok', 'mata', 'najwa']
+['rt', 'bmkgwilayah2', 'info', 'gempa', 'mag24', '18dec22', '015854', 'wib', 'lok760', 'ls', '10816', 'bt', '27', 'km', 'tenggara', 'kabtasikmalayajabar', 'kedlmn', '87', 'km']
 
 
-['rt', 'matanajwa', 'sebentarsebentar', 'ini', 'ada', 'apa', 'kok', 'mata', 'najwa']
+['kentarockers', 'adab', 'dan', 'amanah', 'hal', 'yg', 'mereka', 'ga_nyampe', 'mikirnya', 'yg', 'hebat', 'adalah', 'udah', 'dikasi', 'gempa', 'jg', 'ga_sadar']
 
 
-['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak_berkontribusi', 'berkontribusi', 'mata', 'najwa']
+['fansfabioq20', 'rmmangkuboto', 'budakkopi', 'sumatera', 'dan', 'jawa', 'pun', 'banyak', 'bencana', 'seperti', 'gempa', 'dan', 'gunung', 'meletusbanyak', 'situs', 'yang', 'rusak', 'dan', 'terkubur', 'tapi', 'situs', 'peninggalan', 'kerajaan', 'dulu', 'bisa', 'ditemukan', 'bahkan', 'banyak', 'sedangkan', 'malaysia', 'situs', 'seperti', 'itu', 'bahkan', 'sangat', 'sedikit', 'bahkan', 'nggak_ada']
 
 
-['rt', 'matanajwa', 'mata', 'najwa', 'bintangemon', 'abigailimuriaa', 'jokoanwar', 'dan', 'najwashihab', 'menceritakan', 'trigger', 'yang', 'buat', 'mereka', 'gatel']
+['rt', 'infobmkg', 'gempa', 'magnitudo', '51', 'kedalaman', '10', 'km', '18', 'des', '2022', '012828', 'wib', 'koordinat', '1130', 'ls11782', 'bt', '229', 'km', 'baratdaya', 'kodisumba']
 
 
-['rt', 'matanajwa', 'jadi', 'kritis', 'bukan', 'cuma', 'asal', 'kritik', 'tapi', 'juga', 'harus', 'mau', 'tahu', 'dan', 'berani', 'salah', 'berani', 'dikritik', 'abigailimuriaa', 'founder', 'wh']
+['kalian', 'maw', 'liat', 'goyang', 'gempa', 'bumi', 'gak_']
 
 
-['rt', 'matanajwa', 'rkuhp', 'udah', 'sah', 'kita', 'bisa', 'bersuara', 'dunia', 'maya', 'enggak_sih', 'sih', 'mata', 'najwa']
+['gempa', 'magnitudo', '51', 'guncang', 'sumba', 'barat', 'daya', 'ntt']
 
 
-['rt', 'matanajwa', 'rkuhp', 'udah', 'sah', 'kita', 'bisa', 'bersuara', 'dunia', 'maya', 'enggak_sih', 'sih', 'mata', 'najwa']
+['rt', 'infobmkg', 'gempa', 'mag30', '18dec2022', '201104wib', 'lok074lu', '12124bt', '28', 'km', 'baratdaya', 'buolsulteng', 'kedlmn26', 'km', 'bmkg', 'disclaimer']
 
 
-['rt', 'matanajwa', 'sebentarsebentar', 'ini', 'ada', 'apa', 'kok', 'mata', 'najwa']
+['hahahaha', 'kaum', 'physical', 'touch', 'mau', 'ada', 'gempa', 'angin', 'badai', 'tsunami', 'juga', 'ga_lepas', 'tuh', 'pelukan', 'keknya']
 
 
-['rt', 'matanajwa', 'sebentarsebentar', 'ini', 'ada', 'apa', 'kok', 'mata', 'najwa']
+['kayaknya', 'tiap', 'gempa', 'mesti', 'waktu', 'terang', 'ya']
 
 
-['taukan', 'kenapa', 'ga_mau', 'mau', 'dateng', 'takut', 'ditanya', 'kelebihan', 'bayar', 'lem', 'aibon', 'pulpen', 'dll']
+['rt', 'pijatenakpria', 'pijatpriasemarang', 'pijatsemarang', 'pijatpasutri', 'pijatfullbody', 'bodymassagesemarang', 'massagementoman', 'bodytobody', 'pi']
 
 
-['geloraco', 'pdiperjuangan', 'wkt', 'jdi', 'oposisi', 'era', 'sby', 'diberi', 'keleluasaan', 'berekspresi', 'bisa', 'demo', 'berjilid2pake', 'nangis', 'segala', 'krn', 'bbm', 'naik', 'demo', 'boleh', 'diliput', 'live', 'tv', 'nasional', 'krn', 'sby', 'menjaga', 'demokrasi', 'tetap', 'on', 'the', 'track', 'era', 'jokowi', 'acara', 'tv', 'favorite', 'ilc', 'amp', 'mata', 'najwa', 'tetiba', 'bisa', 'ilang']
+['tembang', 'kenangan', 'peduli', 'cianjur', 'amp', 'gempa', 'bumi', '2022', 'mardizu', 'entertainment', 'amp', 'maman', 'piul', 'enterprise', 'bersama', 'seniman', 'gita', 'suara']
 
 
-['eyessovivid', 'stop', 'mata', 'najwa', 'mari', 'kita', 'mulai', 'mata', 'pelajaran']
+['jepang', 'kena', 'bencana', 'terus', 'malah', 'mikir', 'mendesain', 'gedung', 'tahan', 'gempa', 'yg', 'lebih', 'baik', 'lagi', 'mitigasi', 'dll', 'mahasiswa', 'universitas', 'nomer', 'disini', 'malah', 'jadi', 'relijius']
 
 
-['rt', 'purebprince', 'collegemenfess', 'bukan', 'seindonesia', 'lagi', 'nder', 'tapi', 'seasia', 'tenggara', 'inget', 'gak_kalo', 'kalo', 'mbak', 'nana', 'pernah', 'bilang', 'fee', 'suaminya', 'tuh']
+['rt', 'infobmkg', 'gempa', 'update', 'mag39', '18des22', '095913', 'wib', 'lok822', 'ls', '11647', 'bt', 'pusat', 'gempa', 'berada', 'laut', '37', 'km', 'timurlaut', 'lombok', 'ut']
 
 
-['warpopski', 'airnya', 'langsung', 'diambil', 'dari', 'mata', 'najwa', 'hehe']
+['rt', 'infobmkg', 'gempa', 'mag33', '18dec2022', '205503wib', 'lok437ls', '12322bt', '43', 'km', 'tenggara', 'konawekepsultra', 'kedlmn10', 'km', 'bmkg', 'disclai']
 
 
-['rt', 'matanajwa', 'mata', 'najwa', 'bintangemon', 'abigailimuriaa', 'jokoanwar', 'dan', 'najwashihab', 'menceritakan', 'trigger', 'yang', 'buat', 'mereka', 'gatel']
+['rt', 'infobmkg', 'gempa', 'mag33', '18dec2022', '205503wib', 'lok437ls', '12322bt', '43', 'km', 'tenggara', 'konawekepsultra', 'kedlmn10', 'km', 'bmkg', 'disclai']
 
 
-['rt', 'indahnasutionn1', 'dapat', 'hibah', 'siluman', 'senilai', '15', 'miliar', 'pantes', 'sering', 'mangkir', 'dari', 'undangan', 'mata', 'najwa', 'takut', 'ditanya', 'ya', 'pagii', 'mornin']
+['rt', 'infobmkg', 'gempa', 'mag30', '18dec2022', '153254wib', 'lok331lu', '9863bt', '27', 'km', 'timurlaut', 'kabkarosumut', 'kedlmn10', 'km', 'bmkg', 'disclaimer']
 
 
-['dapat', 'hibah', 'siluman', 'senilai', '15', 'miliar', 'pantes', 'sering', 'mangkir', 'dari', 'undangan', 'mata', 'najwa', 'takut', 'ditanya', 'ya', 'pagii', 'morningg', 'marocco', 'minggu', 'karens', 'diner', 'minggu', 'olla', 'melon', 'top100', 'pernah', 'the', 'big', 'bungsu', 'juve', 'the', 'greatest', 'showman', 'sering', 'friendly', 'jakarta', 'minji', 'emi', 'wong', 'graduation']
+['rt', 'infobmkg', 'gempa', 'mag44', '18dec2022', '132021wib', 'lok272ls', '13800bt', '33', 'km', 'tenggara', 'mamberamorayapapua', 'kedlmn79', 'km', 'bmkg', 'discl']
 
 
-['rt', 'xyzabcddddd', 'collegemenfess', 'wkwkw', 'makanya', 'ga_aneh', 'aneh', 'kan', 'kalo', 'dia', 'berani', 'bikin', 'show', 'mata', 'najwa', 'pembahasan', 'yg', 'selalu', 'wow']
+['rt', 'bmkgjogja', 'info', 'gempa', 'mag19', '18des22', '205352', 'wib', 'lok815', 'ls11054', 'bt', '19', 'km', 'baratdaya', 'gunungkiduldiy', 'kedlmn10', 'km', 'bmkgpgr']
 
 
-['rt', 'purebprince', 'collegemenfess', 'bukan', 'seindonesia', 'lagi', 'nder', 'tapi', 'seasia', 'tenggara', 'inget', 'gak_kalo', 'kalo', 'mbak', 'nana', 'pernah', 'bilang', 'fee', 'suaminya', 'tuh']
+['rt', 'infobmkg', 'gempa', 'update', 'mag39', '18des22', '095913', 'wib', 'lok822', 'ls', '11647', 'bt', 'pusat', 'gempa', 'berada', 'laut', '37', 'km', 'timurlaut', 'lombok', 'ut']
 
 
-['baccarant', 'jadi', 'mata', 'najwa', 'euy']
+['rt', 'bmkgjogja', 'info', 'gempa', 'mag19', '18des22', '205352', 'wib', 'lok815', 'ls11054', 'bt', '19', 'km', 'baratdaya', 'gunungkiduldiy', 'kedlmn10', 'km', 'bmkgpgr']
 
 
-['hnsnadty', 'kadang', 'suka', 'bingung', 'juga', 'mata', 'pencaharian', 'siapanya', 'mata', 'najwa']
+['aku', 'kangen', 'bandung', 'aku', 'pengen', 'ke', 'bandung', 'tp', 'katanya', 'bandung', 'rawan', 'gempa']
 
 
-['dari', 'matamu', 'matamu', 'mata', 'najwa']
+['pandeglang', 'banten', 'termasuk', 'daerah', 'rawan', 'gempa', 'bumi', 'dan', 'tsunami', 'bmkg', 'pasang', '20', 'alat', 'pendeteksi', 'gempabumi', 'tsunami', 'pandeglang', 'bmkg']
 
 
-['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak_berkontribusi', 'berkontribusi', 'mata', 'najwa']
+['rt', 'bmkgjogja', 'info', 'gempa', 'mag19', '18des22', '205352', 'wib', 'lok815', 'ls11054', 'bt', '19', 'km', 'baratdaya', 'gunungkiduldiy', 'kedlmn10', 'km', 'bmkgpgr']
 
 
-['rt', 'matanajwa', 'jadi', 'kritis', 'bukan', 'cuma', 'asal', 'kritik', 'tapi', 'juga', 'harus', 'mau', 'tahu', 'dan', 'berani', 'salah', 'berani', 'dikritik', 'abigailimuriaa', 'founder', 'wh']
+['pandeglang', 'banten', 'termasuk', 'daerah', 'rawan', 'gempa', 'bumi', 'dan', 'tsunami', 'bmkg', 'pasang', '20', 'alat', 'pendeteksi', 'gempabumi', 'tsunami', 'pandeglang', 'bmkg']
 
 
-['yuutaeu', 'haaa', 'upin', 'keluar', 'kuping', 'masuk', 'rumah', 'mata', 'najwa']
+['info', 'gempa', 'mag19', '18des22', '205352', 'wib', 'lok815', 'ls11054', 'bt', '19', 'km', 'baratdaya', 'gunungkiduldiy', 'kedlmn10', 'km', 'bmkgpgr', 'vii']
 
 
-['gauon', 'ada', 'mata', 'najwa', 'yah']
+['pandeglang', 'banten', 'termasuk', 'daerah', 'rawan', 'gempa', 'bumi', 'dan', 'tsunami', 'bmkg', 'pasang', '20', 'alat', 'pendeteksi', 'gempabumi', 'tsunami', 'pandeglang', 'bmkg']
 
 
-['knp', 'like', 'terus', 'aku', 'jd', 'brsa', 'pemes', 'dan', 'merasa', 'bakal', 'jd', 'selebtwt', 'yy', 'bakal', 'diundang', 'mata', 'najwa']
+['inindaaueuee', 'gempa', 'hatimu', 'gempa']
 
 
-['rt', 'jeongwso', 'damyeon', 'matamu', 'ini', 'mataku', 'mata', 'kiri', 'mataku', 'mata', 'kanan', 'mataku', 'mata', 'najwa']
+['1overie', 'eh', 'gempa', 'gasi', 'gok']
 
 
-['damyeon', 'matamu', 'ini', 'mataku', 'mata', 'kiri', 'mataku', 'mata', 'kanan', 'mataku', 'mata', 'najwa']
+['pandeglang', 'banten', 'termasuk', 'daerah', 'rawan', 'gempa', 'bumi', 'dan', 'tsunami', 'bmkg', 'pasang', '20', 'alat', 'pendeteksi', 'gempabumi', 'tsunami', 'pandeglang', 'bmkg']
 
 
-['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak_berkontribusi', 'berkontribusi', 'mata', 'najwa']
+['petabencana', 'diposopo', 'gempa']
 
 
-['6giroud', 'bisanya', 'mata', 'najwa', 'sih']
+['rt', 'infobmkg', 'gempa', 'mag33', '18dec2022', '205503wib', 'lok437ls', '12322bt', '43', 'km', 'tenggara', 'konawekepsultra', 'kedlmn10', 'km', 'bmkg', 'disclai']
 
 
-['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak_berkontribusi', 'berkontribusi', 'mata', 'najwa']
+['rt', 'haecaessy', 'rekomendasi', 'cardigansweater', 'lucu', 'bisa', 'dipakai', 'sekolah', 'thread', 'tags', 'ice', 'bsd', 'begitu', 'indra', 'herlambang', 'get', 'no']
 
 
-['wanderpain', 'km', 'ttep', 'baik', 'dimata', 'ak', 'mata', 'kiri', 'mata', 'kanan', 'mata', 'najwa']
+['rt', 'infobmkg', 'gempa', 'mag44', '18dec2022', '132021wib', 'lok272ls', '13800bt', '33', 'km', 'tenggara', 'mamberamorayapapua', 'kedlmn79', 'km', 'bmkg', 'discl']
 
 
-['littiehopesong', 'tutup', 'mata', 'najwa', 'berat', 'apalagi', 'tidak_mencintaimu', 'mencintaimu', 'lebih', 'berat', 'lagi']
+['rt', 'simanjuntakeni']
 
 
-['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak_berkontribusi', 'berkontribusi', 'mata', 'najwa']
+['bapak', 'barusan', 'telpon', 'bilang', 'kalau', 'katanya', 'besok', 'tahun', 'baru', 'nggak_usah', 'piknik', 'ke', 'pantai', 'dunia', 'ini', 'udah', 'tua', 'banyak', 'gempa', 'bumi', 'dan', 'rawan', 'tsunami', 'aku', 'ketawa', 'bapak', 'ini', 'kalau', 'anaknya', 'yg', 'ngomong', 'cm', 'kayak', 'ayam', 'sayur', 'nggak_didengerin', 'giliran', 'orang', 'lain', 'yg', 'ngomong', 'langsung', 'percaya']
 
 
-['ywungeun', 'convomfs', 'taunya', 'mata', 'najwa']
+['rt', 'infobmkg', 'gempa', 'mag30', '18dec2022', '201104wib', 'lok074lu', '12124bt', '28', 'km', 'baratdaya', 'buolsulteng', 'kedlmn26', 'km', 'bmkg', 'disclaimer']
 
 
-['rt', 'purebprince', 'collegemenfess', 'bukan', 'seindonesia', 'lagi', 'nder', 'tapi', 'seasia', 'tenggara', 'inget', 'gak_kalo', 'kalo', 'mbak', 'nana', 'pernah', 'bilang', 'fee', 'suaminya', 'tuh']
+['rt', 'infomitigasi', 'info', 'gempa', 'mag51', '18des22', '012828', 'wib', 'lok1130', 'ls', '11782', 'bt', '229', 'km', 'baratdaya', 'kodisumbabaratdayantt', 'kedlmn10']
 
 
-['rt', 'purebprince', 'collegemenfess', 'bukan', 'seindonesia', 'lagi', 'nder', 'tapi', 'seasia', 'tenggara', 'inget', 'gak_kalo', 'kalo', 'mbak', 'nana', 'pernah', 'bilang', 'fee', 'suaminya', 'tuh']
+['rt', 'infobmkg', 'gempa', 'mag30', '18dec2022', '201104wib', 'lok074lu', '12124bt', '28', 'km', 'baratdaya', 'buolsulteng', 'kedlmn26', 'km', 'bmkg', 'disclaimer']
 
 
-['kel0l0den', 'ini', 'mataku', 'mata', 'kiri', 'mataku', 'mata', 'kanan', 'mataku', 'mata', 'najwa', 'raaaaaawr']
+['rt', 'bmkgjogja', 'info', 'gempa', 'mag15', '18des22', '205338', 'wib', 'lok803', 'ls11047', 'bt', '16', 'km', 'baratdaya', 'gunungkiduldiy', 'kedlmn10', 'km', 'bmkgpgr']
 
 
-['ini', 'mataku', 'mata', 'kiri', 'mataku', 'mata', 'kanan', 'mataku', 'mata', 'najwa']
+['bersamajuara', 'ridwankamil']
 
 
-['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak_berkontribusi', 'berkontribusi', 'mata', 'najwa']
+['rt', 'bmkgjogja', 'info', 'gempa', 'mag15', '18des22', '205338', 'wib', 'lok803', 'ls11047', 'bt', '16', 'km', 'baratdaya', 'gunungkiduldiy', 'kedlmn10', 'km', 'bmkgpgr']
 
 
-['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak_berkontribusi', 'berkontribusi', 'mata', 'najwa']
+['rt', 'infobmkg', 'gempa', 'mag33', '18dec2022', '205503wib', 'lok437ls', '12322bt', '43', 'km', 'tenggara', 'konawekepsultra', 'kedlmn10', 'km', 'bmkg', 'disclai']
 
 
-['tadi', 'batuk', 'terus', 'keluar', 'mata', 'najwa', 'saran', 'obat', 'penghindar', 'dompet', 'kosong']
+['bmkg', 'pasang', 'alat', 'pendeteksi', 'gempa', 'pandeglang', 'gempa', 'gempabumi', 'alatpendeteksigempa']
 
 
-['katagueteh29', 'pengen', 'dia', 'diundang', 'sama', 'mata', 'najwa', 'supaya', 'nyeritain', 'suka', 'dan', 'duka', 'selama', 'syuting', 'upinipin', 'dan', 'opet']
+['bersamajuara', 'ridwankamil']
 
 
-['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak_berkontribusi', 'berkontribusi', 'mata', 'najwa']
+['rt', 'emsc', 'earthquake', 'gempa', 'm33', 'strikes', '93', 'km', 'se', 'of', 'kendari', 'indonesia', '10', 'min', 'ago', 'more', 'info']
 
 
-['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak_berkontribusi', 'berkontribusi', 'mata', 'najwa']
+['yakan', 'gempa', 'tadi', 'ngerasa', 'trs', 'search', 'twitter', 'gaada', 'yang', 'ngerasa', 'kirain', 'aku', 'kurang_minum', 'air', 'wkwk']
 
 
-['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak_berkontribusi', 'berkontribusi', 'mata', 'najwa']
+['bersamajuara', 'ridwankamil']
 
 
-['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak_berkontribusi', 'berkontribusi', 'mata', 'najwa']
+['rt', 'bmkgjogja', 'info', 'gempa', 'mag15', '18des22', '205338', 'wib', 'lok803', 'ls11047', 'bt', '16', 'km', 'baratdaya', 'gunungkiduldiy', 'kedlmn10', 'km', 'bmkgpgr']
 
 
-['kok', 'gw', 'yg', 'malu', 'ye', 'liat', 'pejabat', 'malah', 'saling', 'salty', 'medsos', 'kek', 'ya', 'ampun', 'bocil', 'amat', 'sih', 'lu', 'mbok', 'sono', 'ribut', 'mata', 'najwa', 'atau', 'forum', 'gitu']
+['bersamajuara', 'ridwankamil']
 
 
-['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak_berkontribusi', 'berkontribusi', 'mata', 'najwa']
+['info', 'gempa', 'mag15', '18des22', '205338', 'wib', 'lok803', 'ls11047', 'bt', '16', 'km', 'baratdaya', 'gunungkiduldiy', 'kedlmn10', 'km', 'bmkgpgr', 'vii']
 
 
-['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak_berkontribusi', 'berkontribusi', 'mata', 'najwa']
+['rt', 'infobmkg', 'gempa', 'mag30', '18dec2022', '201104wib', 'lok074lu', '12124bt', '28', 'km', 'baratdaya', 'buolsulteng', 'kedlmn26', 'km', 'bmkg', 'disclaimer']
 
 
-['rt', 'matanajwa', 'mata', 'najwa', 'bintangemon', 'abigailimuriaa', 'jokoanwar', 'dan', 'najwashihab', 'menceritakan', 'trigger', 'yang', 'buat', 'mereka', 'gatel']
+['lahh', 'ada', 'gempa', 'lumayan', 'keras', 'nih']
 
 
-['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak_berkontribusi', 'berkontribusi', 'mata', 'najwa']
+['earthquake', 'gempa', 'm33', 'strikes', '93', 'km', 'se', 'of', 'kendari', 'indonesia', '10', 'min', 'ago', 'more', 'info']
 
 
-['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak_berkontribusi', 'berkontribusi', 'mata', 'najwa']
+['rt', 'infobmkg', 'gempa', 'mag33', '18dec2022', '205503wib', 'lok437ls', '12322bt', '43', 'km', 'tenggara', 'konawekepsultra', 'kedlmn10', 'km', 'bmkg', 'disclai']
 
 
-['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak_berkontribusi', 'berkontribusi', 'mata', 'najwa']
+['rt', 'infobmkg', 'gempa', 'mag44', '18dec2022', '132021wib', 'lok272ls', '13800bt', '33', 'km', 'tenggara', 'mamberamorayapapua', 'kedlmn79', 'km', 'bmkg', 'discl']
 
 
-['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak_berkontribusi', 'berkontribusi', 'mata', 'najwa']
+['cahhkeplek', 'gempa', 'susulan', 'nih']
 
 
-['rt', 'matanajwa', 'cek', 'tips', 'bersuara', 'dari', 'joko', 'anwar', 'mata', 'najwa', 'tonton', 'youtube', 'najwa', 'shihab', 'atau', 'website', 'narasi']
+['rt', 'infobmkg', 'gempa', 'mag33', '18dec2022', '205503wib', 'lok437ls', '12322bt', '43', 'km', 'tenggara', 'konawekepsultra', 'kedlmn10', 'km', 'bmkg', 'disclai']
 
 
-['cek', 'tips', 'bersuara', 'dari', 'joko', 'anwar', 'mata', 'najwa', 'tonton', 'youtube', 'najwa', 'shihab', 'atau', 'website', 'narasi']
+['rt', 'infobmkg', 'gempa', 'mag33', '18dec2022', '205503wib', 'lok437ls', '12322bt', '43', 'km', 'tenggara', 'konawekepsultra', 'kedlmn10', 'km', 'bmkg', 'disclai']
 
 
-['kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak_berkontribusi', 'berkontribusi', 'mata', 'najwa']
+['rt', 'infobmkg', 'gempa', 'mag30', '18dec2022', '201104wib', 'lok074lu', '12124bt', '28', 'km', 'baratdaya', 'buolsulteng', 'kedlmn26', 'km', 'bmkg', 'disclaimer']
 
 
-['sxendal', 'mata', 'najwa']
+['rt', 'wsobeyi', 'hitomi', 'gempa', 'bumi']
 
 
-['missgita', 'gw', 'engga', 'liat', 'itu', 'cantik', 'apa', 'engga', 'soalnya', 'gw', 'liatnya', 'pake', 'mata', 'najwa']
+['olland72', 'bupati', 'lebak', 'hati', 'hati', 'kau', 'dg', 'kebijakamu', 'yg', 'jahat', 'menyakiti', 'org', 'kristen', 'ada', 'yg', 'marah', 'kalau', 'sampai', 'lebak', 'dikirim', 'tsunami', 'dan', 'gempa', 'dahsyattt', 'jangan', 'salah', 'kan', 'tuhan', 'yg', 'maha', 'kuasa', 'yg', 'sangat', 'sayang', 'sama', 'umat', 'yg', 'dikasihinya', 'bacalah', 'surat', 'banisroil', 'bukan', 'injil']
 
 
-['rt', 'matanajwa', 'mata', 'najwa', 'bintangemon', 'abigailimuriaa', 'jokoanwar', 'dan', 'najwashihab', 'menceritakan', 'trigger', 'yang', 'buat', 'mereka', 'gatel']
+['rt', 'infobmkg', 'gempa', 'mag33', '18dec2022', '205503wib', 'lok437ls', '12322bt', '43', 'km', 'tenggara', 'konawekepsultra', 'kedlmn10', 'km', 'bmkg', 'disclai']
 
 
-['rt', 'matanajwa', 'rkuhp', 'udah', 'sah', 'kita', 'bisa', 'bersuara', 'dunia', 'maya', 'enggak_sih', 'sih', 'mata', 'najwa']
+['rt', 'infobmkg', 'gempa', 'mag30', '18dec2022', '201104wib', 'lok074lu', '12124bt', '28', 'km', 'baratdaya', 'buolsulteng', 'kedlmn26', 'km', 'bmkg', 'disclaimer']
 
 
-['rt', 'matanajwa', 'jadi', 'kritis', 'bukan', 'cuma', 'asal', 'kritik', 'tapi', 'juga', 'harus', 'mau', 'tahu', 'dan', 'berani', 'salah', 'berani', 'dikritik', 'abigailimuriaa', 'founder', 'wh']
+['rt', 'infobmkg', 'gempa', 'mag33', '18dec2022', '205503wib', 'lok437ls', '12322bt', '43', 'km', 'tenggara', 'konawekepsultra', 'kedlmn10', 'km', 'bmkg', 'disclai']
 
 
-['rt', 'matanajwa', 'mata', 'najwa', 'bintangemon', 'abigailimuriaa', 'jokoanwar', 'dan', 'najwashihab', 'menceritakan', 'trigger', 'yang', 'buat', 'mereka', 'gatel']
+['hitomi', 'gempa', 'bumi']
 
 
-['rt', 'purebprince', 'collegemenfess', 'bukan', 'seindonesia', 'lagi', 'nder', 'tapi', 'seasia', 'tenggara', 'inget', 'gak_kalo', 'kalo', 'mbak', 'nana', 'pernah', 'bilang', 'fee', 'suaminya', 'tuh']
+['jakarta', 'dkijakarta', 'jakartaidnews', 'sonorafm92', '1830', 'infosonora', 'gempa', 'mag3218dec2022', '182249wiblok004ls', '9787bt', '68', 'km', 'tenggara', 'niasselatansumutkedlmn25', 'km', 'bmkg', 'disclaimerdlm', 'bbrp', 'menit', 'pertama', 'st', 'see', 'more']
 
 
-['rt', 'purebprince', 'collegemenfess', 'bukan', 'seindonesia', 'lagi', 'nder', 'tapi', 'seasia', 'tenggara', 'inget', 'gak_kalo', 'kalo', 'mbak', 'nana', 'pernah', 'bilang', 'fee', 'suaminya', 'tuh']
+['rt', 'infobmkg', 'gempa', 'mag33', '18dec2022', '205503wib', 'lok437ls', '12322bt', '43', 'km', 'tenggara', 'konawekepsultra', 'kedlmn10', 'km', 'bmkg', 'disclai']
 
 
-['stvardvst', 'mata', 'najwa', 'yang', 'terakhir']
+['rt', 'infobmkg', 'gempa', 'mag33', '18dec2022', '205503wib', 'lok437ls', '12322bt', '43', 'km', 'tenggara', 'konawekepsultra', 'kedlmn10', 'km', 'bmkg', 'disclai']
 
 
-['rt', 'matanajwa', 'jadi', 'kritis', 'bukan', 'cuma', 'asal', 'kritik', 'tapi', 'juga', 'harus', 'mau', 'tahu', 'dan', 'berani', 'salah', 'berani', 'dikritik', 'abigailimuriaa', 'founder', 'wh']
+['ayakkk', 'kamu', 'ngerasa', 'gempa', 'ga_sih', 'skskskksksk', 'enggak_nder', 'dari', 'waktu', 'itu', 'ga_pernah', 'ngerasain', 'padahal', 'tetangga', 'kos', 'ku', 'pada', 'riweuh', 'keluar', 'kamar', 'pada', 'turun', 'ke', 'bawah', 'aku', 'sibuk', 'makan', 'baru', 'tau', 'pas', 'buka', 'ig', 'lpg']
 
 
-['rt', 'leehurstcomic', 'had', 'great', 'time', 'gigging', 'at', 'the', 'backyard', 'comedy', 'club', 'last', 'night', 'the', 'next', 'step', 'in', 'trying', 'to', 'claw', 'my', 'way', 'back', 'to', 'stand', 'up']
+['rt', 'infobmkg', 'gempa', 'mag30', '18dec2022', '153254wib', 'lok331lu', '9863bt', '27', 'km', 'timurlaut', 'kabkarosumut', 'kedlmn10', 'km', 'bmkg', 'disclaimer']
 
 
-['takeastepback16', 'lizchurchill7', 'saline', 'it', 'was', 'obviously', 'typo', 'but', 'stand', 'up', 'comedy', 'is', 'not', 'in', 'your', 'future']
+['gempa', 'mag33', '18dec2022', '205503wib', 'lok437ls', '12322bt', '43', 'km', 'tenggara', 'konawekepsultra', 'kedlmn10', 'km', 'bmkg', 'disclaimerdlm', 'bbrp', 'menit', 'pertama', 'stlh', 'gmpparameter', 'gmp', 'dapat', 'berubah', 'dan', 'boleh', 'jadi', 'blm', 'akuratkecuali', 'tlh', 'dianalisis', 'ulang', 'seismolog']
 
 
-['rt', 'captnmarvl', 'need', 'rene', 'rapp', 'to', 'do', 'stand', 'up', 'comedy', 'special', 'whys', 'she', 'so', 'fucking', 'funny']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['rt', 'captnmarvl', 'need', 'rene', 'rapp', 'to', 'do', 'stand', 'up', 'comedy', 'special', 'whys', 'she', 'so', 'fucking', 'funny']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['guganoblat', 'zeliabatisti', 'profpadilla', 'villarpaulo17', 'nilcebregalda', 'corazzathais', 'melhor', 'que', 'stand', 'up', 'comedy', 'ou', 'marceloadnet', 'imitando', 'galvo', 'kkkkk']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['motangcules', 'aniesbaswedan', 'bahan', 'stand', 'up', 'comedy']
+['rt', 'endroyumh', 'dradianyadil', 'kuntoro88', 'koadfis', 'jokowi', 'reisaba', 'ramlirizal', 'doktertifa', 'tirtacipeng', 'dedycobuzier', 'drpriono1', 'helmife']
 
 
-['rt', 'thesokrates', 'one', 'night', 'stand', 'stand', 'up', 'comedy', 'one', 'stand', 'up']
+['maka', 'sesuai', 'informasi', 'dari', 'timur', 'ziddan', 'langkahkan', 'kaki', 'menuju', 'ruang', 'guru', 'mesin', 'ia', 'mengetuk', 'dan', 'mengintip', 'dari', 'pintu', 'assalamualaikum', 'pak', 'saya', 'ziddan', 'kelas', 'tp', 'izin', 'mengulang', 'tes', 'kemarin', 'pa']
 
 
-['rt', 'crazydogsp', 'stand', 'up', 'comedy', 'uauauauauau']
+['kanya', 'temen', 'geng', 'yada', 'mageran', 'tapi', 'jago', 'olahraga', 'gak_suka', 'nyatet', 'tapi', 'juara', 'kelas', 'koneksinya', 'satu', 'ruang', 'guru', 'suka', 'kabur', 'mapel', 'jahil', 'dan', 'kompor', 'alias', 'titisan', 'dajjal']
 
 
-['nah', 'zena', 'tuh', 'menurut', 'aku', 'pinter', 'banget', 'yg', 'kalo', 'bikin', 'jokes', 'pasti', 'lucu', 'dan', 'terdengar', 'cerdas', 'jokesnya', 'kaya', 'kepikiran', 'aja', 'bercanda', 'kaya', 'gitu', 'harusnya', 'zena', 'ikutan', 'stand', 'up', 'comedy']
+['18fesss', 'guru', 'bk', 'nya', 'mesti', 'dipanggil', 'ke', 'ruang', 'bk', 'ga_cocok', 'jadi', 'guru']
 
 
-['thiscrystalfins', 'hi', 'do', 'you', 'actually', 'do', 'stand', 'up', 'comedy', 'and', 'if', 'so', 'do', 'you', 'perform', 'in', 'ny']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['rt', 'captnmarvl', 'need', 'rene', 'rapp', 'to', 'do', 'stand', 'up', 'comedy', 'special', 'whys', 'she', 'so', 'fucking', 'funny']
+['selamat', 'tolikara', 'jika', 'kamu', 'punya', 'toko', 'barang', 'apa', 'yang', 'akan', 'kamu', 'jual', 'mau', 'bimbel', 'online', 'daftar', 'ruang', 'guru', 'masukan', 'kode', 'nurmanaj2si9clji', 'nurmanaj2si9clji', 'potongan', 'diskon', 'ikatancintaep990']
 
 
-['mlindsay1998', 'parissathena', 'theyre', 'not', 'going', 'to', 'make', 'you', 'their', 'queen', 'literally', 'you', 'have', 'so', 'much', 'white', 'culture', 'in', 'your', 'everyday', 'life', 'that', 'you', 'dont', 'even', 'know', 'it', 'oh', 'get', 'to', 'vote', 'oh', 'speak', 'english', 'watch', 'bball', 'soccer', 'football', 'baseball', 'sitcoms', 'stand', 'up', 'comedy', 'innocent', 'till', 'proven', 'guilty', 'electricity']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['rt', 'captnmarvl', 'need', 'rene', 'rapp', 'to', 'do', 'stand', 'up', 'comedy', 'special', 'whys', 'she', 'so', 'fucking', 'funny']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['rt', 'captnmarvl', 'need', 'rene', 'rapp', 'to', 'do', 'stand', 'up', 'comedy', 'special', 'whys', 'she', 'so', 'fucking', 'funny']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['rt', 'sunilbhanot2', 'always', 'deeply', 'nostalgic', 'for', 'me', 'fresh', 'cutting', 'edge', 'stand', 'up', 'comedystoreuk', 'in', 'london', 'nimble', 'piercing', 'comedy', 'late', 'las']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['rt', 'captnmarvl', 'need', 'rene', 'rapp', 'to', 'do', 'stand', 'up', 'comedy', 'special', 'whys', 'she', 'so', 'fucking', 'funny']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['rt', 'georginadriver', 'adamdriver', 'attends', 'the', '10th', 'annual', 'stand', 'up', 'for', 'heroes', 'event', 'presented', 'by', 'the', 'new', 'york', 'comedy', 'festival', 'and', 'the', 'bob']
+['things', 'that', 'should', 'have', 'done', 'tomorow', 'setoran', 'surat', 'nuh', '2ngelanjutin', 'belajar', 'pembahasan', 'tryout', 'pm', 'indo', 'eng', 'ngerjain', 'to', 'ruang', 'guru']
 
 
-['stand', 'up', 'comedy', 'uauauauauau']
+['dradianyadil', 'kuntoro88', 'koadfis', 'jokowi', 'reisaba', 'ramlirizal', 'doktertifa', 'tirtacipeng', 'dedycobuzier', 'drpriono1', 'helmifelis', 'drkoko28', 'gurubangsa', 'pahlawan', 'ki', 'hajar', 'dewantoro', 'mengajarkan', 'prinsip', 'kepemimpinan', 'ing', 'ngarso', 'sung', 'tulodho', 'jadi', 'pemimpinpresidenjubir', 'wajib', 'memberikan', 'teladan', 'yg', 'baik', 'jika', 'jokowi', 'amp', 'reisaba', 'melanggarprokes', 'bukamasker', 'ruang', 'tertutup', 'maka', 'contohburuk', 'bagi', 'warganegara']
 
 
-['listening', 'to', 'stand', 'up', 'comedy', 'from', 'the', '80s', 'the', 'political', 'stuff', 'doesnt', 'hold', 'up', 'observations', 'about', 'society', 'sound', 'trite', 'as', 'well', 'the', 'only', 'material', 'that', 'holds', 'up', 'is', 'men', 'complaining', 'about', 'women', 'about', 'break', 'ups', 'and', 'making', 'fun', 'of', 'other', 'people', 'punching', 'down', 'as', 'they', 'say', 'now']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['berontak', 'ngakaaak', 'ini', 'lagi', 'stand', 'up', 'comedy', 'cabang', 'roasting', 'mempelai', 'ya']
+['selamat', 'bengkalis', 'apa', 'yang', 'paling', 'kamu', 'nilai', 'berharga', 'dalam', 'sebuah', 'pertemanan', 'kode', 'referral', 'ruang', 'guru', 'nurmanaj2si9clji', 'nurmanaj2si9clji']
 
 
-['this', 'is', 'what', 'stand', 'up', 'comedy', 'is']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['rt', 'thesokrates', 'one', 'night', 'stand', 'stand', 'up', 'comedy', 'one', 'stand', 'up']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['rconstantino', 'stand', 'up', 'comedy']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['my', 'first', 'play', 'after', 'more', 'than', 'years', 'gentlemen', 'written', 'and', 'directed', 'by', 'anil', 'abraham', 'and', 'acted', 'out', 'by', 'himself', 'ashvin', 'matthew', 'aiyyo', 'shraddha', 'and', 'ajith', 'hande', 'is', 'brilliant', 'comedy', 'with', 'an', 'ensemble', 'most', 'stand', 'up', 'artists', 'of', 'today', 'would', 'be', 'envious', 'of', 'theatre', 'standup']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['matthewholmesbl', 'pjgallagher', 'it', 'takes', 'courage', 'to', 'do', 'stand', 'up', 'so', 'well', 'done', 'for', 'being', 'brave', 'enough', 'to', 'give', 'it', 'go', 'and', 'hope', 'other', 'comedy', 'gigs', 'went', 'better']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['leokearse', 'huge', 'fan', 'of', 'stand', 'up', 'comedy', 'might', 'explain', 'why', 'ive', 'never', 'heard', 'of', 'you']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['youtubesnlnflnbanhlmlbbbcctvcbscbc', 'instagramstandup', 'comedyoscar']
+['arielyonatan', 'fauzanalrasyid', 'anjinggggggggggggg', 'pengen', 'obrak', 'abrekk', 'ruang', 'guru', 'skolahnyyyy']
 
 
-['rt', 'pwrettesavage', 'iyel', 'doang', 'yang', 'mikirin', 'apa', 'kata', 'stand', 'up', 'comedy']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['rt', 'thesokrates', 'one', 'night', 'stand', 'stand', 'up', 'comedy', 'one', 'stand', 'up']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['one', 'night', 'stand', 'stand', 'up', 'comedy', 'one', 'stand', 'up']
+['selamat', 'sungai', 'penuh', 'gunakan', 'menit', 'dan', 'katakan', 'padaku', 'tentang', 'cerita', 'hidupmu', 'sedetail', 'mungkin', 'butuh', 'kode', 'referral', 'ruang', 'guru', 'gunakan', 'kode', 'nurmanaj2si9clji', 'nurmanaj2si9clji', 'giroud']
 
 
-['nanaaboagye10', 'sunlily19', 'maneeji', 'postsubman', 'haaa', 'walai', 'you', 'should', 'do', 'stand', 'up', 'comedy', 'ketawa']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['chicoperez', 'cuando', 'apareca', 'avello', 'lo', 'vea', 'ese', 'era', 'el', 'avello', 'crack', 'no', 'el', 'wn', 'fome', 'en', 'el', 'se', 'transform', 'desde', 'hace', 'stand', 'up', 'comedy']
+['rt', 'lettatoyyy', 'halo', 'teman', 'teman', 'aku', 'mau', 'meminta', 'rekomendasi', 'tempat', 'les', 'yang', 'baik', 'dan', 'bagus', 'apa', 'ya', 'ruang', 'guru', 'nurul', 'fikri', 'go', 'or', 'yang']
 
 
-['rt', 'georginadriver', 'adamdriver', 'attends', 'the', '10th', 'annual', 'stand', 'up', 'for', 'heroes', 'event', 'presented', 'by', 'the', 'new', 'york', 'comedy', 'festival', 'and', 'the', 'bob']
+['selamat', 'tegal', 'apa', 'yang', 'membuatmu', 'merasa', 'bersyukur', 'butuh', 'kode', 'referral', 'ruang', 'guru', 'gunakan', 'kode', 'nurmanaj2si9clji', 'nurmanaj2si9clji', 'ambil']
 
 
-['ontem', 'como', 'se', 'estivesse', 'vendo', 'um', 'stand', 'up', 'comedy', 'vi', 'notcia', 'que', 'corinthians', 'tem', 'interesse', 'em', 'tirar', 'cebolinha', 'do', 'flamengo', 'bvio', 'que', 'aos', 'risos', 'sem', 'levar', 'srio', 'pensei', 'em', 'indicar', 'jnior', 'urso', 'pra', 'eles']
+['selamat', 'kepulauan', 'aru', 'terakhir', 'kali', 'kamu', 'bernyanyi', 'dirimu', 'sendiri', 'diskon', 'ruang', 'guru', 'gunakan', 'kode', 'nurmanaj2si9clji', 'nurmanaj2si9clji', 'thankyougalaxyj']
 
 
-['tem', 'stand', 'up', 'comedy', 'da', 'minha', 'amiga', 'hoje', 'no', 'workroom', 'quem', 'vamos']
+['selamat', 'berau', 'apa', 'yang', 'membuatmu', 'merasa', 'bersyukur', 'kode', 'referral', 'ruang', 'guru', 'nurmanaj2si9clji', 'nurmanaj2si9clji', 'un1tydipestaboladunia2022']
 
 
-['rt', 'mukulagarwal66', 'stand', 'up', 'comedy', 'of', 'the', 'worst', 'kind', 'the', 'judges', 'should', 'be', 'heard', 'only', 'in', 'courtrooms', 'the', 'more', 'they', 'speak', 'outside', 'more']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['rt', 'unsfess', '11fess', 'yuk', 'ngopi', 'nyantai', 'dan', 'ngakak', 'bareng', 'lawangredjobp', 'besok', 'akan', 'ada', 'ajang', 'latihan', 'komunitas', 'stand', 'up', 'uns', 'meng']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['rt', 'mburhanuddin3', 'besok', 'nu', 'tech', 'bakal', 'berlangsung', 'akan', 'ada', 'presentasi', 'innovation', 'pitching', 'forum', 'competition', 'challenge', 'capture', 'the']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['rt', 'pressboxwarrior', 'richardstamford', 'stamfordcet', 'its', 'stand', 'up', 'comedy', 'show', 'what', 'happened', 'to', 'freedom', 'of', 'speech', 'hows', 'the', 'bookburning']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['noorthevirgo', 'my', 'name', 'is', 'shintaro', 'im', 'japanese', 'comedian', 'devote', 'my', 'life', 'to', 'make', 'people', 'all', 'over', 'the', 'world', 'laugh', 'please', 'give', 'me', 'just', 'minutes', '29', 'seconds', 'that', 'my', 'soul', 'made', 'japanese', 'stand', 'up', 'comedy', 'subway']
+['selamat', 'bangkalan', 'apa', 'yang', 'paling', 'kamu', 'nilai', 'berharga', 'dalam', 'sebuah', 'pertemanan', 'diskon', 'ruang', 'guru', 'gunakan', 'kode', 'nurmanaj2si9clji', 'nurmanaj2si9clji', 'fallforyoufhxmileapo']
 
 
-['rt', 'ssaratht', 'masthsab', 'ko', 'dekh', 'na', 'padega', 'bjy', 'aur', 'pappu', 'ke', 'upar', 'stand', 'up', 'comedy', 'who', 'is', 'this', 'guy']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['terrified', 'to', 'announce', 'now', 'have', 'tiktok', 'for', 'my', 'stand', 'up', 'poetry', 'please', 'stalk', 'me', 'or', 'whatever', 'happens', 'over', 'there', 'tiktok', 'standup', 'comedy', 'poetry', 'comedypoem', 'newcontentcreator', 'killme']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['vindestwitt', 'min', 'undang', 'chandra', 'stand', 'up', 'comedy', 'yg', 'ga_lucu', 'lucu', 'dong', 'dulu', 'sempet', 'ngehits', 'tonetso']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['billybaldwin', 'billy', 'you', 'need', 'to', 'do', 'stand', 'up', 'misery', 'comedy', 'since', 'the', 'acting', 'thing', 'is', 'dead']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['rt', 'iamnikita', 'do', 'you', 'think', 'malaikas', 'stand', 'up', 'was', 'good', 'or', 'bharti', 'ki', 'comedy', 'skills', 'movinginwithmalaikaonhotstar']
+['halo', 'teman', 'teman', 'aku', 'mau', 'meminta', 'rekomendasi', 'tempat', 'les', 'yang', 'baik', 'dan', 'bagus', 'apa', 'ya', 'ruang', 'guru', 'nurul', 'fikri', 'go', 'or', 'yang', 'lain', 'jujur', 'bingung', 'mau', 'les', 'dimana', 'kecewa', 'boleh', 'kasih', 'saran', 'dan', 'pendapatnya', 'ya', 'terimakasih']
 
 
-['inimah', 'disuruh', 'stand', 'up', 'comedy', 'ajgggg']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['rt', 'mukulagarwal66', 'stand', 'up', 'comedy', 'of', 'the', 'worst', 'kind', 'the', 'judges', 'should', 'be', 'heard', 'only', 'in', 'courtrooms', 'the', 'more', 'they', 'speak', 'outside', 'more']
+['selamat', 'ambon', 'bagaimana', 'kamu', 'menunjukkan', 'pada', 'orang', 'lain', 'kamu', 'peduli', 'mau', 'bimbel', 'online', 'daftar', 'ruang', 'guru', 'masukan', 'kode', 'nurmanaj2si9clji', 'nurmanaj2si9clji', 'potongan', 'diskon', 'ezra']
 
 
-['legacybuilder', 'im', 'probably', 'weird', 'but', 'dont', 'like', 'stand', 'up', 'comedy', 'its', 'lame', 'and', 'cringy', 'see', 'most', 'of', 'these', 'answers', 'are', 'standup', 'comics', 'find', 'myself', 'feeling', 'bad', 'for', 'the', 'performer', 'which', 'hate', 'to', 'this', 'day', 'the', 'funniest', 'dude', 'ever', 'was', 'tomgreenlive', 'on', 'mtv', 'in', '1999', 'just', 'hit', 'me', 'right']
+['selamat', 'majene', 'apa', 'yang', 'paling', 'kamu', 'syukuri', 'dalam', 'hidupmu', 'kode', 'referral', 'ruang', 'guru', 'nurmanaj2si9clji', 'nurmanaj2si9clji']
 
 
-['rt', 'paulodijollio', 'get', 'yourselves', 'to', 'the', 'stand', 'tonight', 'if', 'you', 'fancy', 'good', 'night', 'of', 'comedy', 'cracking', 'line', 'up', 'with', 'my', 'boy', 'darrenconnell87']
+['selamat', 'kepulauan', 'mentawai', 'sebutkan', 'hal', 'yang', 'kamu', 'dan', 'pasanganmu', 'punya', 'kesamaan', 'butuh', 'kode', 'referral', 'ruang', 'guru', 'gunakan', 'kode', 'nurmanaj2si9clji', 'nurmanaj2si9clji', 'percy', 'jackson']
 
 
-['rt', 'georginadriver', 'adamdriver', 'attends', 'the', '10th', 'annual', 'stand', 'up', 'for', 'heroes', 'event', 'presented', 'by', 'the', 'new', 'york', 'comedy', 'festival', 'and', 'the', 'bob']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['rt', 'mukulagarwal66', 'stand', 'up', 'comedy', 'of', 'the', 'worst', 'kind', 'the', 'judges', 'should', 'be', 'heard', 'only', 'in', 'courtrooms', 'the', 'more', 'they', 'speak', 'outside', 'more']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['mikemoves12', 'jeremyclarkson', 'have', 'you', 'been', 'to', 'any', 'jeremy', 'clarkson', 'stand', 'up', 'shows', 'lately', 'always', 'thought', 'he', 'was', 'broadcaster', 'journalist', 'whens', 'his', 'next', 'comedy', 'gig']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['depan', 'keluarga', 'udah', 'kek', 'kulkas', 'berjalan', 'dingin', 'beud', 'eh', 'kumpul', 'bareng', 'perbestaian', 'kek', 'kontestan', 'stand', 'up', 'comedy', 'hmmm', 'itulah', 'dirikuy']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['rt', 'leehurstcomic', 'had', 'great', 'time', 'gigging', 'at', 'the', 'backyard', 'comedy', 'club', 'last', 'night', 'the', 'next', 'step', 'in', 'trying', 'to', 'claw', 'my', 'way', 'back', 'to', 'stand', 'up']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['stand', 'up', 'comedy', 'of', 'the', 'worst', 'kind', 'the', 'judges', 'should', 'be', 'heard', 'only', 'in', 'courtrooms', 'the', 'more', 'they', 'speak', 'outside', 'more', 'they', 'expose', 'their', 'own', 'sense', 'of', 'nonsense']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['rt', 'musicalone', 'happy', 'birthday', 'to', 'ronald', 'ron', 'white', 'born', 'december', '18', '1956stand', 'up', 'comedian', 'and', 'actor', 'who', 'has', 'had', 'two', 'grammy', 'award']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['11fess', 'yuk', 'ngopi', 'nyantai', 'dan', 'ngakak', 'bareng', 'lawangredjobp', 'besok', 'akan', 'ada', 'ajang', 'latihan', 'komunitas', 'stand', 'up', 'uns', 'mengasah', 'materi', 'comedy']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['udah', 'bener', 'tetep', 'stand', 'up', 'comedy', 'waktu', 'itu', 'ngapain', 'ikut', 'pilpres', 'sih', 'kecewa']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['stand', 'up', 'comedy']
+['selamat', 'magelang', 'karakter', 'dalam', 'film', 'atau', 'buku', 'apa', 'yang', 'paling', 'membuat', 'kamu', 'tertawa', 'diskon', 'ruang', 'guru', 'gunakan', 'kode', 'nurmanaj2si9clji', 'nurmanaj2si9clji']
 
 
-['mtsundayexpress', 'royanikkhah', 'perhaps', 'they', 'could', 'do', 'stand', 'up', 'comedy']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['pacaran', 'rasa', 'stand', 'up', 'comedy']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['umarfadhil', 'ya', 'allah', 'beb', 'mending', 'kamu', 'ikut', 'stand', 'up', 'comedy', 'ketawa']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['pai', 'da', 'mentira', 'que', 'conta', 'verdades', 'deus', 'mestre', 'nico', 'que', 'conseguiu', 'me', 'seduzir', 'ao', 'espetculo', 'do', 'stand', 'up', 'comedy', 'tiagosantineli']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['ahy', 'lebih', 'pas', 'masuk', 'stand', 'up', 'comedy', 'saja', 'ahypolitikusgagal']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['bbmhlanga', 'this', 'one', 'must', 'be', 'classified', 'as', 'stand', 'up', 'comedy']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['rt', 'lepub', 'lets', 'do', 'this', 'one', 'last', 'time', 'this', 'year', 'get', 'your', 'team', 'together', 'and', 'join', 'us', 'tonight', 'for', 'the', 'le', 'pub', 'quiz', 'with', 'your', 'host', 'and', 'newport']
+['ramayy6', 'gw', 'ujung', 'ujungnya', 'nangis', 'juga', 'kok', 'kak', 'may', 'krn', 'tmn', 'cowoku', 'malah', 'nakut2in', 'gw', 'pake', 'acara', 'mau', 'dibawa', 'ke', 'ruang', 'guru', 'segala', 'dan', 'emaknya', 'yg', 'gw', 'patahin', 'jualan', 'jg', 'sd', 'itu', 'aaaa', 'makin', 'ga_tuu', 'gw', 'nya', 'dan', 'yaa', 'gw', 'nangis', 'pada', 'akhirnya', 'tapi', 'ngga', 'beneran', 'masuk', 'ruang', 'guru']
 
 
-['unclesego', 'are', 'we', 'talking', 'stand', 'up', 'or', 'sketch', 'comedy']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['rt', 'mburhanuddin3', 'besok', 'nu', 'tech', 'bakal', 'berlangsung', 'akan', 'ada', 'presentasi', 'innovation', 'pitching', 'forum', 'competition', 'challenge', 'capture', 'the']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['rt', 'imamnahrowiswe1', 'besok', 'nu', 'tech', 'bakal', 'berlangsung', 'akan', 'ada', 'presentasi', 'innovation', 'pitching', 'forum', 'competition', 'challenge', 'capture', 'the']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['rt', 'kzscrgallery', 'kaedehara', 'kazuha', 'found', 'using', 'his', 'trauma', 'for', 'stand', 'up', 'comedy']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['rt', 'tixlondon', 'house', 'of', 'stand', 'up', 'presents', 'chislehurst', 'comedy', 'christmas', 'show', 'with', 'jeff', 'innocent', 'the', 'beaverwood', 'chislehurst', 'on', 'sun', '18', 'dec']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['abiroberts', 'lovillajavea', 'your', 'good', 'self', 'aside', 'stand', 'up', 'comedy', 'could', 'be', 'dead', 'within', 'years']
+['namun', 'yang', 'beda', 'dari', 'biasanya', 'adalah', 'ketika', 'gadis', 'ini', 'sampai', 'ruang', 'guru', 'semua', 'guru', 'yang', 'berada', 'disana', 'menatapnya', 'wajah', 'yang', 'menahan', 'senyuman', 'loh', 'apa', 'ada', 'yang', 'salah', 'dari', 'tampilan', 'gadis', 'ini', 'atau', 'abila', 'sekarang', 'terlihat', 'seperti']
 
 
-['house', 'of', 'stand', 'up', 'presents', 'chislehurst', 'comedy', 'christmas', 'show', 'with', 'jeff', 'innocent', 'the', 'beaverwood', 'chislehurst', 'on', 'sun', '18', 'dec', '2022', '700pm', 'houseofstandup', 'comedy', 'tickets']
+['yang', 'hanya', 'dijawab', 'anggukan', 'dan', 'semangat', 'oleh', 'temanteman', 'abila', 'sebenarnya', 'tidak_ada', 'rasa', 'takut', 'dari', 'abila', 'apalagi', 'dia', 'hanya', 'dipanggil', 'ke', 'ruang', 'guru', 'gadis', 'berponi', 'ini', 'terbiasa', 'akan', 'hal', 'itu']
 
 
-['kalo', 'sahabatan', 'sm', 'cowo', 'selalu', 'jadiin', 'dia', 'kaya', 'keluarga', 'yakali', 'baper', 'sm', 'kakak', 'sendiri', 'yg', 'ada', 'kegiatannya', 'bukan', 'pacaran', 'malah', 'jd', 'stand', 'up', 'comedy']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['hermeslepinski', 'joanasilva14', 'folha', 'kkkkkk', 'muito', 'boa', 'vc', 'tem', 'time', 'certo', 'pra', 'stand', 'up', 'comedy', 'srio']
+['selamat', 'buton', 'tengah', 'karakter', 'dalam', 'film', 'atau', 'buku', 'apa', 'yang', 'paling', 'membuat', 'kamu', 'tertawa', 'butuh', 'kode', 'referral', 'ruang', 'guru', 'gunakan', 'kode', 'nurmanaj2si9clji', 'nurmanaj2si9clji']
 
 
-['greenpeaceuk', 'stand', 'up', 'comedy', 'at', 'its', 'worst']
+['selamat', 'palembang', 'bagaimana', 'kamu', 'menunjukkan', 'pada', 'orang', 'lain', 'kamu', 'peduli', 'kode', 'referral', 'ruang', 'guru', 'nurmanaj2si9clji', 'nurmanaj2si9clji', 'sobat', 'jompo']
 
 
-['get', 'yourselves', 'to', 'the', 'stand', 'tonight', 'if', 'you', 'fancy', 'good', 'night', 'of', 'comedy', 'cracking', 'line', 'up', 'with', 'my', 'boy', 'darrenconnell87']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['rt', 'omeprajol', 'himbauan', 'tapi', 'tidak_diizinkan', 'diizinkan', 'penjelasan', 'anda', 'sangat', 'menjelaskan', 'sekali', 'ikut', 'stand', 'up', 'comedy', 'dong', 'pak', 'senang']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['twixmas', 'stand', 'up', 'comedy', 'class', 'wed', '28', 'dec', '2022', '9pm', 'do', 'you', 'or', 'friend', 'need', 'dose', 'of', 'humour', 'in', 'between', 'christmas', 'amp', 'new', 'year', 'looking', 'to', 'give', 'christmasgift', 'with', 'difference', 'look', 'no', 'further', 'see', 'you', 'there']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['rt', 'mburhanuddin3', 'besok', 'nu', 'tech', 'bakal', 'berlangsung', 'akan', 'ada', 'presentasi', 'innovation', 'pitching', 'forum', 'competition', 'challenge', 'capture', 'the']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['tonight', '1930', 'english', 'standup', 'sunday', 'comedy', 'party', 'neuklln', 'berlin', 'comedy', 'comedyinenglish', 'englishcomedy']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['lets', 'do', 'this', 'one', 'last', 'time', 'this', 'year', 'get', 'your', 'team', 'together', 'and', 'join', 'us', 'tonight', 'for', 'the', 'le', 'pub', 'quiz', 'with', 'your', 'host', 'and', 'newport', 'stand', 'up', 'comedy', 'king', 'mrchrischopping', 'cash', 'prize', 'to', 'be', 'won', 'entry']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['rt', 'notsarkar', 'important', 'announcement', 'doing', 'my', 'one', 'hour', 'solo', 'untouchable', 'in', 'bangalore', 'on', '25th', 'decemberwhich', 'is', 'also', 'my', 'birthday', 'get']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['carolvorders', 'does', 'anyone', 'seriously', 'take', 'jeremy', 'seriously', 'anymore', 'he', 'should', 'try', 'stand', 'up', 'comedy']
+['selamat', 'boven', 'digoel', 'seberapa', 'dekat', 'dan', 'hangat', 'keluargamu', 'diskon', 'ruang', 'guru', 'gunakan', 'kode', 'nurmanaj2si9clji', 'nurmanaj2si9clji', 'melon', 'top100']
 
 
-['rt', 'leehurstcomic', 'had', 'great', 'time', 'gigging', 'at', 'the', 'backyard', 'comedy', 'club', 'last', 'night', 'the', 'next', 'step', 'in', 'trying', 'to', 'claw', 'my', 'way', 'back', 'to', 'stand', 'up']
+['selamat', 'batubara', 'apakah', 'kamu', 'merasa', 'masa', 'kecilmu', 'lebih', 'bahagia', 'dari', 'kebanyakan', 'orang', 'kode', 'referral', 'ruang', 'guru', 'nurmanaj2si9clji', 'nurmanaj2si9clji', 'happytriplenday2022']
 
 
-['rt', 'imamnahrowiswe1', 'besok', 'nu', 'tech', 'bakal', 'berlangsung', 'akan', 'ada', 'presentasi', 'innovation', 'pitching', 'forum', 'competition', 'challenge', 'capture', 'the']
+['selamat', 'konawe', 'utara', 'apa', 'yang', 'membuatmu', 'merasa', 'bersyukur', 'diskon', 'ruang', 'guru', 'gunakan', 'kode', 'nurmanaj2si9clji', 'nurmanaj2si9clji', 'jkt4811thannivconcert']
 
 
-['rt', 'mburhanuddin3', 'besok', 'nu', 'tech', 'bakal', 'berlangsung', 'akan', 'ada', 'presentasi', 'innovation', 'pitching', 'forum', 'competition', 'challenge', 'capture', 'the']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['rt', 'leicscomedyfest', 'comics', 'are', 'like', 'fine', 'wine', 'better', 'with', 'age', 'hosted', 'by', 'mrs', 'barbara', 'nice', 'at', 'peter', 'pizzeria', 'on', 'feb', '21st', 'were', 'delighted']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['besok', 'nu', 'tech', 'bakal', 'berlangsung', 'akan', 'ada', 'presentasi', 'innovation', 'pitching', 'forum', 'competition', 'challenge', 'capture', 'the', 'flag', 'competition', 'narasi', 'academy', 'amp', 'tech', 'seminar', 'sekaligus', 'stand', 'up', 'comedy', 'suka', 'salah', 'satu', 'narasumbernya', 'adalah', 'instruktur', 'pw', 'acta', 'jatim', 'loh', 'wow']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['besok', 'nu', 'tech', 'bakal', 'berlangsung', 'akan', 'ada', 'presentasi', 'innovation', 'pitching', 'forum', 'competition', 'challenge', 'capture', 'the', 'flag', 'competition', 'narasi', 'academy', 'amp', 'tech', 'seminar', 'sekaligus', 'stand', 'up', 'comedy', 'suka', 'salah', 'satu', 'pematerinya', 'adalah', 'bang', 'zvlham', 'anggota', 'cyber', 'pwansorjatim']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['bringing', 'worldclass', 'stand', 'up', 'comedy', 'to', 'an', 'audience', 'in', 'nyc', 'style', 'whatson', 'sydney', 'happyendingscomedyclub']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['bubbletiess', 'plisss', 'lucu', 'bgt', 'nanti', 'hobinya', 'stand', 'up', 'comedy']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['dolfie85', 'lol', 'stand', 'up', 'comedy', 'ik', 'ben', 'fan']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['rt', 'hansdavidian', 'yg', 'namanya', 'komika', 'ini', 'lagaknya', 'seakan2', 'jenis', 'komedian', 'baru', 'nan', 'intelektual', 'edgy', 'banget', 'sini', 'padahal', 'sedari', 'jaman', 'sri']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['always', 'deeply', 'nostalgic', 'for', 'me', 'fresh', 'cutting', 'edge', 'stand', 'up', 'comedystoreuk', 'in', 'london', 'nimble', 'piercing', 'comedy', 'late', 'last', 'night', 'with', 'paul', 'thorne', 'pthornecomedian']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['im', 'going', 'into', 'stand', 'up', 'comedy', 'fuck', 'you', 'guys', 'reckon', 'it', 'would', 'be', 'funny', 'as', 'fuck']
+['selamat', 'petang', 'lombok', 'utara', 'apakah', 'kamu', 'banyak', 'tertawa', 'atau', 'tersenyum', 'hari', 'ini', 'diskon', 'ruang', 'guru', 'gunakan', 'kode', 'nurmanaj2si9clji', 'nurmanaj2si9clji', 'haier']
 
 
-['nonton', 'yuk', 'english', 'stand', 'up', 'comedy', 'bar', 'lounge', 'jaksel', 'astaghfirullah', 'ketawa']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['rt', 'theratpack', 'beautiful', 'sold', 'out', 'show', 'camdencomedy', 'camdenhead', 'last', 'night', 'with', 'ace', 'sets', 'from', 'finlaycomedy', 'karenhobbs', 'davidmillsdept']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['im', 'posting', 'this', 'on', 'twitter', 'so', 'dont', 'chicken', 'out', '2023', 'is', 'the', 'year', 'give', 'stand', 'up', 'comedy', 'go']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['yokk', 'pura', 'mangkunegaran', 'ada', 'akbar', 'kobar', 'dan', 'arif', 'alfiansyah', 'yang', 'bakal', 'stand', 'up', 'comedy', 'pestarakyatsimpedessolo2022', 'prssolo', '2022']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['gaplekemplu', '5ecretnumber', 'ini', 'yang', 'kuharapkan', 'idol', 'kpop', 'yang', 'berasal', 'dari', 'indonesia', 'harus', 'juga', 'mengenalkan', 'budaya', 'indonesia', 'ke', 'publik', 'korea', 'sana']
+['rt', 'ahnafairuzuhdy', 'yang', 'mau', 'jadi', 'maba', '2023', 'mau', 'ga_kalau', 'dibayarin', 'buat', 'biaya', 'snbt', '2023', '200k', 'bundle', 'belajar', 'worth', '50rb', 'paket', 'bi']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'streamingwira', 'link', 'live', 'streaming', 'final', 'piala', 'dunia', 'qatar', 'minggu', '18', 'desember', '2022', 'gratis', 'no', 'phising', 'dan', 'ada', 'live', 'chatnya', 'live', 'per']
 
 
-['rt', 'ninabobooooo', 'enstars', 'fanfiction', 'arashi', 'narukami', 'sang', 'member', 'idol', 'dari', 'unit', 'knights', 'liburan', 'ke', 'indonesia', 'dan', 'mau', 'nonton', 'idola', 'ibukot']
+['rayyanza', 'cipung', 'prediksi', 'juara', 'piala', 'dunia', '2022', 'siapa', 'yang', 'menang', 'via', 'liatberitanews']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['link', 'live', 'streaming', 'piala', 'dunia', '2022', 'gratis', 'final', 'argentina', 'vs', 'prancis', 'ini', '2200', 'wib', 'tautan', 'sctv', 'hd', 'streaming']
 
 
-['saveronicashn', 'indrisulami', 'kdramamenfess', 'sus', 'knp', 'apa', 'yg', 'ga_di', 'percaya', 'gw', 'emg', 'suka', 'lyodra', 'support', 'dia', 'dr', '2020', 'zaman', 'indonesia', 'idol', 'ngikutin', 'dia', 'bgt', 'bahkan', 'pernah', 'dateng', 'langsung', 'ke', 'konser', 'kemenangannya', 'napa', 'jd', 'yg', 'pojokin', 'si', 'ya', 'klo', 'nganggep', 'dia', 'sensi', 'ya', 'mungkin', 'cara', 'baca', 'yg', 'salah', 'dan', 'minta', 'maaf']
+['rt', 'plvots', 'live', 'streaming', 'piala', 'dunia', '2022', 'world', 'cup', 'argentina', 'vs', 'prancis', 'link', 'vidiposctv']
 
 
-['rt', 'starfess', 'guys', 'idol', 'kpop', '2023', 'makin', 'aneh', 'masa', 'bisa', 'jelasin', 'ke', 'mc', 'kalau', 'ibukota', 'indonesia', 'dari', 'jakarta', 'mau', 'pindah', 'ke', 'kalimantan']
+['rt', 'ifyou611', 'pemandangan', 'indah', 'saat', 'petugas', 'keamanan', 'piala', 'dunia', 'qatar', 'menunaikan', 'shalat', 'berjamaah']
 
 
-['japan', 'tour', 'is', 'like', 'every', 'idols', 'dream', 'beside', 'world', 'tour', 'ofc', 'indonesian', 'tour', 'why', 'not', 'fyi', 'indonesia', 'is', 'the', 'biggest', 'country', 'that', 'has', 'so', 'much', 'kpop', 'fans', 'in', 'this', 'universe', 'so', 'why', 'not', 'and', '5ecretnumber', 'paved', 'the', 'way', 'anyway', 'proud', 'of', 'my', 'senum', 'girl', 'suka', 'secretnumber', 'jaya', 'jaya']
+['rt', 'asianwin', 'kuis', 'tebak', 'skor', 'final', 'piala', 'dunia', 'by', 'asianwin', 'hadiah', 'juta', 'rupiah', 'orang', 'pemenang', 'masingmasing', '200rb', 'tulis', 'jawaban']
 
 
-['rt', 'kimtdhsn', 'dia', 'hidup', 'goa', 'kali', 'ya', 'banyak', 'fandom', 'lain', 'ngarep', 'idolnya', 'manggung', 'indo', 'loh', 'emang', 'salah', 'kalo', 'sn', 'manggung', 'indo', 'cuma']
+['piala', 'dunia', 'argentina', 'lawan', 'perancis', 'sing', 'kalah', 'tetep', 'aku', 'dikehidupan', 'ini']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'siandi', 'yuk', 'isengiseng', 'tebak', 'skor', 'final', 'piala', 'dunia', 'prancis', 'vs', 'argentina', 'hadiah', 'powerbank', '10000', 'mah', 'ewallet', 'masingmasing']
 
 
-['ssakuse', 'fans', 'kpop', 'terbesar', 'nomor', 'dunia', 'dari', 'indo', 'cuy', 'makanya', 'idol', 'kpop', 'berlomba', 'lomba', 'nyari', 'pasar', 'indo', 'karna', 'pasar', 'korea', 'itu', 'sedikit', 'dan', 'harus', 'dari', 'agensi', 'besar', 'bru', 'bisa', 'terkenal', 'makanya', 'banyak', 'idol', 'kpop', 'korea', 'mati', 'matian', 'cari', 'fans', 'indonesia', 'biar', 'dapat', 'manggung', 'sini', 'ketawa']
+['mochamadziddan', 'ready', 'aplikasi', 'nonton', 'piala', 'dunia', 'hanya', 'download', 'tanpa', 'login', 'akun', 'kualitas', 'hd', 'jernih', 'android', 'only', 'durasi', 'sampai', 'pildun', 'habis', 'bisa', 'nonton', 'piala', 'dunia', 'rp', '35000', 'app', 'pildun', 'stream', 'pildun', 'piala', 'dunia', 'argentina', 'messi', 'zonauang', 'zonaba']
 
 
-['reyhandreas', '5ecretnumber', 'iya', 'idol', 'berbicara', 'terus', 'makan', 'makanan', 'indo', 'fans', 'luar', 'negri', 'lain', 'minimal', 'notice', 'oh', 'ada', 'negara', 'yang', 'namanya', 'indonesia', 'kalo', 'ada', 'member', 'indo', 'hal2', 'kaya', 'gitu', 'akan', 'dibahas', 'terus', 'diacara', 'apapun', 'kalo', 'ga_ada', 'ada', 'member', 'indo', 'ya', 'bahas', 'indo', 'ketika', 'promo', 'doang', 'wkwk']
+['argentina', 'and', 'messi', 'alvarez', 'france', 'world', 'cup', 'final', 'piala', 'dunia', 'argentina', 'prancis', 'mbappe', 'giroud', 'link', 'live', 'streaming', 'closing', 'ceremony', 'maria', 'hernandez']
 
 
-['rosieporsie', 'hwhwhwhwh', 'side', 'job', 'nya', 'jadi', 'juri', 'indonesia', 'idol']
+['rt', 'ramskyle', 'kuis', 'receh', 'piala', 'dunia', 'jika', 'argentina', 'juara', 'worldcupqatar2022', 'nanti', 'orang', 'beruntung', 'yang', 'follow', 'gw', 'rt', 'tweet']
 
 
-['rt', 'yumi95206204', 'eisyeci7', 'bisa', 'lah', 'dita', 'amp', 'jinny', 'collab', 'sama', 'idol', 'lain', 'segment', 'nya', 'belajar', 'bahasa', 'indonesia', 'gitu']
+['ayo', 'pantengin', 'argentina', 'vs', 'perancis', 'link', 'live', 'streaming', 'argentina', 'vs', 'prancis', 'ini', '2200', 'wib', 'final', 'piala', 'dunia', '2022']
 
 
-['indrisulami', 'kdramamenfess', 'apaan', 'si', 'sensi', 'bgttlagian', 'jg', 'mancung', 'bisa', 'krn', 'penurunan', 'bb', 'pas', 'makeup', 'lagi', 'perform', 'indonesia', 'idol', 'dulu', 'emg', 'ga_semancung', 'semancung', 'ini', 'kok', 'tp', 'emg', 'mungil', 'dr', 'dlu', 'aku', 'jg', 'ngikutin', 'lyodra', 'dr', 'zaman', 'indonesia', 'idol']
+['kalian', 'nobar', 'piala', 'dunia', 'sambil', 'nyemil', 'apaan', 'saya']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'tvonenews', 'naudzubillah', 'suka', 'bermain', 'judi', 'bola', 'saat', 'piala', 'dunia', 'ternyata', 'azab', 'dan', 'dosanya', 'mengerikan']
 
 
-['rt', 'ninabobooooo', 'enstars', 'fanfiction', 'arashi', 'narukami', 'sang', 'member', 'idol', 'dari', 'unit', 'knights', 'liburan', 'ke', 'indonesia', 'dan', 'mau', 'nonton', 'idola', 'ibukot']
+['rt', 'idextratime', 'ga_kerasa', 'hari', 'ini', 'lionel', 'messi', 'angkat', 'trofi', 'piala', 'dunia']
 
 
-['eisyeci7', 'bisa', 'lah', 'dita', 'amp', 'jinny', 'collab', 'sama', 'idol', 'lain', 'segment', 'nya', 'belajar', 'bahasa', 'indonesia', 'gitu']
+['menuju', 'kick', 'off', 'piala', 'dunia', 'bersama', 'taurunians']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'livestreamingo', 'live', 'streaming', 'final', 'piala', 'dunia', 'argentina', 'vs', 'prancis', 'messi', 'atau', 'loris', 'yang', 'akan', 'mengangkat', 'piala', 'ini', 'fifaworl']
 
 
-['kulturjaringan', 'ya', 'nyadar', 'aja', 'klo', 'postingan', 'itu', 'ada', 'yg', 'ngesaltyin', 'aja', 'udah', 'anehh', 'once', 'again', 'idol', 'korea', 'dari', 'indonesia', 'manggung', 'negaranya', 'sendiri', 'lo', 'salty', 'in', 'sakit', 'lu']
+['rt', 'asianwin', 'kuis', 'tebak', 'skor', 'final', 'piala', 'dunia', 'by', 'asianwin', 'hadiah', 'juta', 'rupiah', 'orang', 'pemenang', 'masingmasing', '200rb', 'tulis', 'jawaban']
 
 
-['rt', 'ninabobooooo', 'enstars', 'fanfiction', 'arashi', 'narukami', 'sang', 'member', 'idol', 'dari', 'unit', 'knights', 'liburan', 'ke', 'indonesia', 'dan', 'mau', 'nonton', 'idola', 'ibukot']
+['video', 'yelyel', 'fans', 'argentina', 'menuju', 'stadion', 'final', 'piala', 'dunia', '2022']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['katanya', 'anak', 'yang', 'angel', 'itu', 'juara', 'piala', 'dunia', 'adalah', 'argentina', 'soalnya', 'skenerio', 'fifa', 'biar', 'karir', 'nya', 'messi', 'sempurna']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'mohmahfudmd', 'bersama', 'anak', 'dr', 'ikhwan', 'dan', 'cucu', 'irada', 'siapsiap', 'menunggu', 'saat', 'penentuan', 'siapa', 'yang', 'akan', 'membawa', 'trofi', 'piala', 'dunia', '2022']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'plvots', 'live', 'streaming', 'piala', 'dunia', '2022', 'world', 'cup', 'argentina', 'vs', 'prancis', 'link', 'vidiposctv']
 
 
-['rt', 'ninabobooooo', 'enstars', 'fanfiction', 'arashi', 'narukami', 'sang', 'member', 'idol', 'dari', 'unit', 'knights', 'liburan', 'ke', 'indonesia', 'dan', 'mau', 'nonton', 'idola', 'ibukot']
+['theo', 'hernandez', 'dan', 'olivier', 'giroud', 'starter', 'laga', 'final', 'piala', 'dunia', '2022']
 
 
-['happy', '11th', 'anniversary', 'officialjkt48', 'semoga', 'tetap', 'jadi', 'idol', 'group', 'satusatunya', 'yang', 'eksis', 'indonesia', 'sampai', 'saat', 'ini', 'salam', 'ini', 'lagu', 'spesial', 'buat', 'para', 'member', 'jkt', '48']
+['rt', 'streamingwira', 'link', 'live', 'streaming', 'final', 'piala', 'dunia', 'qatar', 'minggu', '18', 'desember', '2022', 'gratis', 'no', 'phising', 'dan', 'ada', 'live', 'chatnya', 'live', 'per']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'asianwin', 'kuis', 'tebak', 'skor', 'final', 'piala', 'dunia', 'by', 'asianwin', 'hadiah', 'juta', 'rupiah', 'orang', 'pemenang', 'masingmasing', '200rb', 'tulis', 'jawaban']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'streamingwira', 'jadwal', 'final', 'piala', 'dunia', 'qatar', 'minggu', '18', 'desember', '2022', 'link', 'streaming', 'gratis', 'akan', 'share', '15', 'menit', 'sebelum', 'pertanding']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['tidak_sabar', 'liat', 'messi', 'angkat', 'trofi', 'piala', 'dunia']
 
 
-['rt', 'ninabobooooo', 'enstars', 'fanfiction', 'arashi', 'narukami', 'sang', 'member', 'idol', 'dari', 'unit', 'knights', 'liburan', 'ke', 'indonesia', 'dan', 'mau', 'nonton', 'idola', 'ibukot']
+['ini', 'siapa', 'yg', 'bawa', 'pulang', 'piala', 'dunia', 'qatar', 'argentinavsfrance', 'argentinafrancia', 'france']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'streamingwira', 'jadwal', 'final', 'piala', 'dunia', 'qatar', 'minggu', '18', 'desember', '2022', 'link', 'streaming', 'gratis', 'akan', 'share', '15', 'menit', 'sebelum', 'pertanding']
 
 
-['ssakuse', 'pingin', 'ngatain', 'jangan', 'sebut', 'idol', 'anda', 'grup', 'kpop', 'global', 'sebelum', 'mereka', 'terkenal', 'indonesia', 'dasar', 'gw', 'emang', 'overproot']
+['dimana', 'nya', 'nu', 'aya', 'nobar', 'final', 'piala', 'dunia', 'qatar', 'pak', 'lalu', 'hening']
 
 
-['rt', 'ninabobooooo', 'enstars', 'fanfiction', 'arashi', 'narukami', 'sang', 'member', 'idol', 'dari', 'unit', 'knights', 'liburan', 'ke', 'indonesia', 'dan', 'mau', 'nonton', 'idola', 'ibukot']
+['convomfs', 'nonton', '46', 'dari', '64', 'total', 'match', 'piala', 'dunia', '2022']
 
 
-['njie', 'finalis', 'indonesia', 'idol', 'nyanyiin']
+['rt', 'voaindonesia', 'siapa', 'jagoanmu', 'argentina', 'dan', 'prancis', 'akan', 'berhadapan', 'babak', 'final', 'piala', 'dunia', 'qatar', '2022', 'sebentar', 'lagi', 'para', 'penggem']
 
 
-['isiduasarmi', 'starfess', 'setidaknya', 'mereka', 'undang', 'idol', 'kebanggaan', 'mereka', 'lah', 'lo', 'kasihan', 'gak_bisa', 'bisa', 'dateng', 'ke', 'indonesia', 'ya', 'ntar', 'pas', 'dateng', 'ke', 'indo', 'ngomong', 'bindo', 'langsung', 'koar', 'ihhhhh', 'melokal', 'banget', 'lagian', 'gratis', 'pun', 'merek', 'abutih', 'perjuangan']
+['live', 'streaming', 'piala', 'dunia', '2022', 'gratis', 'sctv', 'final', 'argentina', 'vs', 'prancis', 'kick', 'off', '2200', 'wib', 'link', 'legal', 'disini']
 
 
-['khllmi', 'jeonale', 'starfess', 'kan', 'emang', 'ada', 'member', 'asal', 'indonesia', 'namanya', 'dita', 'karang', 'dan', 'menjadikannya', 'sebagai', 'wanita', 'pertama', 'asal', 'indo', 'yg', 'berhasil', 'debut', 'menjadi', 'idol', 'kpop']
+['rt', 'mysumatera', 'memperebutkan', 'atau', 'mempertahankan', 'sejarah', 'akan', 'ditulis', 'ini', 'messi', 'raih', 'gelar', 'juara', 'piala', 'dunia', 'pertandinga']
 
 
-['dinaindrir', 'yang', 'salty', 'itu', 'iri', 'ngelihat', 'sn', 'bolak', 'balik', 'konser', 'dan', 'ingin', 'nonton', 'tapi', 'ga_bisa', 'bisa', 'makanya', 'cuma', 'hate', 'komen', 'doang', 'padahal', 'berharap', 'idol', 'yang', 'dibiasin', 'konser', 'ke', 'indonesia', 'dan', 'gratis', 'juga', 'jangan', 'munafik', 'modal', 'ketik', 'doang', 'ngesalty', 'idol', 'fandom', 'lain']
+['martoing', 'link', 'streaming', 'gratis', 'final', 'piala', 'dunia', 'argentina', 'vs', 'prancis']
 
 
-['rt', 'indonesianidol', 'berbagai', 'macam', 'peserta', 'dari', 'seluruh', 'indonesia', 'berkumpul', 'indonesian', 'idol', 'xii', 'ini', 'pastikan', 'kalian', 'melihat', 'keseruann']
+['rt', 'faktasepakbola', 'elon', 'musk', 'juga', 'berada', 'qatar', 'menonton', 'final', 'piala', 'dunia', '2022', 'fifaworldcup']
 
 
-['rt', 'indonesianidol', 'berbagai', 'macam', 'peserta', 'dari', 'seluruh', 'indonesia', 'berkumpul', 'indonesian', 'idol', 'xii', 'ini', 'pastikan', 'kalian', 'melihat', 'keseruann']
+['rt', 'siandi', 'yuk', 'isengiseng', 'tebak', 'skor', 'final', 'piala', 'dunia', 'prancis', 'vs', 'argentina', 'hadiah', 'powerbank', '10000', 'mah', 'ewallet', 'masingmasing']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['ah', 'tapi', 'paling', 'enak', 'jadi', 'warga', 'negara', 'indonesia', 'biar', 'kata', 'gak_pernah', 'ikut', 'piala', 'dunia', 'tp', 'punya', 'federasi', 'yang', 'bego', 'menahun']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'plvots', 'live', 'streaming', 'piala', 'dunia', '2022', 'world', 'cup', 'argentina', 'vs', 'prancis', 'link', 'vidiposctv']
 
 
-['semoga', 'ke', 'depan', 'secret', 'number', 'makin', 'banyak', 'baby', 'lockey', 'indonesia', 'andai', 'sn', 'didukung', '2030jt', 'lockey', 'indonesia', 'sn', 'baru', 'bisa', 'selevel', 'pada', 'grup', 'idol', 'terkenal', 'indonesia', 'hampir', '300juta', 'jiwa', 'penduduk', 'secretnumber']
+['rt', 'nodrakorfilm', 'live', 'streaming', 'world', 'cup', 'piala', 'dunia', 'hari', 'ini', 'tidak_bisa', 'masuk', 'web', 'pakai', 'vpn', '1111', 'waktu']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['final', 'piala', 'dunia', 'fifa', '2022', 'akan', 'mempertemukan', 'argentina', 'dan', 'prancis']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['lets', 'go', 'piala', 'dunia']
 
 
-['kulturjaringan', 'bilang', 'aja', 'elu', 'iri', 'blokk', 'karna', 'idol', 'lu', 'ga_laku', 'laku', 'indonesia']
+['rt', 'siandi', 'yuk', 'isengiseng', 'tebak', 'skor', 'final', 'piala', 'dunia', 'prancis', 'vs', 'argentina', 'hadiah', 'powerbank', '10000', 'mah', 'ewallet', 'masingmasing']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['niitteee', 'piala', 'dunia', 'mobile', 'only', 'bulan', 'private', '80k', 'all', 'device', 'bulan', 'private', '120k']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['noyioyeye', 'vidio', 'piala', 'dunia', 'private', 'mobile', 'plan', '65k', 'share', '2u', 'mobile', 'plan', '40k', 'hp', 'tab', 'saja', 'private', 'all', 'device', '100k', 'share', '2u', 'all', 'device', '60k', 'tv', 'pc', 'tab', 'hp']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['noyioyeye', 'piala', 'dunia', 'private', 'bulan', 'mobile', 'only', '85k', 'bulan', 'all', 'device', '120k']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'masalohehe', 'memang', 'ini', 'adalah', 'pertandingan', 'piala', 'dunia', 'terakhir', 'messitapi', 'juga', 'terakhir', 'giroud', 'jadi', 'letsgo', 'franceeeee']
 
 
-['rt', 'indonesianidol', 'berbagai', 'macam', 'peserta', 'dari', 'seluruh', 'indonesia', 'berkumpul', 'indonesian', 'idol', 'xii', 'ini', 'pastikan', 'kalian', 'melihat', 'keseruann']
+['zelvarchive', 'vidio', 'world', 'cup', 'piala', 'dunia', 'mobile', 'bulan', '39k', '2u', '70k', 'private', 'bulan', '54k', '2u', '88k', 'private', 'all', 'device', 'bulan', '60k', '2u', '108k', 'private', 'bulan', '67k', '2u', '115k', 'private', 'ready', 'fast', 'respond', 'fullgaransi']
 
 
-['ferdinandhutah7', 'aniesbaswedan', 'kemqren', 'fans', 'nya', 'nyenggol', 'kain', 'khas', 'ulossekarang', 'si', 'idol', 'nya', 'nyenggol', 'kain', 'khas', 'batikancen', 'idol', 'dan', 'fans', 'sama2', 'dungumereka', 'suka', 'kain', 'khas', 'indonesiamereka', 'sukannya', 'baju2', 'ala', 'dementor']
+['noyioyeye', 'vidio', 'piala', 'dunia', 'all', 'device', 'shar', '2u', 'bulan', '60k', 'private', 'bulan', '105k', 'mobile', 'private', 'bulan', '65k', 'all', 'wallet', 'qris', '300', 'testimoni', 'order', 'dm', 'wa']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['zelvarchive', 'vidio', 'world', 'cup', 'piala', 'dunia', 'mobile', 'bulan', '39k', '2u', '70k', 'private', 'bulan', '54k', '2u', '88k', 'private', 'all', 'device', 'bulan', '60k', '2u', '108k', 'private', 'bulan', '67k', '2u', '115k', 'private', 'ready', 'fast', 'respond', 'fullgaransi']
 
 
-['prik', 'banget', 'anjir', 'bahasannya', 'keluar', 'konteks', 'idol', 'korea', 'juga', 'udah', 'beda', 'agama', 'dan', 'budaya', 'ga_ads', 'ads', 'hubungannya', 'mbak', 'nana', 'ga_pake', 'pake', 'jilbab', 'sama', 'idol', 'korea', 'toh', 'dari', 'awal', 'yang', 'suka', 'julid', 'duluan', 'emang', 'netizen', 'indonesia', 'sendiri']
+['rt', 'plvots', 'live', 'streaming', 'piala', 'dunia', '2022', 'world', 'cup', 'argentina', 'vs', 'prancis', 'link', 'vidiposctv']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['coachjustinl', 'messi', 'dkk', 'kalo', 'menurut', 'gua', 'harus', 'berjuang', 'dgn', 'fokus', 'kreatif', 'pinter', 'dgn', 'peluang', 'sampe', 'menit', 'akhir', 'koci', 'karena', 'france', 'ga_mau', 'melewatkan', 'back', 'to', 'back', 'juara', 'piala', 'dunia']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['gopeachess', 'vidio', 'piala', 'dunia', 'mobile', 'cuma', 'bisa', 'hp', 'suka', 'sharing', '2u', '45k', 'private', '75k', 'alldev', 'sharing', '2u', '55k', 'private', '95k', 'durasi', 'berlangsung', 'selama', 'bulan', 'bisa', 'nonton', 'match', 'sebelumnya', 'dan', 'tidak_hanya', 'live', 'stream']
 
 
-['padahal', 'tahun', 'depan', 'mo', 'ikutan', 'indonesia', 'idol', 'wkwkwkwkwkwkkwkw']
+['rt', 'txtbuaya', 'gatau', 'piala', 'dunia', 'yang', 'ku', 'tau', 'cuma', 'kamu', 'juara', 'satu', 'dihatiku']
 
 
-['rt', 'ninabobooooo', 'enstars', 'fanfiction', 'arashi', 'narukami', 'sang', 'member', 'idol', 'dari', 'unit', 'knights', 'liburan', 'ke', 'indonesia', 'dan', 'mau', 'nonton', 'idola', 'ibukot']
+['rt', 'asianwin', 'kuis', 'tebak', 'skor', 'final', 'piala', 'dunia', 'by', 'asianwin', 'hadiah', 'juta', 'rupiah', 'orang', 'pemenang', 'masingmasing', '200rb', 'tulis', 'jawaban']
 
 
-['rt', 'indonesianidol', 'berbagai', 'macam', 'peserta', 'dari', 'seluruh', 'indonesia', 'berkumpul', 'indonesian', 'idol', 'xii', 'ini', 'pastikan', 'kalian', 'melihat', 'keseruann']
+['last', 'time', 'nobar', 'final', 'piala', 'dunia', '2018', 'bunderan', 'its', 'pas', 'jaman', 'mahasiswa', 'bareng', 'pak', 'menteri', 'bem', 'jaman', 'itu', 'fajaarwahyuu', 'final', 'taun', 'ini', 'apa', 'dendam', 'sama', 'prancis', 'pak', 'efek', 'kalah', 'final', 'taun', 'yg', 'lalu', 'senang']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['piala', 'dunia', 'ini', 'gw', 'sebenernya', 'megang', 'brazil', 'dan', 'mau', 'liat', 'cr7', 'angkat', 'trofi', 'karena', 'kalah', 'yaudah', 'mau', 'gimana', 'lagi', 'tapi', 'melihat', 'messi', 'karirnya', 'gw', 'mau', 'liat', 'dia', 'angkat', 'trofi', 'piala', 'dunia']
 
 
-['juyfordami', '5ecretnumber', 'kurasa', 'dia', 'mc', 'acara', 'hajatan', 'yg', 'namanya', 'mc', 'apa', 'lagi', 'ini', 'acara', 'gede', 'gues', 'star', 'nya', 'skelas', 'idol', 'kpop', 'hlo', 'masak', 'gk', 'bisa', 'gtu', 'ngemc', 'dngn', 'perkataan', 'yg', 'baik', 'tnpa', 'menyebut', 'idol', 'lain', 'pdahal', 'sdah', 'jls', 'sn', 'ada', 'mb', 'dita', 'yg', 'jls', 'tau', 'bahasa', 'indonesia']
+['ini', 'terakhir', 'piala', 'dunia', 'qatar', '2022', 'final', 'match', 'argentina', 'vs', 'perancis', 'prediksi', 'argentina', 'vs', 'france', 'babak', 'ke', 'prediksi', 'argentina', 'vs', 'france', 'hasil', 'akhir', 'amanjudi', 'sportsbook', 'worldcup']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'plvots', 'live', 'streaming', 'piala', 'dunia', '2022', 'world', 'cup', 'argentina', 'vs', 'prancis', 'link', 'vidiposctv']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['lumisionz', 'piala', 'dunia', 'private', 'bulan', 'mobile', 'only', '85k', 'bulan', 'all', 'device', '120k']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['pompuyin', 'vidio', 'piala', 'dunia', 'all', 'device', 'shar', '2u', 'bulan', '60k', 'private', 'bulan', '105k', 'mobile', 'private', 'bulan', '65k', 'all', 'wallet', 'qris', '300', 'testimoni', 'order', 'dm', 'wa']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'idextratime', 'ga_kerasa', 'hari', 'ini', 'lionel', 'messi', 'angkat', 'trofi', 'piala', 'dunia']
 
 
-['rt', 'yogurtmatcha24', 'evelynyle', 'khllmi', 'starfess', 'wkwkwk', 'apakabar', 'idol', 'kpop', 'yang', 'lain', 'sering', 'banget', 'diundang', 'ke', 'indonesia', 'wkwk']
+['rt', 'asianwin', 'kuis', 'tebak', 'skor', 'final', 'piala', 'dunia', 'by', 'asianwin', 'hadiah', 'juta', 'rupiah', 'orang', 'pemenang', 'masingmasing', '200rb', 'tulis', 'jawaban']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'idextratime', 'jujurly', 'kalian', 'ingin', 'melihat', 'lionel', 'messi', 'mengangkat', 'trofi', 'piala', 'dunia', 'ini']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['muhrizki213', 'vidio', 'world', 'cup', 'piala', 'dunia', 'mobile', 'bulan', '39k', '2u', '70k', 'private', 'bulan', '54k', '2u', '88k', 'private', 'all', 'device', 'bulan', '60k', '2u', '108k', 'private', 'bulan', '67k', '2u', '115k', 'private', 'ready', 'fast', 'respond', 'fullgaransi']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['muhrizki213', 'vidio', 'world', 'cup', 'piala', 'dunia', 'mobile', 'bulan', '39k', '2u', '70k', 'private', 'bulan', '54k', '2u', '88k', 'private', 'all', 'device', 'bulan', '60k', '2u', '108k', 'private', 'bulan', '67k', '2u', '115k', 'private', 'ready', 'fast', 'respond', 'fullgaransi']
 
 
-['rt', '48gphilippines', '12', 'ganbatte', 'ne', 'good', 'luck', 'jkt48', 'on', 'your', '11th', 'anniversary', 'concert', 'tonight', 'on', 'behalf', 'of', 'mnloves', 'happy', '11th', 'anniv']
+['rt', 'plvots', 'live', 'streaming', 'piala', 'dunia', '2022', 'world', 'cup', 'argentina', 'vs', 'prancis', 'link', 'vidiposctv']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['ada', 'yang', 'punya', 'link', 'streaming', 'final', 'piala', 'dunia']
 
 
-['juyfordami', 'sya', 'juga', 'overproud', 'ke', 'sn', 'ada', 'alasan', 'kuat', 'nya', 'satu2nya', 'idol', 'grup', 'yg', 'ada', 'org', 'indonesia', 'nya', 'hak', 'dan', 'kewajiban', 'saya', 'buat', 'dukung', 'satu2nya', 'idol', 'grup', 'yg', 'ada', 'org', 'indonesia', 'nya', 'satu2nya', 'grup', 'kpop', 'yg', 'gw', 'stan', 'ikutin']
+['pertaruhan', 'terakhir', 'messi', 'kesempatan', 'kedua', 'sekaligus', 'yg', 'terakhir', 'bagi', 'messi', 'mewujudkan', 'mimpinya', 'meraih', 'trophy', 'piala', 'dunia', 'setelah', 'gagal', 'difinal', '2014', 'smoga', 'kali', 'ini', 'dia', 'mampu', 'membawa', 'negaranya', 'meraih', 'trophy', 'piala', 'dunia', 'ketiganya', 'argentinavsfrance', 'worldcup']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['juara', 'piala', 'dunia', '2022', 'adalaah']
 
 
-['khllmi', 'starfess', 'smua', 'idol', 'kpop', 'ngejar', 'pasar', 'indonesia', 'bos', 'mau', 'dr', 'agncy', 'big', 'ky', 'sm', 'yg', 'bighit', 'semua', 'ngejar', 'pasar', 'indonesia', 'skelas', 'sn', 'untung', 'bgt', 'donk', 'ga_usah', 'usah', 'susah', 'payah', 'ngambil', 'hati', 'pasar', 'indonesia', 'krn', 'ada', 'ditanya', 'privilege', 'gtuloh', 'knp', 'mau', 'suruh', 'big3', 'ada', 'org', 'indonesianya', 'sono', 'sirik', 'aja', 'lo']
+['piala', 'dunia', '2022', 'head', 'to', 'head', 'antarlini', 'argentina', 'vs', 'prancis']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['lumisionz', 'vidio', 'piala', 'dunia', 'all', 'device', 'shar', '2u', 'bulan', '60k', 'private', 'bulan', '105k', 'mobile', 'private', 'bulan', '65k', 'all', 'wallet', 'qris', '300', 'testimoni', 'order', 'dm', 'wa']
 
 
-['khllmi', 'starfess', 'mau', 'jawab', 'sn', 'tuh', 'grup', 'kpopterus', 'infoin', 'satu', 'lagi', 'indonesia', 'salah', 'satu', 'negara', 'yang', 'paling', 'tuju', 'para', 'idol', 'kpop', 'salah', 'satunya', 'ngegaet', 'fans', 'internasionaldan', 'gak_semua', 'semua', 'idol', 'kpop', 'bisa', 'banyak', 'job', 'diindo', 'karena', 'ga_semua', 'semua', 'terkenal', 'diindo', 'wkwkindo', 'tu', 'target', 'pasar', 'kpop']
+['elon', 'musk', 'hadir', 'final', 'piala', 'dunia', '2022']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'batoksuprafit', 'h9', 'piala', 'dunia', 'saatnya', 'memberikan', 'prediksi', 'gacoan', 'pertama', 'argentina', 'kedua', 'portugal']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'streamingwira', 'jadwal', 'final', 'piala', 'dunia', 'qatar', 'minggu', '18', 'desember', '2022', 'link', 'streaming', 'gratis', 'akan', 'share', '15', 'menit', 'sebelum', 'pertanding']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'juveindonesia', 'del', 'piero', 'dan', 'baggio', 'hadir', 'menonton', 'final', 'piala', 'dunia', 'tuttosport']
 
 
-['evelynyle', 'khllmi', 'starfess', 'wkwkwk', 'apakabar', 'idol', 'kpop', 'yang', 'lain', 'sering', 'banget', 'diundang', 'ke', 'indonesia', 'wkwk']
+['rt', 'cewekmalang', 'piala', 'dunia', 'ambil', 'all', 'in', 'france', 'atau', 'argentina', 'worldcup', 'argentinavsfrance', 'fifaworldcup', 'messi']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'siandi', 'yuk', 'isengiseng', 'tebak', 'skor', 'final', 'piala', 'dunia', 'prancis', 'vs', 'argentina', 'hadiah', 'powerbank', '10000', 'mah', 'ewallet', 'masingmasing']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['piala', 'dunia', 'night', 'date', 'with', 'my', 'beloved', 'one']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['link', 'live', 'streaming', 'argentina', 'vs', 'prancis', 'piala', 'dunia', '2022', 'langsung', 'klik', 'sini']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'seputarmadrid', 'aurelin', 'tchouamni', 'tiba', 'lusail', 'iconic', 'stadium', 'final', 'piala', 'dunia', '2022']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'w4r1', 'ini', 'final', 'piala', 'dunia', 'nih', 'argentina', 'vs', 'prancis', 'jagoanmu', 'siapin', 'camilan', 'dulu', 'pake', 'double', 'sound', 'dan', 'ajakin', 'temen', 'te']
 
 
-['rt', 'lilavalila', 'sedih', 'sih', 'baca', 'sebagian', 'rep', 'nya', 'yg', 'bilang', 'gratisan', 'makanya', 'rame', 'lah', 'kaya', 'bukan', 'konser', 'idol', 'kpop', 'lah', 'indonesia', 'mulu', 'la']
+['siapa', 'pencetak', 'gol', 'prancis', 'final', 'piala', 'dunia', '1998', 'jawabannya', 'zinedine', 'zidane', 'emmanuel', 'petit', 'ayo', 'gengss', 'indradidian', 'acunurhidayat', 'stblg', 'ayo', 'follow', 'indosat', 'idextratime', 'pildunbarengioh', 'pildunbarengioh']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'unycommunity', 'give', 'away', 'alert', 'tebak', 'skor', 'piala', 'dunia', 'argentina', 'vs', 'prancis', 'syarat', 'follow', 'akun', 'unycommunity', 'rttweet', 'ini', 're']
 
 
-['rt', 'lilavalila', 'sedih', 'sih', 'baca', 'sebagian', 'rep', 'nya', 'yg', 'bilang', 'gratisan', 'makanya', 'rame', 'lah', 'kaya', 'bukan', 'konser', 'idol', 'kpop', 'lah', 'indonesia', 'mulu', 'la']
+['fifaworldcup', 'link', 'live', 'streaming', 'argentina', 'vs', 'prancis', 'babak', 'final', 'piala', 'dunia', '2022', 'nobar', 'gratis', 'sini', 'worldcup', 'messi', 'mbappe', 'argentinavsfrance']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'bisniscom', 'megahnya', 'stadion', 'lusail', 'qatar', 'tempat', 'final', 'piala', 'dunia', '2022']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'siandi', 'yuk', 'isengiseng', 'tebak', 'skor', 'final', 'piala', 'dunia', 'prancis', 'vs', 'argentina', 'hadiah', 'powerbank', '10000', 'mah', 'ewallet', 'masingmasing']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'plvots', 'live', 'streaming', 'piala', 'dunia', '2022', 'world', 'cup', 'argentina', 'vs', 'prancis', 'link', 'vidiposctv']
 
 
-['berbagai', 'macam', 'peserta', 'dari', 'seluruh', 'indonesia', 'berkumpul', 'indonesian', 'idol', 'xii', 'ini', 'pastikan', 'kalian', 'melihat', 'keseruannya', 'ya', 'senin', '19', 'desember', '2022', '2100', 'wib', 'homeoftheidols', 'indonesianidolxii', 'indonesianidol12', 'indonesianidol2023', 'fremantleid', 'officialrcti']
+['om', 'messi', 'harus', 'juara', 'piala', 'dunia', '2022', 'ini', 'maapin', 'ga_punya', 'jersey', 'argentina', 'soalnya', 'adidas', 'ga_asoi', 'jerseyfrance2018tapidukungargentina']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['mendukung', 'penuh', 'messi', 'ngangkat', 'piala', 'karena', 'akan', 'tengil', 'bgt', 'kalo', 'mbappe', 'masi', 'kecil', 'udh', 'juara', 'dunia', 'kali']
 
 
-['rt', 'ninabobooooo', 'enstars', 'fanfiction', 'arashi', 'narukami', 'sang', 'member', 'idol', 'dari', 'unit', 'knights', 'liburan', 'ke', 'indonesia', 'dan', 'mau', 'nonton', 'idola', 'ibukot']
+['susunan', 'pemain', 'timnas', 'argentina', 'vs', 'prancis', 'final', 'piala', 'dunia', 'qatar', '2022', 'akan', 'dibahas', 'oleh', 'indozone', 'dalam', 'laga', 'yang', 'sangat', 'krusial', 'ini', 'kedua', 'tim', 'pun', 'menurunkan', '11', 'pemain', 'terbaiknya', 'masingmasing']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['final', 'piala', 'dunia', '2022', 'adu', 'pinalti', 'atau', 'skor', '10', 'hemm', 'penasaran', 'deh', 'hehehe']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['fifaworldcup', 'link', 'live', 'streaming', 'argentina', 'vs', 'prancis', 'babak', 'final', 'piala', 'dunia', '2022', 'nobar', 'gratis', 'sini', 'worldcup', 'messi', 'mbappe', 'argentinavsfrance']
 
 
-['rt', 'lilavalila', 'sedih', 'sih', 'baca', 'sebagian', 'rep', 'nya', 'yg', 'bilang', 'gratisan', 'makanya', 'rame', 'lah', 'kaya', 'bukan', 'konser', 'idol', 'kpop', 'lah', 'indonesia', 'mulu', 'la']
+['rt', 'kabargolkarnews', 'hallo', 'sobat', 'kagol', 'kuis', 'time', 'kuiz', 'tebak', 'man', 'of', 'the', 'match', 'piala', 'dunia', 'pertandingan', 'final', 'piala', 'dunia', 'prancis', 'vs', 'argenti']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['kakak', 'manas2in', 'nonton', 'piala', 'dunia', 'kan', 'sa', 'tra', 'punya', 'tv', 'yak']
 
 
-['rt', 'ninabobooooo', 'enstars', 'fanfiction', 'arashi', 'narukami', 'sang', 'member', 'idol', 'dari', 'unit', 'knights', 'liburan', 'ke', 'indonesia', 'dan', 'mau', 'nonton', 'idola', 'ibukot']
+['fifaworldcup', 'link', 'live', 'streaming', 'argentina', 'vs', 'prancis', 'babak', 'final', 'piala', 'dunia', '2022', 'nobar', 'gratis', 'sini', 'worldcup', 'messi', 'mbappe', 'argentinavsfrance']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'streamingwira', 'jadwal', 'final', 'piala', 'dunia', 'qatar', 'minggu', '18', 'desember', '2022', 'link', 'streaming', 'gratis', 'akan', 'share', '15', 'menit', 'sebelum', 'pertanding']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['trivia', 'emtek', 'sctv', 'vidio', 'dkk', 'beli', 'hak', 'siar', 'piala', 'dunia', 'rp', '630', 'miliar', 'pendapatan', 'vidio', 'vidio', 'aja', 'bukan', 'emtek', 'diperkirakan', 'naik', 'rp', '700', 'miliar', 'garagara', 'piala', 'dunia', 'fifaworldcup']
+
+
+['mostpopuler', 'potret', 'atraksi', 'pesawat', 'meriahkan', 'jelang', 'final', 'piala', 'dunia', '2022']
+
+
+['rt', 'faktasepakbola', 'elon', 'musk', 'juga', 'berada', 'qatar', 'menonton', 'final', 'piala', 'dunia', '2022', 'fifaworldcup']
+
+
+['eisyeci7', 'ga_ada', 'subtitlenya', 'tp', 'karena', 'ngajarin', 'bhs', 'indonesia', 'jd', 'agak', 'tau', 'dikit', 'lah', 'seru', 'sih', 'ehm', 'bisa', 'jd', 'konten']
+
+
+['eksekusi', 'scene', 'nya', 'lumayan', 'oke', 'rizky', 'nazar', 'cocok', 'juga', 'jadi', 'gatot', 'yg', 'seru', 'dari', 'ini', 'scene', 'gelut', 'nyaa', 'sihh', 'koreo', 'gelutnya', 'itu', 'satisfying', 'engga', 'yg', 'pusing', 'diliat', 'no', 'wonder', 'buatan', 'yayan', 'ruhian', 'minusnya', 'iklan', 'placement', 'nya', 'kacauu', 'ga_smooth', 'bgt', 'kaya', 'sinetron2', 'indo', 'bener', 'kata']
+
+
+['tubbirfess', 'yg', 'seru', 'adalah', 'sohun', 'soliheh', 'klo', 'ga_desta', 'min']
+
+
+['sepupu', 'udah', 'balik', 'kampung', 'ga_seru']
+
+
+['galaxyvanvan', 'mjb', 'tentang', 'suku', 'gitubagus', 'bgt', 'ayok', 'nontonsetiap', 'episode', 'nya', 'seru', 'bgtakting', 'semua', 'pemain', 'nya', 'ga_usah', 'diragukan', 'lagi']
+
+
+['rt', 'taj04wonyoung', 'taj96wonwoo', 'subkamartaj', 'tidak_terasa', 'kita', 'udah', 'dipenghujung', 'acara', 'gimana', 'perasaan', 'kalian', 'selama', 'dua', 'hari', 'ini', 'gaiss']
+
+
+['geiegar', 'ini', 'apa', 'sih', 'ga_sesuai', 'perjanjian', 'ah', 'males', 'banget', 'ga_seru', 'mainnya', 'ew', 'disleeek', 'buat', 'apa', 'bagus', 'diranking', 'tapi', 'mines', 'akhlak', 'nyenye']
+
+
+['29', 'selain', 'karna', 'hoki', 'ga_kena', 'pembersihan', 'biar', 'punya', 'temen', 'seru', 'seruan', 'disini', 'jadi', 'ga_sepi', 'sepi', 'amat', '30', 'yezekiel', 'ranaja', 'yezra', 'yezra', 'yezra', '31', 'cuma', 'mau', 'dia', 'dia', 'bikin', 'tenang', 'adem', 'ayem', 'selalu', 'bisa', 'bikin', 'kesemsem', 'terus', 'udah', 'kelewat', 'jatuh', 'cinta', 'sama', 'dia', 'pokoknya', 'lopded']
+
+
+['21', 'pict', '22', 'pamit', 'ya', '23', 'engga', 'aman', 'kok', '24', 'kalo', 'dia', 'bikin', 'kecewa', '25', 'yezra', 'ayang', 'ak', 'paling', 'aduhay', 'pokoknya', 'gabisa', 'deskripsikan', 'reyga', 'belum', 'terlalu', 'kenal', 'tapi', 'anaknya', 'baik', 'kok', 'seru', 'juga', '26', 'pict', '27', 'pict', '28', 'ga_anjir', 'drink', 'aja', 'lah']
+
+
+['seru', 'tapi', 'pas', 'awal', 'mau', 'nimbrung', 'ragu', 'takutnya', 'ga_nyambung', 'sama', 'yg', 'lain', 'baik', 'baik', 'yh', 'makasi', 'udah', 'mau', 'nampung', 'semoga', 'bisa', 'bareng', 'bareng', 'terus', 'sampe', 'kapanpun', 'gaada', 'suka', 'semuanya', 'semuanya', 'asikk', 'repot', 'kalo', 'tag', 'semua', 'engga']
+
+
+['ngomongin', 'cinta', 'tuh', 'seru', 'ya', 'wkwkw', 'ga_ada', 'ujungnya', 'semua', 'ahli', 'dalam', 'berteori', 'tapi', 'ketika', 'dihadapkan', 'praktik', 'bingung', 'juga', 'wkwkkw']
+
+
+['kyk', 'cipung', 'aja', 'boleh', 'ga_keknya', 'seru']
+
+
+['cornsoupxx', 'oalahh', 'lumayan', 'lama', 'ga_jedanya', 'ini', 'aku', 'lagi', 'nonton', 'drama', 'plotnya', 'seru', 'banget', 'tp', 'pasti', 'ada', 'scene', 'tertentu', 'gitu', 'yang', 'bikin', 'malu', 'jadi', 'pause']
+
+
+['rt', 'allezvous', 'worksfess', 'sbg', 'org', 'yg', 'dulu', 'sering', 'timpngin', 'sodara', 'awal2', 'si', 'seru', 'jdnya', 'rumah', 'berasa', 'ramai', 'tp', 'ada', 'jg', 'sodara', 'yg', 'lama2']
+
+
+['rt', 'janggelan', 'nah', 'loh', 'masak', 'ga_mau', 'ikut', 'liat', 'nih', 'seru', 'pastinya', 'buruan', 'deh', 'ke', 'mandirikarnaval2022']
+
+
+['menurut', 'banyak', 'yg', 'perlu', 'dibenahi', 'pilihan', 'lomba', 'lomba', 'berbau', 'olahraga', 'kaya', 'basket', 'futsal', 'voli', 'itu', 'ga_penting', 'memakan', 'banyak', 'waktu', 'penyisihan', 'semi', 'final', 'final', 'dan', 'gaseru', 'diadakan', 'sampe', 'hari', 'org', 'udah', 'muak', 'lebih', 'baik', 'pilih', 'lomba', 'yang', 'singkat', 'tapi', 'tetep', 'seru', 'dan']
+
+
+['rt', 'rubyleave', 'weekend', 'mending', 'ke', 'mandirikarnaval2022', 'aja', 'ga_sih', 'karena', 'selain', 'banyak', 'artis', 'seru', 'dan', 'bisa', 'isi', 'waktu', 'luang', 'yuk', 'sempatkan']
+
+
+['hyojungsc', 'nevermore', 'nih', 'bau', 'baunya', 'ga_ribut', 'ga_seru']
+
+
+['nanya', 'kaka', 'ini', 'seru', 'ga_filmnya', 'kt', 'dia', 'seru', 'jeda', 'dulu', 'terus', 'nabok', 'pala', 'film', 'org', 'dewasa', 'tapi']
+
+
+['rt', 'prabudiman', 'mantaplah', 'bank', 'mandiri', 'acara', 'mandirikarnaval2022', 'seru', 'banget', 'ga_nyesel', 'kesini', 'walaupun', 'sendiri']
+
+
+['ga_seru', 'anjir']
+
+
+['kalo', 'menang', 'messi', 'jadi', 'immortal', 'dong', 'ga_seru', 'ah']
+
+
+['convomfs', 'pendidikan', 'matematika', 'ya', 'gitu', 'belajar', 'soal', 'pendidikan', 'dan', 'hitungan', 'diselipin', 'sama', 'pemprograman', 'juga', 'dikit', 'kalau', 'suka', 'ngitung', 'emang', 'seru', 'gpp', 'ga_jenius', 'banget', 'mtk', 'selama', 'bisa', 'survive', 'mudah', 'kok', 'lulusnya']
+
+
+['sefrekuensiiii', 'males', 'ah', 'ga_seru']
+
+
+['rt', 'czurhat', 'seru', 'banget', 'ga_sih', 'acaranya', 'bank', 'mandiri', 'ini', 'keren', 'abis', 'mandirikarnaval2022']
+
+
+['aku', 'werk', 'jadi', 'ga_seru']
+
+
+['seru', 'kok', 'ga_bikin', 'ngantuk', 'cuma', 'nahan', 'pipis', 'dan', 'laper', 'aja', 'paling']
+
+
+['mau', 'drakor', 'sama', 'tidur', 'wkwkwkwk', 'final', 'seru', 'tpi', 'ga_ngerti']
+
+
+['tadi', 'mama', 'minta', 'nonton', 'sayap', 'sayap', 'patah', 'terus', 'denger', 'judulnya', 'langsung', 'yang', 'kaya', 'duh', 'film', 'alay', 'apa', 'lagi', 'coba', 'udah', 'bilang', 'gini', 'itu', 'film', 'apaan', 'ga_semua', 'film', 'ada', 'netflix', 'terus', 'berat', 'hati', 'coba', 'cari', 'sambil', 'nyeletuk', 'film', 'yang', 'ga_seru', 'ga_masuk', 'netflix']
+
+
+['tsuki', 'ga_kirei', 'otak', 'langsung', 'plong', 'gitu', 'nontonnya', 'seru']
+
+
+['usmanzalp', 'ga_sabar', 'ndelok', 'live', 'perfomance', 'awkmu', 'bg', 'koyok', 'seru']
+
+
+['habis', 'nonton', 'exchange', 'dan', 'seru', 'banget', 'first', 'time', 'nonton', 'dating', 'show', 'dan', 'udah', 'dikasih', 'yg', 'seseru', 'ini', 'ada', 'saran', 'dating', 'show', 'yg', 'ga_kalah', 'seru', 'exchange', 'ga_thank', 'kdm']
+
+
+['fwb', 'temenin', 'nugas', 'mau', 'ga_sambil', 'ngobrol', 'yg', 'seru', 'seruuu', 'f21', 'prefer', 'yg', 'lebih', 'tua', 'haha']
+
+
+['rt', 'beomgoyu', 'ada', 'yang', 'dateng', 'ke', 'sini', 'juga', 'ga_mandirikarnaval2022', 'seru', 'banget', 'cug', 'artisnya', 'kerenkeren']
+
+
+['dari', 'nuker', 'tiket', 'sampe', 'vierra', 'tuh', 'udah', 'aman', 'tuh', 'ga_ujan2', 'bgt', 'paling', 'gerimis', 'lah', 'dikit2', 'tapi', 'tengah2', 'vierra', 'ujan', 'gede', 'itu', 'semua', 'bener2', 'nyanyi', 'sambil', 'make', 'raincoat', 'sambil', 'teriak2', 'anjer', 'beneran', 'lucu', 'bgt', 'pas', 'itu', 'tapi', 'itu', 'yang', 'bikin', 'seru', 'pas', 'konsernya', 'yaitu', 'ujan']
+
+
+['ga_seru', 'disini', 'seru', 'akun', 'satunya', 'lagi', 'wakak']
+
+
+['convomfs', 'ilmu', 'sejarah', 'klo', 'emang', 'minat', 'sih', 'bakal', 'seru', 'buat', 'aku', 'yg', 'saljur', '710', 'ku', 'kira', 'nyantai', 'tapi', 'emg', 'nyantaikalo', 'presentasi', 'isinya', 'debat', 'buat', 'yg', 'suka', 'budaya', 'cocok', 'sih', 'ga_cuma', 'belajar', 'masa', 'lalu', 'doang', 'diajarin', 'bidang', 'sosial', 'lain', 'jgluas', 'bgt', 'bisa', 'disangkutpautin', 'sama', 'ilmu', 'sosial', 'lain']
+
+
+['hyunjinbogor', 'receinaja', 'tapi', 'keknya', 'seru', 'ga_sih', 'hhhh', 'dem', 'ga_liat', 'babi', 'ngepet', 'keliling', 'pke', 'babi', 'pun', 'boleh', 'lah', 'ya']
+
+
+['rt', 'taj04wonyoung', 'taj96wonwoo', 'subkamartaj', 'tidak_terasa', 'kita', 'udah', 'dipenghujung', 'acara', 'gimana', 'perasaan', 'kalian', 'selama', 'dua', 'hari', 'ini', 'gaiss']
+
+
+['lowbatreyy', 'bukan', 'drama', '2022', 'si', 'cuman', 'ampe', 'sekarang', 'ga_bisa', 'move', 'on', 'dr', 'masters', 'sun', 'yg', 'main', 'so', 'ji', 'sub', 'gatau', 'seru', 'bgt', 'buat', 'sma', 'princess', 'hours']
+
+
+['final', 'nya', 'kurang_seru', 'ga_bisa', 'liat', 'bang', 'dodo', 'main', 'sama', 'messi']
+
+
+['selama', 'qatar', 'saya', 'keluyuran', 'sendiri', 'ga_ditemani', 'tour', 'guide', 'untungnya', 'disediain', 'sopir', 'yg', 'mau', 'ngantar', 'kemana', 'pergi', 'jadinya', 'malah', 'seru', 'bisa', 'jalan2', 'melihat', 'kehidupan', 'lokal', 'ini', 'souq', 'waqif', 'katanya', 'sih', 'semacam', 'kota', 'tua', 'dari', 'the', 'corniche', 'tidak_jauh']
+
+
+['seru', 'ini', 'kalo', 'nobar', 'sama', 'mas', 'crush', 'tapi', 'ga_mungkinlah']
+
+
+['karens', 'diner', 'kurang_seru', 'soalnya', 'ga_ada', 'atlet', 'lempar', 'piring']
+
+
+['bilockeed', 'kamu', 'ada', 'au', 'seru', 'ga_dik']
+
+
+['rt', 'keripikpotato', 'markhyuck', 'au', 'wherein', 'abang', 'wiuwiunya', 'adek', 'sekarang', 'udah', 'dewasa', 'katanya', 'sih', 'orang', 'dewasa', 'itu', 'ga_seru']
+
+
+['virtuaibase', 'adaaa', 'ka', 'darian', 'princcely', 'sama', 'ka', 'ryker', 'rykver', 'avail', 'tanggal', '1921', 'nih', 'sender', 'kebetulan', 'mereka', 'berdua', 'emang', 'tipe', 'pacarannya', 'yang', 'super', 'santai', 'dan', 'into', 'lovehate', 'berantem', 'berantem', 'gemes', 'terus', 'pelukan', 'seru', 'ga_siee', 'ka', 'darian', 'fc', 'nya', 'ahng', 'sedangkan', 'ka', 'ry', 'fc', 'nya', 'mrk']
+
+
+['rt', 'cigaiette', 'kinmjennie', 'cacaa', 'hari', 'minggu', 'nya', 'gimana', 'seru', 'ga_i', 'hope', 'so', 'ini', 'harus', 'istirahat', 'yang', 'cukup']
+
+
+['txtdrpemerintah', 'siksa', 'aja', 'dulu', 'jangan', 'langsung', 'tembak', 'mati', 'ga_seru', 'dia', 'aja', 'bisa', 'nyiksa', 'joshua', 'segila', 'itu', 'ga_usah', 'berlindung', 'dg', 'pasal', 'ham', 'ygy', 'ham', 'itu', 'khusus', 'buat', 'manusia']
+
+
+['kingkongggr', 'sipalingmarvel', 'iya', 'bener', 'menurut', 'aku', 'juga', 'she', 'hulk', 'ga_seburuk', 'itu', 'lagian', 'dari', 'judulnya', 'aja', 'udah', 'jelas', 'banget', 'ini', 'film', 'superhero', 'yg', 'minim', 'adegan', 'superheronya', 'jadi', 'yaa', 'fine', 'fine', 'aja', 'seru', 'juga']
+
+
+['convomf', 'gk', 'seru', 'temenku', 'ga_kegocek', 'tapi', 'abangku', 'kena', 'wkwkwkwk']
+
+
+['kdramamenfess', 'hahaha', 'tapi', 'seru', 'tau', 'sepanjang', 'episode', 'diajak', 'mikir', 'jadi', 'ga_membosankan']
+
+
+['muhamaddfirmaan', 'aldiprwt', 'ihh', 'seru', 'tau', 'spacean', 'asrama', 'jadi', 'ga_perlu', 'nang', 'latar', 'omah', 'lagi', 'kamu', 'wkwk']
+
+
+['ini', 'mbaknya', 'yg', 'aku', 'pernah', 'liat', 'web', 'drama', 'tp', 'lupa', 'judulnya', 'apaa', 'klo', 'ga_salah', 'yt', 'chanelnya', 'dinggo', 'skrg', 'makin', 'susah', 'nyari', 'webdrama', 'yg', 'seru', 'pdhl', 'webdrama', 'tu', 'paling', 'enak', 'diliat', 'krna', 'gratis', 'bs', 'diakses', 'aja', 'dan', 'bs', 'dicepetin', 'huhu']
+
+
+['rt', 'cigaiette', 'aeraramora', 'aera', 'hari', 'minggu', 'nya', 'gimana', 'seru', 'ga_i', 'hope', 'so', 'ini', 'harus', 'istirahat', 'yang', 'cukup', 'ya']
+
+
+['argentina', 'aja', 'lah', 'ya', 'masa', 'iya', 'back', 'to', 'back', 'ga_seru', 'lah32', 'for', 'messi', 'fc']
+
+
+['sukaalilacc', 'ga_serem', 'seru', 'bangettt', 'ayo', 'nonton']
+
+
+['rt', 'jnjment', 'guys', 'kalian', 'udh', 'ada', 'yg', 'baca', 'jnjmfic', 'ini', 'belom', 'seru', 'ga_sihh', 'review', 'donk', 'trus', 'konflik', 'nya', 'berat', 'gakk', 'thanks', 'before']
+
+
+['convomfs', 'karna', 'lebih', 'seru', 'gitu', 'sih', 'kalo', 'yaa', 'emg', 'ga_berperasaan', 'anak', 'nya', 'jadi', 'yaa', 'sahabatan', 'sama', 'pasti', 'anggap', 'sekedar', 'sahabat', 'atau', 'saudara', 'kalo', 'mau', 'tau', 'gimana', 'caranya', 'supaya', 'ga_pake', 'perasaan', 'inget', 'salting', 'itu', 'pasti', 'lu', 'manusia', 'bukan', 'robot', 'normal', 'kok', 'jadi', 'gausah', 'diambil', 'hati']
+
+
+['rt', 'lailuvyuu', 'seru', 'banget', 'ikut', 'jogja', 'marathon', '2022', 'setelah', 'sekian', 'lamanya', 'ga_ikutan', 'lari', 'akhirnya', 'bisa', 'ikutan', 'lari', 'marathon', 'lagi', 'berkat']
+
+
+['vyowiz', 'engga', 'seru', 'bgt', 'pada', 'kepo', 'putus', 'ga_si', 'intan', 'sama', 'itu', 'si', 'yakan', 'putus', 'kan', 'wkwkwk']
+
+
+['rt', 'h8uttm', 'convomfs', 'yuk', 'kak', 'masuk', 'teknik', 'radiologi', 'ada', 'poltekkes', 'jkarta', 'seru', 'kuliahnyaaa', 'nanti', 'kaka', 'kerjanya', 'operasiin', 'alat', 'ra']
+
+
+['hari', 'minggu', 'tanpa', 'event', 'itu', 'ga_seru', 'ya', 'ternyata']
+
+
+['samsungid', 'seru', 'banget', 'ga_si', 'itu', 'konser', 'apalagi', 'nyimpen', 'kenangan', 'pakai', 'samsungxhitc', 'galaxys22', 'makenightsepic']
+
+
+['yeyeosangdni', 'kalo', 'plotnya', 'seru', 'sih', 'lancar', 'tapi', 'kalo', 'bagian', 'ga_seru', 'jadi', 'pause', 'dulu', 'sambil', 'main', 'hape', 'atau', 'ngegame']
+
+
+['foodfess', 'seringggg', 'biasanya', 'ke', 'mall', 'aja', 'si', 'muter2', 'doang', 'sampe', 'dikira', 'gatau', 'arah', 'trs', 'bli', 'minum', 'ato', 'ga_naik', 'kretaa', 'seru', 'bgt']
+
+
+['sayapaddle', 'seru', 'ga_kak']
+
+
+['peritwinkies', 'squirrelsduo', 'kok', 'lgsg', 'ketebak', 'sih', 'ga_seru']
+
+
+['rt', 'lailuvyuu', 'seru', 'banget', 'ikut', 'jogja', 'marathon', '2022', 'setelah', 'sekian', 'lamanya', 'ga_ikutan', 'lari', 'akhirnya', 'bisa', 'ikutan', 'lari', 'marathon', 'lagi', 'berkat']
+
+
+['rt', 'taj04wonyoung', 'taj96wonwoo', 'subkamartaj', 'tidak_terasa', 'kita', 'udah', 'dipenghujung', 'acara', 'gimana', 'perasaan', 'kalian', 'selama', 'dua', 'hari', 'ini', 'gaiss']
+
+
+['rt', 'cigaiette', 'yyvna', 'veya', 'hari', 'minggu', 'nya', 'gimana', 'seru', 'ga_i', 'hope', 'so', 'ini', 'harus', 'istirahat', 'yang', 'cukup', 'yaa', 'su']
+
+
+['kdramamenfess', 'seru', 'bgt', 'tiap', 'eps', 'beda', 'case', 'jd', 'ga_bakal', 'bosen']
+
+
+['hugkeisuke', 'bleankpeaper', 'convomf', 'dih', 'ga_seru']
+
+
+['ni', 'jaksa', 'bisa', 'hapus', 'aja', 'ga_si', 'screentime', 'nya', 'ini', 'pertarungan', 'antar', 'keluarga', 'jin', 'jadi', 'ga_seru', 'gara', 'gara', 'eluuuu']
+
+
+['final', 'world', 'cup', 'yg', 'kureng', 'ga_seru', 'soalnya', 'yg', 'juara', 'dah', 'ditentuin']
+
+
+['ilhips', 'ga_seru', 'ga_taruhan']
+
+
+['setujuu', 'dulu', 'nonton', 'ini', 'jaman', 'on', 'going', 'daaan', 'seru', 'bgt', 'bta', 'aku', 'ga_sadar', 'seol', 'in', 'ah', 'ada', 'situ', 'jg']
+
+
+['anjir', 'ga_seru', 'gaada', 'twitter', 'for', 'iphone', 'nya', 'gabisa', 'sombong', 'wkwkwkwk']
+
+
+['rt', 'taj04wonyoung', 'taj96wonwoo', 'subkamartaj', 'tidak_terasa', 'kita', 'udah', 'dipenghujung', 'acara', 'gimana', 'perasaan', 'kalian', 'selama', 'dua', 'hari', 'ini', 'gaiss']
+
+
+['rt', 'taj04wonyoung', 'taj96wonwoo', 'subkamartaj', 'tidak_terasa', 'kita', 'udah', 'dipenghujung', 'acara', 'gimana', 'perasaan', 'kalian', 'selama', 'dua', 'hari', 'ini', 'gaiss']
+
+
+['mantan', 'gebetan', 'musuhan', 'mantan', 'gebetan', 'jd', 'temen', 'ghibah', 'agk', 'freak', 'tp', 'jujur', 'seru', 'bgt', 'wkwk', 'jd', 'ga_canggung', 'buat', 'cerita', 'banyak', 'hal']
+
+
+['baca', 'igs', 'story', 'nya', 'mba', 'arindap', 'bahas', 'docu', 'nya', 'hampm', 'seru', 'sik', 'gimana', 'yah', 'gemes', 'ga_ada', 'abisnya', 'emang', 'kl', 'tentang', 'royal', 'family', 'lol']
+
+
+['glhindu', 'sorga', 'dia', 'ga_asik', 'mending', 'ikut', 'nugl', 'aj', 'seru', 'disana']
+
+
+['ramenbabyy', 'ga_dulu', 'pildun', 'seru']
+
+
+['rt', 'kdramamenfess', 'baru', 'pertama', 'kali', 'nonton', 'dating', 'show', 'single', 'inferno', 'seru', 'juga', 'wkwk', 'mereka', 'couple', 'adem', 'ayem', 'tp', 'gemesh', 'bgt', 'diending', 'kd']
+
+
+['rt', 'taj04wonyoung', 'taj96wonwoo', 'subkamartaj', 'tidak_terasa', 'kita', 'udah', 'dipenghujung', 'acara', 'gimana', 'perasaan', 'kalian', 'selama', 'dua', 'hari', 'ini', 'gaiss']
+
+
+['sbyfess', 'konser', 'bener', 'bener', 'seru', 'sesuai', 'ekspetasi', 'bgd', 'tp', 'ga_buat', 'jarak', 'antara', 'venue', 'ke', 'parkiran', 'parkiran', 'ke', 'jalan', 'raya', 'ahskslslslos']
+
+
+['kalo', 'mas', 'yang', 'nyetir', 'pasti', 'aku', 'ga_pernah', 'bobo', 'soalnya', 'pasti', 'seru', 'jalan']
+
+
+['wkwkkwkw', 'ditanya', 'ema', 'gua', 'binggung', 'jawabnya', 'jujur', 'ajh', 'ye', 'kan', 'pas', 'ditanya', 'filmnya', 'seru', 'ga_', 'ya', 'mna', 'tau', 'gua', 'nonton', 'ajh', 'ga_jdi']
+
+
+['rt', 'taj04wonyoung', 'taj96wonwoo', 'subkamartaj', 'tidak_terasa', 'kita', 'udah', 'dipenghujung', 'acara', 'gimana', 'perasaan', 'kalian', 'selama', 'dua', 'hari', 'ini', 'gaiss']
+
+
+['moviemenfes', 'nonton', 'avatar', 'si', 'seru', 'ya', 'jam', 'ga_kebanyang', 'anjir', 'kalau', 'jam']
+
+
+['rt', 'taj04wonyoung', 'taj96wonwoo', 'subkamartaj', 'tidak_terasa', 'kita', 'udah', 'dipenghujung', 'acara', 'gimana', 'perasaan', 'kalian', 'selama', 'dua', 'hari', 'ini', 'gaiss']
+
+
+['flawtiful', 'itu', 'lumayan', 'kok', 'co', 'gede', 'malahan', 'betul', 'seru', 'dimainin', 'coop', 'hiburan', 'sekali', 'apalagi', 'pas', 'sama', 'sama', 'ga_nangkep', 'bola', 'aowkakakw']
+
+
+['taj96wonwoo', 'subkamartaj', 'tidak_terasa', 'kita', 'udah', 'dipenghujung', 'acara', 'gimana', 'perasaan', 'kalian', 'selama', 'dua', 'hari', 'ini', 'gaiss', 'seru', 'ga_festivalnya', 'pastinya', 'dong', 'ya', 'semoga', 'adanya', 'festival', 'ini', 'biar', 'mempererat', 'pertemanan', 'kita', 'semua', 'ya', 'ucapnya', 'ceria']
+
+
+['seru', 'jg', 'sambat', 'priv', 'acc', 'twitter', 'ga_perlu', 'mikir2', 'ngetiknya', 'krna', 'ga_ada', 'yg', 'liat', 'wkwkwkwk']
+
+
+['belajar27', 'hehejustru', 'kdng', 'jdi', 'patner', 'utk', 'hubi', 'wifi', 'sk', 'risih', 'klo', 'hubiy', 'ga_ikut', 'main', 'pdhk', 'klo', 'brebgn', 'mngkin', 'seru']
+
+
+['ada', 'yg', 'marah', 'tello', 'so', 'sorry', 'kalau', 'balesan', 'ke', 'mereka', 'yg', 'ovt', 'dan', 'up', 'ke', 'sini', 'bikin', 'beberapa', 'diantara', 'kalian', 'ga_nyaman', 'just', 'wanna', 'say', 'kalau', 'sebenernya', 'ga_serius', 'serius', 'banget', 'seru', 'aja', 'ngebadut', 'rame', 'okay', 'santai']
+
+
+['rt', 'ainunrozi', 'dulu', 'mah', 'banyak', 'temen', 'dikit2', 'nobar', 'sekarang', 'mah', 'apa2', 'sendiri', 'jadi', 'ya', 'nori', 'nonton', 'sendiri', 'lebih', 'seru', 'lagi', 'sambil', 'order', 'ma']
 
 

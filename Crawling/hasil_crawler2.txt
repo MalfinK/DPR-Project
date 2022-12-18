@@ -5,44 +5,82 @@ Prodi 		: Ilmu komputer
 Kalimat-Kalimat Negatif
 
 
-- Kalimat dengan kata "ga_seru" ==> 0
+- Kalimat dengan kata "ga_seru" ==> 20
 
+1. 
+['sepupu', 'udah', 'balik', 'kampung', 'ga_seru']
+2. 
+['geiegar', 'ini', 'apa', 'sih', 'ga_sesuai', 'perjanjian', 'ah', 'males', 'banget', 'ga_seru', 'mainnya', 'ew', 'disleeek', 'buat', 'apa', 'bagus', 'diranking', 'tapi', 'mines', 'akhlak', 'nyenye']
+3. 
+['hyojungsc', 'nevermore', 'nih', 'bau', 'baunya', 'ga_ribut', 'ga_seru']
+4. 
+['ga_seru', 'anjir']
+5. 
+['kalo', 'menang', 'messi', 'jadi', 'immortal', 'dong', 'ga_seru', 'ah']
+6. 
+['sefrekuensiiii', 'males', 'ah', 'ga_seru']
+7. 
+['aku', 'werk', 'jadi', 'ga_seru']
+8. 
+['tadi', 'mama', 'minta', 'nonton', 'sayap', 'sayap', 'patah', 'terus', 'denger', 'judulnya', 'langsung', 'yang', 'kaya', 'duh', 'film', 'alay', 'apa', 'lagi', 'coba', 'udah', 'bilang', 'gini', 'itu', 'film', 'apaan', 'ga_semua', 'film', 'ada', 'netflix', 'terus', 'berat', 'hati', 'coba', 'cari', 'sambil', 'nyeletuk', 'film', 'yang', 'ga_seru', 'ga_masuk', 'netflix']
+9. 
+['ga_seru', 'disini', 'seru', 'akun', 'satunya', 'lagi', 'wakak']
+10. 
+['rt', 'keripikpotato', 'markhyuck', 'au', 'wherein', 'abang', 'wiuwiunya', 'adek', 'sekarang', 'udah', 'dewasa', 'katanya', 'sih', 'orang', 'dewasa', 'itu', 'ga_seru']
+11. 
+['txtdrpemerintah', 'siksa', 'aja', 'dulu', 'jangan', 'langsung', 'tembak', 'mati', 'ga_seru', 'dia', 'aja', 'bisa', 'nyiksa', 'joshua', 'segila', 'itu', 'ga_usah', 'berlindung', 'dg', 'pasal', 'ham', 'ygy', 'ham', 'itu', 'khusus', 'buat', 'manusia']
+12. 
+['argentina', 'aja', 'lah', 'ya', 'masa', 'iya', 'back', 'to', 'back', 'ga_seru', 'lah32', 'for', 'messi', 'fc']
+13. 
+['hari', 'minggu', 'tanpa', 'event', 'itu', 'ga_seru', 'ya', 'ternyata']
+14. 
+['yeyeosangdni', 'kalo', 'plotnya', 'seru', 'sih', 'lancar', 'tapi', 'kalo', 'bagian', 'ga_seru', 'jadi', 'pause', 'dulu', 'sambil', 'main', 'hape', 'atau', 'ngegame']
+15. 
+['peritwinkies', 'squirrelsduo', 'kok', 'lgsg', 'ketebak', 'sih', 'ga_seru']
+16. 
+['hugkeisuke', 'bleankpeaper', 'convomf', 'dih', 'ga_seru']
+17. 
+['ni', 'jaksa', 'bisa', 'hapus', 'aja', 'ga_si', 'screentime', 'nya', 'ini', 'pertarungan', 'antar', 'keluarga', 'jin', 'jadi', 'ga_seru', 'gara', 'gara', 'eluuuu']
+18. 
+['final', 'world', 'cup', 'yg', 'kureng', 'ga_seru', 'soalnya', 'yg', 'juara', 'dah', 'ditentuin']
+19. 
+['ilhips', 'ga_seru', 'ga_taruhan']
+20. 
+['anjir', 'ga_seru', 'gaada', 'twitter', 'for', 'iphone', 'nya', 'gabisa', 'sombong', 'wkwkwkwk']
 
 
 - Kalimat dengan kata "ga_lucu" ==> 0
 
+
+
+- Kalimat dengan kata "ga_peduli" ==> 0
+
 Kalimat-Kalimat Positif
 
 
-- Kalimat dengan kata "bagus" ==> 0
-
-
-
-- Kalimat dengan kata "ngakak" ==> 2
+- Kalimat dengan kata "bagus" ==> 3
 
 1. 
-['rt', 'unsfess', '11fess', 'yuk', 'ngopi', 'nyantai', 'dan', 'ngakak', 'bareng', 'lawangredjobp', 'besok', 'akan', 'ada', 'ajang', 'latihan', 'komunitas', 'stand', 'up', 'uns', 'meng']
+['rt', 'lettatoyyy', 'halo', 'teman', 'teman', 'aku', 'mau', 'meminta', 'rekomendasi', 'tempat', 'les', 'yang', 'baik', 'dan', 'bagus', 'apa', 'ya', 'ruang', 'guru', 'nurul', 'fikri', 'go', 'or', 'yang']
 2. 
-['11fess', 'yuk', 'ngopi', 'nyantai', 'dan', 'ngakak', 'bareng', 'lawangredjobp', 'besok', 'akan', 'ada', 'ajang', 'latihan', 'komunitas', 'stand', 'up', 'uns', 'mengasah', 'materi', 'comedy']
-
-
-- Kalimat dengan kata "ketawa" ==> 4
-
-1. 
-['nanaaboagye10', 'sunlily19', 'maneeji', 'postsubman', 'haaa', 'walai', 'you', 'should', 'do', 'stand', 'up', 'comedy', 'ketawa']
-2. 
-['umarfadhil', 'ya', 'allah', 'beb', 'mending', 'kamu', 'ikut', 'stand', 'up', 'comedy', 'ketawa']
+['halo', 'teman', 'teman', 'aku', 'mau', 'meminta', 'rekomendasi', 'tempat', 'les', 'yang', 'baik', 'dan', 'bagus', 'apa', 'ya', 'ruang', 'guru', 'nurul', 'fikri', 'go', 'or', 'yang', 'lain', 'jujur', 'bingung', 'mau', 'les', 'dimana', 'kecewa', 'boleh', 'kasih', 'saran', 'dan', 'pendapatnya', 'ya', 'terimakasih']
 3. 
-['nonton', 'yuk', 'english', 'stand', 'up', 'comedy', 'bar', 'lounge', 'jaksel', 'astaghfirullah', 'ketawa']
-4. 
-['ssakuse', 'fans', 'kpop', 'terbesar', 'nomor', 'dunia', 'dari', 'indo', 'cuy', 'makanya', 'idol', 'kpop', 'berlomba', 'lomba', 'nyari', 'pasar', 'indo', 'karna', 'pasar', 'korea', 'itu', 'sedikit', 'dan', 'harus', 'dari', 'agensi', 'besar', 'bru', 'bisa', 'terkenal', 'makanya', 'banyak', 'idol', 'kpop', 'korea', 'mati', 'matian', 'cari', 'fans', 'indonesia', 'biar', 'dapat', 'manggung', 'sini', 'ketawa']
+['geiegar', 'ini', 'apa', 'sih', 'ga_sesuai', 'perjanjian', 'ah', 'males', 'banget', 'ga_seru', 'mainnya', 'ew', 'disleeek', 'buat', 'apa', 'bagus', 'diranking', 'tapi', 'mines', 'akhlak', 'nyenye']
 
 
-- Kalimat dengan kata "lucu" ==> 3
+- Kalimat dengan kata "ngakak" ==> 0
+
+
+
+- Kalimat dengan kata "ketawa" ==> 1
 
 1. 
-['nah', 'zena', 'tuh', 'menurut', 'aku', 'pinter', 'banget', 'yg', 'kalo', 'bikin', 'jokes', 'pasti', 'lucu', 'dan', 'terdengar', 'cerdas', 'jokesnya', 'kaya', 'kepikiran', 'aja', 'bercanda', 'kaya', 'gitu', 'harusnya', 'zena', 'ikutan', 'stand', 'up', 'comedy']
+['bapak', 'barusan', 'telpon', 'bilang', 'kalau', 'katanya', 'besok', 'tahun', 'baru', 'nggak_usah', 'piknik', 'ke', 'pantai', 'dunia', 'ini', 'udah', 'tua', 'banyak', 'gempa', 'bumi', 'dan', 'rawan', 'tsunami', 'aku', 'ketawa', 'bapak', 'ini', 'kalau', 'anaknya', 'yg', 'ngomong', 'cm', 'kayak', 'ayam', 'sayur', 'nggak_didengerin', 'giliran', 'orang', 'lain', 'yg', 'ngomong', 'langsung', 'percaya']
+
+
+- Kalimat dengan kata "lucu" ==> 2
+
+1. 
+['rt', 'haecaessy', 'rekomendasi', 'cardigansweater', 'lucu', 'bisa', 'dipakai', 'sekolah', 'thread', 'tags', 'ice', 'bsd', 'begitu', 'indra', 'herlambang', 'get', 'no']
 2. 
-['vindestwitt', 'min', 'undang', 'chandra', 'stand', 'up', 'comedy', 'yg', 'ga_lucu', 'lucu', 'dong', 'dulu', 'sempet', 'ngehits', 'tonetso']
-3. 
-['bubbletiess', 'plisss', 'lucu', 'bgt', 'nanti', 'hobinya', 'stand', 'up', 'comedy']
+['dari', 'nuker', 'tiket', 'sampe', 'vierra', 'tuh', 'udah', 'aman', 'tuh', 'ga_ujan2', 'bgt', 'paling', 'gerimis', 'lah', 'dikit2', 'tapi', 'tengah2', 'vierra', 'ujan', 'gede', 'itu', 'semua', 'bener2', 'nyanyi', 'sambil', 'make', 'raincoat', 'sambil', 'teriak2', 'anjer', 'beneran', 'lucu', 'bgt', 'pas', 'itu', 'tapi', 'itu', 'yang', 'bikin', 'seru', 'pas', 'konsernya', 'yaitu', 'ujan']

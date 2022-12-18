@@ -1,21 +1,13 @@
 import re
 
 # kalimat negatif
-kata_kunci_negatif = ['ga_seru', 'ga_lucu']
+kata_kunci_negatif = ['ga_seru', 'ga_lucu', 'ga_peduli']
 pencarianBarisNegatif = [[] for x in range(len(kata_kunci_negatif))]
 pencarianKalimatNegatif = [[] for x in range(len(kata_kunci_negatif))]
 
 get_data = open(r'hasil_crawler.txt', 'r', encoding='utf-8')
 
 barisPerSatuKalimat = list(get_data.read().split('\n\n'))
-
-# with open(r"hasil_crawler.txt", 'r', encoding="utf8") as dataFile:
-#     dataText = dataFile.read()
-#     barisPerSatuKalimat = re.sub(
-#             pattern = r"(?is)\n+",
-#             repl = ' ',
-#             string = dataText)
-#     barisPerSatuKalimat = barisPerSatuKalimat.split(". ")
 
 for indexNo, baris in enumerate(barisPerSatuKalimat):
     hanyaKata = re.sub(
@@ -25,7 +17,7 @@ for indexNo, baris in enumerate(barisPerSatuKalimat):
     for indexKata, kataNegatif in enumerate(kata_kunci_negatif):
         kataDalamKalimat = hanyaKata.split()
         for kata in kataDalamKalimat:
-            if kata.upper() == kataNegatif and indexNo not in pencarianBarisNegatif[indexKata]:
+            if kata.lower() == kataNegatif and indexNo not in pencarianBarisNegatif[indexKata]:
                 pencarianBarisNegatif[indexKata].append(indexNo)
                 pencarianKalimatNegatif[indexKata].append(baris)
 
