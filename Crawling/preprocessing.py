@@ -1,38 +1,25 @@
-# preprocessing of the data
+# preprocessing the crawled data
 
 import re
-import string
 
-def preprocessing(data):
-    # lowercase
+# stopwords indonesia language
+stopwords = ['yang', 'dari', 'dengan', 'kepada', 'untuk', 'adalah', 'sebagai', 'pada', 'dalam', 'sebuah', 'seorang', 'sejak', 'sampai', 'sebelum', 'sesudah', 'sementara', 'sehingga', 'sekalipun', 'sebagaimana', 'sebagainya', 'sebaik', 'sebaiknya', 'sebaliknya', 'sebanyak', 'sebegini', 'sebegitu', 'sebelumnya', 'sebenarnya', 'seberapa', 'sebesar', 'sebetulnya', 'sebisanya', 'sebuah', 'sebut', 'sebutlah', 'sebutnya', 'secara', 'secukupnya', 'sedang', 'sedangkan', 'sedemikian', 'sedikit', 'sedikitnya', 'seenaknya', 'segala', 'segalanya', 'segera', 'seharusnya', 'sehingga', 'seingat', 'sejak', 'sejenak', 'sejumlah', 'sekadar', 'sekadarnya', 'sekali', 'sekali-kali', 'sekalian', 'sekaligus', 'sekalipun', 'sekarang', 'sekarang', 'sekecil', 'seketika', 'sekiranya', 'sekitar', 'sekitarnya', 'sekurang-kurangnya', 'sekurangnya', 'sela', 'selain', 'selaku', 'selalu', 'selama', 'selama-lamanya', 'selamanya', 'selanjutnya', 'seluruh', 'seluruhnya', 'semacam', 'semakin', 'semampu', 'semampunya', 'semasa', 'semasih', 'semata', 'semata-mata', 'semaunya', 'sementara', 'semisal', 'semisalnya', 'sempat', 'semua', 'semuanya', 'semula', 'sendiri', 'sendirian', 'sendirinya', 'seolah', 'seolah-olah', 'seorang', 'sepanjang', 'sepantasnya', 'sepantasnyalah', 'seperlunya', 'seperti', 'sepertinya', 'sepihak', 'sering', 'seringnya', 'serta', 'serupa', 'sesaat', 'sesama', 'sesampai', 'sesegera', 'sesekali', 'seseorang', 'sesuatu', 'sesuatunya', 'sesudah', 'sesudahnya', 'setelah', 'setempat', 'setengah', 'seterusnya', 'setiap', 'setiba', 'setibanya', 'setidak-tidaknya', 'setidaknya', 'seting']
+
+
+def preprocessing(data) :
+    # transform the crawled data to lower case
     data = data.lower()
-    # remove numbers
-    data = re.sub(r'\d+', '', data)
-    # remove punctuation
-    data = data.translate(str.maketrans('', '', string.punctuation))
-    # remove whitespace leading & trailing
-    data = data.strip()
-    # remove multiple whitespace into single whitespace
-    data = re.sub('\s+', ' ', data).strip()
-    # tokenizing
+    # remove all non-alphanumeric characters
+    data = re.sub(r'[^a-z0-9\s]', '', data)
+    # remove links
+    data = re.sub(r'http\S+', '', data)
+    # remove mentions
+    data = re.sub(r'@\S+', '', data)
+    # tokenize
     data = data.split()
-    # stopping word
-    with open('crawler_ending.txt', 'r', encoding='utf-8') as f:
-        stopwords = f.read()
-        stopwords = stopwords.split()
+    # filter tokens by length
+    data = [word for word in data if len(word) > 4]
+    # remove stopwords indonesia language
     data = [word for word in data if word not in stopwords]
-    # stemming
-    with open('crawler_stemming.txt', 'r', encoding='utf-8') as f:
-        stemming = f.read()
-        stemming = stemming.split()
-    for index, word in enumerate(data):
-        for stem in stemming:
-            if word in stem:
-                data[index] = stem.split(':')[0]
-    # return ' '.join(data)
-    return data
 
-with open('hasil.txt', 'r', encoding='utf-8') as f:
-    data = f.read()
-    data = preprocessing(data)
-    print(data + '\n', file=open('hasil_preprocessing.txt', 'w', encoding='utf-8'))
+    return data
