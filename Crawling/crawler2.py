@@ -1,7 +1,7 @@
 import re
 
 # kalimat negatif
-kata_kunci_negatif = ['ga seru', 'ga seru']
+kata_kunci_negatif = ['ga seru', 'ga lucu']
 pencarianBarisNegatif = [[] for x in range(len(kata_kunci_negatif))]
 pencarianKalimatNegatif = [[] for x in range(len(kata_kunci_negatif))]
 
@@ -39,7 +39,7 @@ for indexNo, baris in enumerate(barisPerSatuKalimat):
         pattern = r"[^\w\s]",
         repl = "",
         string = baris.lower())
-    print(kata_kunci_positif)
+    # print(kata_kunci_positif)
     for indexKata, kataPositif in enumerate(kata_kunci_positif):
         kataDalamKalimat = hanyaKata.split()
         for kata in kataDalamKalimat:
@@ -61,11 +61,11 @@ Prodi \t\t: Ilmu komputer
         total += len(pencarianBarisNegatif[indexNo])
         print(f'\n\n- Kalimat dengan kata "{kataNegatif}" ==> {len(pencarianBarisNegatif[indexNo])}\n', file=hasilKeseluruhan)
         for indexKalimat, kalimat in enumerate(pencarianKalimatNegatif[indexNo]):
-            print(f'\n{indexKalimat + 1}. {kalimat}', file=hasilKeseluruhan)
+            print(f'{indexKalimat + 1}. {kalimat}', file=hasilKeseluruhan)
 
     print("Kalimat-Kalimat Positif", file=hasilKeseluruhan)
     for indexNo, kataPositif in enumerate(kata_kunci_positif):
         total += len(pencarianBarisPositif[indexNo])
         print(f'\n\n- Kalimat dengan kata "{kataPositif}" ==> {len(pencarianBarisPositif[indexNo])}\n', file=hasilKeseluruhan)
         for indexKalimat, kalimat in enumerate(pencarianKalimatPositif[indexNo]):
-            print(f'\n{indexKalimat + 1}. {kalimat}', file=hasilKeseluruhan)
+            print(f'{indexKalimat + 1}. {kalimat}', file=hasilKeseluruhan)

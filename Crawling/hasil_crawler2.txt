@@ -9,34 +9,150 @@ Kalimat-Kalimat Negatif
 
 
 
-- Kalimat dengan kata "ga seru" ==> 0
+- Kalimat dengan kata "ga lucu" ==> 0
 
 Kalimat-Kalimat Positif
 
 
-- Kalimat dengan kata "bagus" ==> 2
+- Kalimat dengan kata "bagus" ==> 0
+
+
+
+- Kalimat dengan kata "ngakak" ==> 2
 
 1. 
-holabuna setuju jangan buat mereka troma di sentuh2 oleh pihak asinglebih bagus sn pertama ke indonesia  pengawalannya jelasbiarpun berbelok tapi mereka enggak  pengang2 idol
+['unsfess', '11fess', 'ngopi', 'nyantai', 'ngakak', 'bareng', 'lawangredjobp', 'besok', 'ajang', 'latihan', 'komunitas', 'stand']
 2. 
-baytzye holabuna tapi enggk harus pegang2 segitunya
-sudah banyak idol kpop datang  ke indonesiatapi mereka enggk seperti itu apa lagi mereka idol cewek
-masih bagus pengamanan sn pertama kali ke indonesiatidak ada 1 pun sekurit disana yg pengang 2 mereka padahal itu sangat padat
+['11fess', 'ngopi', 'nyantai', 'ngakak', 'bareng', 'lawangredjobp', 'besok', 'ajang', 'latihan', 'komunitas', 'stand', 'mengasah', 'materi', 'comedy']
 
 
-- Kalimat dengan kata "ngakak" ==> 1
+- Kalimat dengan kata "ketawa" ==> 62
 
 1. 
-intakpath ngakak banget anjir gak pindah ke mata kaki aja apa ke mata najwa lmaoaf v
-
-
-- Kalimat dengan kata "ketawa" ==> 0
-
-
-
-- Kalimat dengan kata "lucu" ==> 2
-
-1. 
-anisadwila20_ cie lucu bgt kaya stand up comedy 
+['iskanql', 'debat', 'masalah', 'kritik', 'penghinaan', 'pemerintah', 'dalam', 'dijawab', 'langsung', 'ahlinya', 'ketawa', 'zainal']
 2. 
-rt kakdeo stand up comedy harry maguayer ini kenapa lucu sekali  httpstconau1i0j9xm
+['arhanalfiansyah', 'anies', 'takut', 'undangan', 'najwa', 'acara', 'najwa', 'capres', 'takut', 'kenapa', 'karens', 'ketawa', 'melon', 'top100']
+3. 
+['anies', 'takut', 'undangan', 'najwa', 'acara', 'najwa', 'capres', 'takut', 'kenapa', 'karens', 'ketawa', 'melon', 'top100', 'ketawa', 'ketawa', 'argentina', 'ketawa', 'happytriplen', 'ketawa', 'ay2022', 'mynameisnanon', 'ketawa', 'sulung', 'ketawa']
+4. 
+['debat', 'masalah', 'kritik', 'penghinaan', 'pemerintah', 'dalam', 'dijawab', 'langsung', 'ahlinya', 'ketawa', 'zainal', 'arifin', 'mochtar', 'ketawa', 'ikutip', 'ketawa', 'rkuhp', 'merdeka', 'bersuara', 'najwa']
+5. 
+['anies', 'selalu', 'menolak', 'undagan', 'hadir', 'acara', 'najwa', 'milik', 'najwa', 'sihab', 'takut', 'semua', 'kebusukannya', 'terbongkar', 'ketawa', 'pernah', 'minggu', 'congrats', 'croatia', 'friendly', 'headache', 'parkir', 'ketawa', 'ketawa', 'siang', 'argentinavsfrance']
+6. 
+['fathinahamdi', 'anies', 'selalu', 'menolak', 'undagan', 'hadir', 'acara', 'najwa', 'milik', 'najwa', 'sihab', 'takut', 'semua', 'kebusukannya', 'terbongkar', 'ketawa']
+7. 
+['anies', 'selalu', 'menolak', 'undagan', 'hadir', 'acara', 'najwa', 'milik', 'najwa', 'sihab', 'takut', 'semua', 'kebusukannya', 'terbongkar', 'ketawa', 'rhythm', 'minggu', 'congrats', 'croatia', 'emina', 'melon', 'top100', 'pernah', 'friendly', 'headache', 'sering', 'haruto', 'minji', 'argentinavsfrance']
+8. 
+['matanajwa', 'ketawa', 'najwa', 'bintangemon', 'abigailimuriaa', 'jokoanwar', 'najwashihab', 'menceritakan', 'trigger', 'mereka', 'gatel']
+9. 
+['taukan', 'kenapa', 'ketawa', 'ateng', 'takut', 'ketawa', 'itanya', 'kelebihan', 'bayar', 'aibon', 'pulpen', 'ketawa']
+10. 
+['geloraco', 'ketawa', 'iperjuangan', 'oposisi', 'diberi', 'keleluasaan', 'berekspresi', 'berjilid2pake', 'nangis', 'segala', 'boleh', 'diliput', 'nasional', 'menjaga', 'demokrasi', 'tetap', 'track', 'ketawa', 'jokowi', 'acara', 'favorite', 'najwa', 'tetiba', 'ilang']
+11. 
+['matanajwa', 'ketawa', 'najwa', 'bintangemon', 'abigailimuriaa', 'jokoanwar', 'najwashihab', 'menceritakan', 'trigger', 'mereka', 'gatel']
+12. 
+['indahnasutionn1', 'ketawa', 'hibah', 'siluman', 'senilai', 'miliar', 'pantes', 'sering', 'mangkir', 'ketawa', 'ketawa', 'angan', 'najwa', 'takut', 'ketawa', 'itanya', 'pagii', 'mornin']
+13. 
+['ketawa', 'hibah', 'siluman', 'senilai', 'miliar', 'pantes', 'sering', 'mangkir', 'ketawa', 'ketawa', 'angan', 'najwa', 'takut', 'ketawa', 'itanya', 'pagii', 'morningg', 'marocco', 'minggu', 'karens', 'ketawa', 'minggu', 'melon', 'top100', 'pernah', 'bungsu', 'greatest', 'showman', 'sering', 'friendly', 'jakarta', 'minji', 'graduation']
+14. 
+['jeongwso', 'ketawa', 'amyeon', 'matamu', 'mataku', 'mataku', 'kanan', 'mataku', 'najwa']
+15. 
+['ketawa', 'amyeon', 'matamu', 'mataku', 'mataku', 'kanan', 'mataku', 'najwa']
+16. 
+['littiehopesong', 'tutup', 'najwa', 'berat', 'apalagi', 'ketawa', 'mencintaimu', 'lebih', 'berat']
+17. 
+['kel0l0', 'ketawa', 'mataku', 'mataku', 'kanan', 'mataku', 'najwa', 'raaaaaawr']
+18. 
+['matanajwa', 'ketawa', 'najwa', 'bintangemon', 'abigailimuriaa', 'jokoanwar', 'najwashihab', 'menceritakan', 'trigger', 'mereka', 'gatel']
+19. 
+['matanajwa', 'ketawa', 'najwa', 'bintangemon', 'abigailimuriaa', 'jokoanwar', 'najwashihab', 'menceritakan', 'trigger', 'mereka', 'gatel']
+20. 
+['matanajwa', 'ketawa', 'najwa', 'bintangemon', 'abigailimuriaa', 'jokoanwar', 'najwashihab', 'menceritakan', 'trigger', 'mereka', 'gatel']
+21. 
+['noorthevirgo', 'shintaro', 'japanese', 'comedian', 'devote', 'people', 'world', 'laugh', 'please', 'minutes', 'seconds', 'japanese', 'stand', 'comedy', 'subway', 'ketawa', '3ir3w']
+22. 
+['iamnikita', 'ketawa', 'think', 'malaikas', 'stand', 'bharti', 'comedy', 'skills', 'movinginwithmalaikaonhotstar']
+23. 
+['paulo', 'ketawa', 'ijollio', 'yourselves', 'stand', 'tonight', 'fancy', 'night', 'comedy', 'cracking', 'ketawa', 'arrenconnell87']
+24. 
+['georgina', 'ketawa', 'river', 'ketawa', 'river', 'attends', 'annual', 'stand', 'heroes', 'event', 'presented', 'comedy', 'festival']
+25. 
+['ketawa', 'depan', 'keluarga', 'kulkas', 'berjalan', 'dingin', 'kumpul', 'bareng', 'perbestaian', 'kontestan', 'stand', 'comedy', 'itulah', 'dirikuy']
+26. 
+['stand', 'comedy', 'worst', 'judges', 'should', 'heard', 'courtrooms', 'speak', 'outside', 'expose', 'their', 'sense', 'nonsense', 'ketawa']
+27. 
+['musicalone', 'happy', 'birthday', 'ronald', 'white', 'ketawa', 'ecember', 'stand', 'comedian', 'actor', 'grammy', 'award']
+28. 
+['bener', 'tetep', 'stand', 'comedy', 'waktu', 'ngapain', 'pilpres', 'ketawa']
+29. 
+['tixlondon', 'house', 'ketawa', 'presents', 'chislehurst', 'ketawa', 'christmas', 'innocent', 'beaverwood', 'chislehurst', 'ketawa']
+30. 
+['house', 'ketawa', 'presents', 'chislehurst', 'ketawa', 'christmas', 'innocent', 'beaverwood', 'chislehurst', 'ketawa', '700pm', 'houseofstandup', 'comedy', 'tickets']
+31. 
+['yourselves', 'stand', 'tonight', 'fancy', 'night', 'comedy', 'cracking', 'ketawa', 'arrenconnell87']
+32. 
+['twixmas', 'stand', 'comedy', 'class', 'ketawa', 'ketawa', 'friend', 'humour', 'between', 'christmas', 'looking', 'christmasgift', 'difference', 'further', 'there']
+33. 
+['tonight', 'english', 'standup', 'sunday', 'comedy', 'party', 'neuklln', 'berlin', 'comedy', 'comedyinenglish', 'englishcomedy', 'ketawa', 'ketawa']
+34. 
+['notsarkar', 'important', 'announcement', 'ketawa', 'untouchable', 'bangalore', 'ketawa', 'ecemberwhich', 'birthday']
+35. 
+['carolvorders', 'ketawa', 'anyone', 'seriously', 'jeremy', 'seriously', 'anymore', 'should', 'stand', 'comedy']
+36. 
+['besok', 'bakal', 'berlangsung', 'presentasi', 'innovation', 'pitching', 'forum', 'competition', 'challenge', 'capture', 'competition', 'narasi', 'academy', 'seminar', 'sekaligus', 'stand', 'comedy', 'salah', 'pematerinya', 'adalah', 'zvlham', 'anggota', 'cyber', 'pwansorjatim', 'ketawa']
+37. 
+['ketawa', 'olfie85', 'stand', 'comedy']
+38. 
+['nonton', 'english', 'stand', 'comedy', 'ketawa', 'lounge', 'jaksel', 'astaghfirullah']
+39. 
+['theratpack', 'beautiful', 'camdencomedy', 'camdenhead', 'night', 'finlaycomedy', 'karenhobbs', 'ketawa', 'avidmills', 'ketawa']
+40. 
+['georgina', 'ketawa', 'river', 'ketawa', 'river', 'attends', 'annual', 'stand', 'heroes', 'event', 'presented', 'comedy', 'festival']
+41. 
+['ketawa', 'omisge', 'planetcognito', 'michaelesders', 'haben', 'genug', 'material', 'jahre', 'stand', 'comedy']
+42. 
+['ketawa', 'aripada', 'award2', 'jelas', 'mending', 'nonton', 'stand', 'comedy']
+43. 
+['iamnikita', 'ketawa', 'think', 'malaikas', 'stand', 'bharti', 'comedy', 'skills', 'movinginwithmalaikaonhotstar']
+44. 
+['iamnikita', 'ketawa', 'think', 'malaikas', 'stand', 'bharti', 'comedy', 'skills', 'movinginwithmalaikaonhotstar']
+45. 
+['georgina', 'ketawa', 'river', 'ketawa', 'river', 'attends', 'annual', 'stand', 'heroes', 'event', 'presented', 'comedy', 'festival']
+46. 
+['watched', 'joker', 'great', 'movie', 'point', 'thought', 'joaquin', 'phoenix', 'reminds', 'robert', 'ketawa', 'inero', 'right', 'obsession', 'stand', 'makes', 'think', 'comedy', 'scene', 'later', 'robert', 'ketawa', 'inero', 'shows', 'joaquin', 'watching', 'comedian']
+47. 
+['great', 'gigging', 'backyard', 'comedy', 'night', 'trying', 'stand', 'fitness', 'ketawa', 'sevenoaks', 'ketawa', 'details']
+48. 
+['ketawa', 'rneilstone', 'science', 'stand', 'comedy']
+49. 
+['tassagencyen', 'shoigu', 'start', 'touring', 'stand', 'comedy', 'routine', 'front', 'troop', 'moral', 'ketawa']
+50. 
+['notsarkar', 'important', 'announcement', 'ketawa', 'untouchable', 'bangalore', 'ketawa', 'ecemberwhich', 'birthday']
+51. 
+['iamnikita', 'ketawa', 'think', 'malaikas', 'stand', 'bharti', 'comedy', 'skills', 'movinginwithmalaikaonhotstar']
+52. 
+['ketawa', 'laughing', 'stock', 'should', 'stand', 'comedy', 'stand', 'comedy', 'about', 'world', 'tomatoes', 'thrown']
+53. 
+['stand', 'comedy', 'hardest', 'comedy', 'opinion', 'ketawa']
+54. 
+['yumi95206204', 'eisyeci7', 'ketawa', 'jinny', 'collab', 'segment', 'belajar', 'bahasa', 'indonesia']
+55. 
+['eisyeci7', 'ketawa', 'jinny', 'collab', 'segment', 'belajar', 'bahasa', 'indonesia']
+56. 
+['kulturjaringan', 'nyadar', 'postingan', 'ngesaltyin', 'anehh', 'again', 'ketawa', 'korea', 'ketawa', 'ketawa', 'onesia', 'manggung', 'ketawa', 'negaranya', 'ketawa', 'salty', 'sakit']
+57. 
+['happy', 'anniversary', 'officialjkt48', 'semoga', 'tetap', 'group', 'satusatunya', 'eksis', 'ketawa', 'indonesia', 'sampai', 'salam', 'spesial', 'member']
+58. 
+['ssakuse', 'pingin', 'ngatain', 'jangan', 'sebut', 'global', 'sebelum', 'mereka', 'terkenal', 'indonesia', 'ketawa', 'emang', 'overproot']
+59. 
+['khllmi', 'jeonale', 'starfess', 'emang', 'member', 'indonesia', 'namanya', 'ketawa', 'karang', 'menjadikannya', 'sebagai', 'wanita', 'pertama', 'berhasil', 'debut', 'menjadi']
+60. 
+['khllmi', 'starfess', 'ngejar', 'pasar', 'indonesia', 'agncy', 'bighit', 'semua', 'ngejar', 'pasar', 'indonesia', 'skelas', 'untung', 'susah', 'payah', 'ngambil', 'pasar', 'indonesia', 'ketawa', 'itanya', 'privilege', 'gtuloh', 'suruh', 'indonesianya', 'sirik']
+61. 
+['berbagai', 'macam', 'peserta', 'seluruh', 'indonesia', 'berkumpul', 'indonesian', 'pastikan', 'kalian', 'melihat', 'keseruannya', 'senin', 'ketawa', 'esember', 'homeoftheidols', 'indonesianidolxii', 'indonesianidol12', 'indonesianidol2023', 'fremantleid', 'officialrcti']
+62. 
+['kalian', 'berpartisipasi', 'dalam', 'lomba', 'mural', 'ketawa', 'magazine', 'saman', 'marawis', 'pidato', 'debat', 'bahasa', 'indonesia', 'story', 'telling', 'futsal', 'basket', 'cerpen', 'jangan', 'alphas', 'ketawa']
+
+
+- Kalimat dengan kata "lucu" ==> 0
+
