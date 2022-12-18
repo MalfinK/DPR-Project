@@ -34,8 +34,8 @@ def preprocessing(data) :
     # convert negation
     negation = ['kurang', 'tidak', 'enggak', 'ga', 'nggak', 'tak', 'gak']
     for i in range(len(data)):
-        if i in negation:
-            data = data.replace(word, word + '_' + word[i+1])
+        if data[i] in negation:
+            data = data.replace(data[i], data[i] + '_' + data[i+1])
     # tokenize
     data = data.split()
     # filter tokens by length
