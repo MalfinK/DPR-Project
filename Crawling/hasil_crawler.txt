@@ -1,4 +1,4 @@
-['main', 'cooking', 'ketawa', 'ream', 'abis', 'watching', 'mata', 'najwa', 'adalah', 'kestabilan', 'yang', 'sesungguhnya']
+['main', 'cooking', 'dream', 'abis', 'watching', 'mata', 'najwa', 'adalah', 'kestabilan', 'yang', 'sesungguhnya']
 
 
 ['nurafrizall', 'padahal', 'aku', 'dah', 'liat', 'pke', 'mata', 'najwa']
@@ -16,19 +16,19 @@
 ['rillanimek', 'deh', 'maunya', 'mata', 'najwa']
 
 
-['rt', 'iskanql', 'buat', 'yg', 'debat', 'masalah', 'kritik', 'dan', 'penghinaan', 'pemerintah', 'dalam', 'kuhp', 'nih', 'dijawab', 'langsung', 'oleh', 'ahlinya', 'ketawa', 'zainal', 'ari']
+['rt', 'iskanql', 'buat', 'yg', 'debat', 'masalah', 'kritik', 'dan', 'penghinaan', 'pemerintah', 'dalam', 'kuhp', 'nih', 'dijawab', 'langsung', 'oleh', 'ahlinya', 'dr', 'zainal', 'ari']
 
 
-['rt', 'arhanalfiansyah', 'anies', 'takut', 'dari', 'undangan', 'mba', 'najwa', 'acara', 'mata', 'najwa', 'capres', 'kok', 'takut', 'kenapa', 'haha', 'karens', 'ketawa', 'iner', 'melon', 'top100']
+['rt', 'arhanalfiansyah', 'anies', 'takut', 'dari', 'undangan', 'mba', 'najwa', 'acara', 'mata', 'najwa', 'capres', 'kok', 'takut', 'kenapa', 'haha', 'karens', 'diner', 'melon', 'top100']
 
 
-['anies', 'takut', 'dari', 'undangan', 'mba', 'najwa', 'acara', 'mata', 'najwa', 'capres', 'kok', 'takut', 'kenapa', 'haha', 'karens', 'ketawa', 'iner', 'melon', 'top100', 'olla', 'ketawa', 'epok', 'wen', 'ketawa', 'argentina', 'ketawa', 'happytriplen', 'ketawa', 'ay2022', 'mynameisnanon', '12', 'ketawa', 'ays', 'ezra', 'sulung', 'ketawa', 'pea']
+['anies', 'takut', 'dari', 'undangan', 'mba', 'najwa', 'acara', 'mata', 'najwa', 'capres', 'kok', 'takut', 'kenapa', 'haha', 'karens', 'diner', 'melon', 'top100', 'olla', 'depok', 'wendy', 'argentina', 'dj', 'happytriplenday2022', 'mynameisnanon', '12', 'days', 'ezra', 'sulung']
 
 
 ['mata', 'najwa']
 
 
-['alisyarief', 'sy', 'inget', 'ketika', 'mereka', 'dulu', 'diwawancarai', 'mba', 'najwa', 'shihab', 'acara', 'mata', 'najwa', 'sgt', 'low', 'profile', 'pokoknya', 'bikin', 'semua', 'pemirsa', 'tv', 'saat', 'itu', 'kesengsem', 'deh', 'bahwa', 'mereka', 'gak', 'akan', 'aji', 'mumpung', 'sepertinya', 'seiring', 'waktu', 'berjalan', 'ternyata', 'skrg', 'berubah', '180', 'derajat', 'dri', 'wawancara', 'itu']
+['alisyarief', 'sy', 'inget', 'ketika', 'mereka', 'dulu', 'diwawancarai', 'mba', 'najwa', 'shihab', 'acara', 'mata', 'najwa', 'sgt', 'low', 'profile', 'pokoknya', 'bikin', 'semua', 'pemirsa', 'tv', 'saat', 'itu', 'kesengsem', 'deh', 'bahwa', 'mereka', 'gak_akan', 'akan', 'aji', 'mumpung', 'sepertinya', 'seiring', 'waktu', 'berjalan', 'ternyata', 'skrg', 'berubah', '180', 'derajat', 'dri', 'wawancara', 'itu']
 
 
 ['rt', 'farahnatanael', 'anies', 'selalu', 'menolak', 'undagan', 'hadir', 'acara', 'mata', 'najwa', 'milik', 'najwa', 'sihab', 'ia', 'takut', 'semua', 'kebusukannya', 'terbongkar']
@@ -37,109 +37,109 @@
 ['semua', 'sama', 'mata', 'najwa']
 
 
-['buat', 'yg', 'debat', 'masalah', 'kritik', 'dan', 'penghinaan', 'pemerintah', 'dalam', 'kuhp', 'nih', 'dijawab', 'langsung', 'oleh', 'ahlinya', 'ketawa', 'zainal', 'arifin', 'mochtar', 'sh', 'llm', 'ketawa', 'ikutip', 'dari', 'ketawa', 'ebat', 'rkuhp', 'merdeka', 'bersuara', 'mata', 'najwa']
+['buat', 'yg', 'debat', 'masalah', 'kritik', 'dan', 'penghinaan', 'pemerintah', 'dalam', 'kuhp', 'nih', 'dijawab', 'langsung', 'oleh', 'ahlinya', 'dr', 'zainal', 'arifin', 'mochtar', 'sh', 'llm', 'dikutip', 'dari', 'debat', 'rkuhp', 'merdeka', 'bersuara', 'mata', 'najwa']
 
 
 ['dustabelaka', 'moviemenfes', 'wkskwkwkwk', 'mata', 'najwa']
 
 
-['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak', 'berkontribusi', 'mata', 'najwa']
+['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak_berkontribusi', 'berkontribusi', 'mata', 'najwa']
 
 
 ['rt', 'matanajwa', 'sebentarsebentar', 'ini', 'ada', 'apa', 'kok', 'mata', 'najwa']
 
 
-['rt', 'purebprince', 'collegemenfess', 'bukan', 'seindonesia', 'lagi', 'nder', 'tapi', 'seasia', 'tenggara', 'inget', 'gak', 'kalo', 'mbak', 'nana', 'pernah', 'bilang', 'fee', 'suaminya', 'tuh']
+['rt', 'purebprince', 'collegemenfess', 'bukan', 'seindonesia', 'lagi', 'nder', 'tapi', 'seasia', 'tenggara', 'inget', 'gak_kalo', 'kalo', 'mbak', 'nana', 'pernah', 'bilang', 'fee', 'suaminya', 'tuh']
 
 
 ['rt', 'farahnatanael', 'anies', 'selalu', 'menolak', 'undagan', 'hadir', 'acara', 'mata', 'najwa', 'milik', 'najwa', 'sihab', 'ia', 'takut', 'semua', 'kebusukannya', 'terbongkar']
 
 
-['anies', 'selalu', 'menolak', 'undagan', 'hadir', 'acara', 'mata', 'najwa', 'milik', 'najwa', 'sihab', 'ia', 'takut', 'semua', 'kebusukannya', 'terbongkar', 'ketawa', 'epok', 'pernah', 'minggu', 'congrats', 'croatia', 'friendly', 'headache', 'parkir', 'snow', 'ketawa', 'rop', 'best', 'ketawa', 'rama', 'siang', 'argentinavsfrance']
+['anies', 'selalu', 'menolak', 'undagan', 'hadir', 'acara', 'mata', 'najwa', 'milik', 'najwa', 'sihab', 'ia', 'takut', 'semua', 'kebusukannya', 'terbongkar', 'depok', 'pernah', 'minggu', 'congrats', 'croatia', 'friendly', 'headache', 'parkir', 'snowdrop', 'best', 'drama', 'siang', 'argentinavsfrance']
 
 
-['rt', 'fathinahamdi', 'anies', 'selalu', 'menolak', 'undagan', 'hadir', 'acara', 'mata', 'najwa', 'milik', 'najwa', 'sihab', 'ia', 'takut', 'semua', 'kebusukannya', 'terbongkar', 'ketawa']
+['rt', 'fathinahamdi', 'anies', 'selalu', 'menolak', 'undagan', 'hadir', 'acara', 'mata', 'najwa', 'milik', 'najwa', 'sihab', 'ia', 'takut', 'semua', 'kebusukannya', 'terbongkar']
 
 
-['anies', 'selalu', 'menolak', 'undagan', 'hadir', 'acara', 'mata', 'najwa', 'milik', 'najwa', 'sihab', 'ia', 'takut', 'semua', 'kebusukannya', 'terbongkar', 'ketawa', 'epok', 'feel', 'my', 'rhythm', 'minggu', 'congrats', 'croatia', 'emina', 'toji', 'melon', 'top100', 'pernah', 'friendly', 'olla', 'headache', 'sering', 'haruto', 'minji', 'argentinavsfrance']
+['anies', 'selalu', 'menolak', 'undagan', 'hadir', 'acara', 'mata', 'najwa', 'milik', 'najwa', 'sihab', 'ia', 'takut', 'semua', 'kebusukannya', 'terbongkar', 'depok', 'feel', 'my', 'rhythm', 'minggu', 'congrats', 'croatia', 'emina', 'toji', 'melon', 'top100', 'pernah', 'friendly', 'olla', 'headache', 'sering', 'haruto', 'minji', 'argentinavsfrance']
 
 
-['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak', 'berkontribusi', 'mata', 'najwa']
+['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak_berkontribusi', 'berkontribusi', 'mata', 'najwa']
 
 
 ['rt', 'matanajwa', 'cek', 'tips', 'bersuara', 'dari', 'joko', 'anwar', 'mata', 'najwa', 'tonton', 'youtube', 'najwa', 'shihab', 'atau', 'website', 'narasi']
 
 
-['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak', 'berkontribusi', 'mata', 'najwa']
+['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak_berkontribusi', 'berkontribusi', 'mata', 'najwa']
 
 
-['rt', 'matanajwa', 'rkuhp', 'udah', 'sah', 'kita', 'bisa', 'bersuara', 'dunia', 'maya', 'enggak', 'sih', 'mata', 'najwa']
+['rt', 'matanajwa', 'rkuhp', 'udah', 'sah', 'kita', 'bisa', 'bersuara', 'dunia', 'maya', 'enggak_sih', 'sih', 'mata', 'najwa']
 
 
-['rt', 'matanajwa', 'rkuhp', 'udah', 'sah', 'kita', 'bisa', 'bersuara', 'dunia', 'maya', 'enggak', 'sih', 'mata', 'najwa']
+['rt', 'matanajwa', 'rkuhp', 'udah', 'sah', 'kita', 'bisa', 'bersuara', 'dunia', 'maya', 'enggak_sih', 'sih', 'mata', 'najwa']
 
 
-['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak', 'berkontribusi', 'mata', 'najwa']
+['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak_berkontribusi', 'berkontribusi', 'mata', 'najwa']
 
 
-['rt', 'matanajwa', 'rkuhp', 'udah', 'sah', 'kita', 'bisa', 'bersuara', 'dunia', 'maya', 'enggak', 'sih', 'mata', 'najwa']
-
-
-['rt', 'matanajwa', 'sebentarsebentar', 'ini', 'ada', 'apa', 'kok', 'mata', 'najwa']
+['rt', 'matanajwa', 'rkuhp', 'udah', 'sah', 'kita', 'bisa', 'bersuara', 'dunia', 'maya', 'enggak_sih', 'sih', 'mata', 'najwa']
 
 
 ['rt', 'matanajwa', 'sebentarsebentar', 'ini', 'ada', 'apa', 'kok', 'mata', 'najwa']
 
 
-['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak', 'berkontribusi', 'mata', 'najwa']
+['rt', 'matanajwa', 'sebentarsebentar', 'ini', 'ada', 'apa', 'kok', 'mata', 'najwa']
 
 
-['rt', 'matanajwa', 'ketawa', 'mata', 'najwa', 'bintangemon', 'abigailimuriaa', 'jokoanwar', 'dan', 'najwashihab', 'menceritakan', 'trigger', 'yang', 'buat', 'mereka', 'gatel']
+['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak_berkontribusi', 'berkontribusi', 'mata', 'najwa']
+
+
+['rt', 'matanajwa', 'mata', 'najwa', 'bintangemon', 'abigailimuriaa', 'jokoanwar', 'dan', 'najwashihab', 'menceritakan', 'trigger', 'yang', 'buat', 'mereka', 'gatel']
 
 
 ['rt', 'matanajwa', 'jadi', 'kritis', 'bukan', 'cuma', 'asal', 'kritik', 'tapi', 'juga', 'harus', 'mau', 'tahu', 'dan', 'berani', 'salah', 'berani', 'dikritik', 'abigailimuriaa', 'founder', 'wh']
 
 
-['rt', 'matanajwa', 'rkuhp', 'udah', 'sah', 'kita', 'bisa', 'bersuara', 'dunia', 'maya', 'enggak', 'sih', 'mata', 'najwa']
+['rt', 'matanajwa', 'rkuhp', 'udah', 'sah', 'kita', 'bisa', 'bersuara', 'dunia', 'maya', 'enggak_sih', 'sih', 'mata', 'najwa']
 
 
-['rt', 'matanajwa', 'rkuhp', 'udah', 'sah', 'kita', 'bisa', 'bersuara', 'dunia', 'maya', 'enggak', 'sih', 'mata', 'najwa']
-
-
-['rt', 'matanajwa', 'sebentarsebentar', 'ini', 'ada', 'apa', 'kok', 'mata', 'najwa']
+['rt', 'matanajwa', 'rkuhp', 'udah', 'sah', 'kita', 'bisa', 'bersuara', 'dunia', 'maya', 'enggak_sih', 'sih', 'mata', 'najwa']
 
 
 ['rt', 'matanajwa', 'sebentarsebentar', 'ini', 'ada', 'apa', 'kok', 'mata', 'najwa']
 
 
-['taukan', 'kenapa', 'ga', 'mau', 'ketawa', 'ateng', 'takut', 'ketawa', 'itanya', 'kelebihan', 'bayar', 'lem', 'aibon', 'pulpen', 'ketawa', 'll']
+['rt', 'matanajwa', 'sebentarsebentar', 'ini', 'ada', 'apa', 'kok', 'mata', 'najwa']
 
 
-['geloraco', 'ketawa', 'iperjuangan', 'wkt', 'jdi', 'oposisi', 'era', 'sby', 'diberi', 'keleluasaan', 'berekspresi', 'bisa', 'demo', 'berjilid2pake', 'nangis', 'segala', 'krn', 'bbm', 'naik', 'demo', 'boleh', 'diliput', 'live', 'tv', 'nasional', 'krn', 'sby', 'menjaga', 'demokrasi', 'tetap', 'on', 'the', 'track', 'ketawa', 'era', 'jokowi', 'acara', 'tv', 'favorite', 'ilc', 'amp', 'mata', 'najwa', 'tetiba', 'bisa', 'ilang']
+['taukan', 'kenapa', 'ga_mau', 'mau', 'dateng', 'takut', 'ditanya', 'kelebihan', 'bayar', 'lem', 'aibon', 'pulpen', 'dll']
+
+
+['geloraco', 'pdiperjuangan', 'wkt', 'jdi', 'oposisi', 'era', 'sby', 'diberi', 'keleluasaan', 'berekspresi', 'bisa', 'demo', 'berjilid2pake', 'nangis', 'segala', 'krn', 'bbm', 'naik', 'demo', 'boleh', 'diliput', 'live', 'tv', 'nasional', 'krn', 'sby', 'menjaga', 'demokrasi', 'tetap', 'on', 'the', 'track', 'era', 'jokowi', 'acara', 'tv', 'favorite', 'ilc', 'amp', 'mata', 'najwa', 'tetiba', 'bisa', 'ilang']
 
 
 ['eyessovivid', 'stop', 'mata', 'najwa', 'mari', 'kita', 'mulai', 'mata', 'pelajaran']
 
 
-['rt', 'purebprince', 'collegemenfess', 'bukan', 'seindonesia', 'lagi', 'nder', 'tapi', 'seasia', 'tenggara', 'inget', 'gak', 'kalo', 'mbak', 'nana', 'pernah', 'bilang', 'fee', 'suaminya', 'tuh']
+['rt', 'purebprince', 'collegemenfess', 'bukan', 'seindonesia', 'lagi', 'nder', 'tapi', 'seasia', 'tenggara', 'inget', 'gak_kalo', 'kalo', 'mbak', 'nana', 'pernah', 'bilang', 'fee', 'suaminya', 'tuh']
 
 
 ['warpopski', 'airnya', 'langsung', 'diambil', 'dari', 'mata', 'najwa', 'hehe']
 
 
-['rt', 'matanajwa', 'ketawa', 'mata', 'najwa', 'bintangemon', 'abigailimuriaa', 'jokoanwar', 'dan', 'najwashihab', 'menceritakan', 'trigger', 'yang', 'buat', 'mereka', 'gatel']
+['rt', 'matanajwa', 'mata', 'najwa', 'bintangemon', 'abigailimuriaa', 'jokoanwar', 'dan', 'najwashihab', 'menceritakan', 'trigger', 'yang', 'buat', 'mereka', 'gatel']
 
 
-['rt', 'indahnasutionn1', 'ketawa', 'apat', 'hibah', 'siluman', 'senilai', '15', 'miliar', 'pantes', 'sering', 'mangkir', 'ketawa', 'ari', 'un', 'ketawa', 'angan', 'mata', 'najwa', 'takut', 'ketawa', 'itanya', 'ya', 'pagii', 'mornin']
+['rt', 'indahnasutionn1', 'dapat', 'hibah', 'siluman', 'senilai', '15', 'miliar', 'pantes', 'sering', 'mangkir', 'dari', 'undangan', 'mata', 'najwa', 'takut', 'ditanya', 'ya', 'pagii', 'mornin']
 
 
-['ketawa', 'apat', 'hibah', 'siluman', 'senilai', '15', 'miliar', 'pantes', 'sering', 'mangkir', 'ketawa', 'ari', 'un', 'ketawa', 'angan', 'mata', 'najwa', 'takut', 'ketawa', 'itanya', 'ya', 'pagii', 'morningg', 'marocco', 'minggu', 'karens', 'ketawa', 'iner', 'minggu', 'olla', 'melon', 'top100', 'pernah', 'the', 'big', 'bungsu', 'juve', 'the', 'greatest', 'showman', 'sering', 'friendly', 'jakarta', 'minji', 'emi', 'wong', 'graduation']
+['dapat', 'hibah', 'siluman', 'senilai', '15', 'miliar', 'pantes', 'sering', 'mangkir', 'dari', 'undangan', 'mata', 'najwa', 'takut', 'ditanya', 'ya', 'pagii', 'morningg', 'marocco', 'minggu', 'karens', 'diner', 'minggu', 'olla', 'melon', 'top100', 'pernah', 'the', 'big', 'bungsu', 'juve', 'the', 'greatest', 'showman', 'sering', 'friendly', 'jakarta', 'minji', 'emi', 'wong', 'graduation']
 
 
-['rt', 'xyzabcddddd', 'collegemenfess', 'wkwkw', 'makanya', 'ga', 'aneh', 'kan', 'kalo', 'dia', 'berani', 'bikin', 'show', 'mata', 'najwa', 'pembahasan', 'yg', 'selalu', 'wow']
+['rt', 'xyzabcddddd', 'collegemenfess', 'wkwkw', 'makanya', 'ga_aneh', 'aneh', 'kan', 'kalo', 'dia', 'berani', 'bikin', 'show', 'mata', 'najwa', 'pembahasan', 'yg', 'selalu', 'wow']
 
 
-['rt', 'purebprince', 'collegemenfess', 'bukan', 'seindonesia', 'lagi', 'nder', 'tapi', 'seasia', 'tenggara', 'inget', 'gak', 'kalo', 'mbak', 'nana', 'pernah', 'bilang', 'fee', 'suaminya', 'tuh']
+['rt', 'purebprince', 'collegemenfess', 'bukan', 'seindonesia', 'lagi', 'nder', 'tapi', 'seasia', 'tenggara', 'inget', 'gak_kalo', 'kalo', 'mbak', 'nana', 'pernah', 'bilang', 'fee', 'suaminya', 'tuh']
 
 
 ['baccarant', 'jadi', 'mata', 'najwa', 'euy']
@@ -151,7 +151,7 @@
 ['dari', 'matamu', 'matamu', 'mata', 'najwa']
 
 
-['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak', 'berkontribusi', 'mata', 'najwa']
+['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak_berkontribusi', 'berkontribusi', 'mata', 'najwa']
 
 
 ['rt', 'matanajwa', 'jadi', 'kritis', 'bukan', 'cuma', 'asal', 'kritik', 'tapi', 'juga', 'harus', 'mau', 'tahu', 'dan', 'berani', 'salah', 'berani', 'dikritik', 'abigailimuriaa', 'founder', 'wh']
@@ -166,49 +166,49 @@
 ['knp', 'like', 'terus', 'aku', 'jd', 'brsa', 'pemes', 'dan', 'merasa', 'bakal', 'jd', 'selebtwt', 'yy', 'bakal', 'diundang', 'mata', 'najwa']
 
 
-['rt', 'jeongwso', 'ketawa', 'amyeon', 'matamu', 'ini', 'mataku', 'mata', 'kiri', 'mataku', 'mata', 'kanan', 'mataku', 'mata', 'najwa']
+['rt', 'jeongwso', 'damyeon', 'matamu', 'ini', 'mataku', 'mata', 'kiri', 'mataku', 'mata', 'kanan', 'mataku', 'mata', 'najwa']
 
 
-['ketawa', 'amyeon', 'matamu', 'ini', 'mataku', 'mata', 'kiri', 'mataku', 'mata', 'kanan', 'mataku', 'mata', 'najwa']
+['damyeon', 'matamu', 'ini', 'mataku', 'mata', 'kiri', 'mataku', 'mata', 'kanan', 'mataku', 'mata', 'najwa']
 
 
-['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak', 'berkontribusi', 'mata', 'najwa']
+['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak_berkontribusi', 'berkontribusi', 'mata', 'najwa']
 
 
 ['6giroud', 'bisanya', 'mata', 'najwa', 'sih']
 
 
-['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak', 'berkontribusi', 'mata', 'najwa']
+['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak_berkontribusi', 'berkontribusi', 'mata', 'najwa']
 
 
 ['wanderpain', 'km', 'ttep', 'baik', 'dimata', 'ak', 'mata', 'kiri', 'mata', 'kanan', 'mata', 'najwa']
 
 
-['littiehopesong', 'tutup', 'mata', 'najwa', 'berat', 'apalagi', 'ti', 'ketawa', 'ak', 'mencintaimu', 'lebih', 'berat', 'lagi']
+['littiehopesong', 'tutup', 'mata', 'najwa', 'berat', 'apalagi', 'tidak_mencintaimu', 'mencintaimu', 'lebih', 'berat', 'lagi']
 
 
-['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak', 'berkontribusi', 'mata', 'najwa']
+['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak_berkontribusi', 'berkontribusi', 'mata', 'najwa']
 
 
 ['ywungeun', 'convomfs', 'taunya', 'mata', 'najwa']
 
 
-['rt', 'purebprince', 'collegemenfess', 'bukan', 'seindonesia', 'lagi', 'nder', 'tapi', 'seasia', 'tenggara', 'inget', 'gak', 'kalo', 'mbak', 'nana', 'pernah', 'bilang', 'fee', 'suaminya', 'tuh']
+['rt', 'purebprince', 'collegemenfess', 'bukan', 'seindonesia', 'lagi', 'nder', 'tapi', 'seasia', 'tenggara', 'inget', 'gak_kalo', 'kalo', 'mbak', 'nana', 'pernah', 'bilang', 'fee', 'suaminya', 'tuh']
 
 
-['rt', 'purebprince', 'collegemenfess', 'bukan', 'seindonesia', 'lagi', 'nder', 'tapi', 'seasia', 'tenggara', 'inget', 'gak', 'kalo', 'mbak', 'nana', 'pernah', 'bilang', 'fee', 'suaminya', 'tuh']
+['rt', 'purebprince', 'collegemenfess', 'bukan', 'seindonesia', 'lagi', 'nder', 'tapi', 'seasia', 'tenggara', 'inget', 'gak_kalo', 'kalo', 'mbak', 'nana', 'pernah', 'bilang', 'fee', 'suaminya', 'tuh']
 
 
-['kel0l0', 'ketawa', 'en', 'ini', 'mataku', 'mata', 'kiri', 'mataku', 'mata', 'kanan', 'mataku', 'mata', 'najwa', 'raaaaaawr']
+['kel0l0den', 'ini', 'mataku', 'mata', 'kiri', 'mataku', 'mata', 'kanan', 'mataku', 'mata', 'najwa', 'raaaaaawr']
 
 
 ['ini', 'mataku', 'mata', 'kiri', 'mataku', 'mata', 'kanan', 'mataku', 'mata', 'najwa']
 
 
-['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak', 'berkontribusi', 'mata', 'najwa']
+['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak_berkontribusi', 'berkontribusi', 'mata', 'najwa']
 
 
-['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak', 'berkontribusi', 'mata', 'najwa']
+['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak_berkontribusi', 'berkontribusi', 'mata', 'najwa']
 
 
 ['tadi', 'batuk', 'terus', 'keluar', 'mata', 'najwa', 'saran', 'obat', 'penghindar', 'dompet', 'kosong']
@@ -217,40 +217,40 @@
 ['katagueteh29', 'pengen', 'dia', 'diundang', 'sama', 'mata', 'najwa', 'supaya', 'nyeritain', 'suka', 'dan', 'duka', 'selama', 'syuting', 'upinipin', 'dan', 'opet']
 
 
-['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak', 'berkontribusi', 'mata', 'najwa']
+['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak_berkontribusi', 'berkontribusi', 'mata', 'najwa']
 
 
-['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak', 'berkontribusi', 'mata', 'najwa']
+['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak_berkontribusi', 'berkontribusi', 'mata', 'najwa']
 
 
-['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak', 'berkontribusi', 'mata', 'najwa']
+['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak_berkontribusi', 'berkontribusi', 'mata', 'najwa']
 
 
-['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak', 'berkontribusi', 'mata', 'najwa']
+['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak_berkontribusi', 'berkontribusi', 'mata', 'najwa']
 
 
 ['kok', 'gw', 'yg', 'malu', 'ye', 'liat', 'pejabat', 'malah', 'saling', 'salty', 'medsos', 'kek', 'ya', 'ampun', 'bocil', 'amat', 'sih', 'lu', 'mbok', 'sono', 'ribut', 'mata', 'najwa', 'atau', 'forum', 'gitu']
 
 
-['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak', 'berkontribusi', 'mata', 'najwa']
+['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak_berkontribusi', 'berkontribusi', 'mata', 'najwa']
 
 
-['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak', 'berkontribusi', 'mata', 'najwa']
+['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak_berkontribusi', 'berkontribusi', 'mata', 'najwa']
 
 
-['rt', 'matanajwa', 'ketawa', 'mata', 'najwa', 'bintangemon', 'abigailimuriaa', 'jokoanwar', 'dan', 'najwashihab', 'menceritakan', 'trigger', 'yang', 'buat', 'mereka', 'gatel']
+['rt', 'matanajwa', 'mata', 'najwa', 'bintangemon', 'abigailimuriaa', 'jokoanwar', 'dan', 'najwashihab', 'menceritakan', 'trigger', 'yang', 'buat', 'mereka', 'gatel']
 
 
-['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak', 'berkontribusi', 'mata', 'najwa']
+['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak_berkontribusi', 'berkontribusi', 'mata', 'najwa']
 
 
-['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak', 'berkontribusi', 'mata', 'najwa']
+['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak_berkontribusi', 'berkontribusi', 'mata', 'najwa']
 
 
-['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak', 'berkontribusi', 'mata', 'najwa']
+['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak_berkontribusi', 'berkontribusi', 'mata', 'najwa']
 
 
-['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak', 'berkontribusi', 'mata', 'najwa']
+['rt', 'matanajwa', 'kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak_berkontribusi', 'berkontribusi', 'mata', 'najwa']
 
 
 ['rt', 'matanajwa', 'cek', 'tips', 'bersuara', 'dari', 'joko', 'anwar', 'mata', 'najwa', 'tonton', 'youtube', 'najwa', 'shihab', 'atau', 'website', 'narasi']
@@ -259,7 +259,7 @@
 ['cek', 'tips', 'bersuara', 'dari', 'joko', 'anwar', 'mata', 'najwa', 'tonton', 'youtube', 'najwa', 'shihab', 'atau', 'website', 'narasi']
 
 
-['kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak', 'berkontribusi', 'mata', 'najwa']
+['kalau', 'kata', 'jokoanwar', 'diam', 'sama', 'enggak_berkontribusi', 'berkontribusi', 'mata', 'najwa']
 
 
 ['sxendal', 'mata', 'najwa']
@@ -268,28 +268,91 @@
 ['missgita', 'gw', 'engga', 'liat', 'itu', 'cantik', 'apa', 'engga', 'soalnya', 'gw', 'liatnya', 'pake', 'mata', 'najwa']
 
 
-['rt', 'matanajwa', 'ketawa', 'mata', 'najwa', 'bintangemon', 'abigailimuriaa', 'jokoanwar', 'dan', 'najwashihab', 'menceritakan', 'trigger', 'yang', 'buat', 'mereka', 'gatel']
+['rt', 'matanajwa', 'mata', 'najwa', 'bintangemon', 'abigailimuriaa', 'jokoanwar', 'dan', 'najwashihab', 'menceritakan', 'trigger', 'yang', 'buat', 'mereka', 'gatel']
 
 
-['rt', 'matanajwa', 'rkuhp', 'udah', 'sah', 'kita', 'bisa', 'bersuara', 'dunia', 'maya', 'enggak', 'sih', 'mata', 'najwa']
+['rt', 'matanajwa', 'rkuhp', 'udah', 'sah', 'kita', 'bisa', 'bersuara', 'dunia', 'maya', 'enggak_sih', 'sih', 'mata', 'najwa']
 
 
 ['rt', 'matanajwa', 'jadi', 'kritis', 'bukan', 'cuma', 'asal', 'kritik', 'tapi', 'juga', 'harus', 'mau', 'tahu', 'dan', 'berani', 'salah', 'berani', 'dikritik', 'abigailimuriaa', 'founder', 'wh']
 
 
-['rt', 'matanajwa', 'ketawa', 'mata', 'najwa', 'bintangemon', 'abigailimuriaa', 'jokoanwar', 'dan', 'najwashihab', 'menceritakan', 'trigger', 'yang', 'buat', 'mereka', 'gatel']
+['rt', 'matanajwa', 'mata', 'najwa', 'bintangemon', 'abigailimuriaa', 'jokoanwar', 'dan', 'najwashihab', 'menceritakan', 'trigger', 'yang', 'buat', 'mereka', 'gatel']
 
 
-['rt', 'purebprince', 'collegemenfess', 'bukan', 'seindonesia', 'lagi', 'nder', 'tapi', 'seasia', 'tenggara', 'inget', 'gak', 'kalo', 'mbak', 'nana', 'pernah', 'bilang', 'fee', 'suaminya', 'tuh']
+['rt', 'purebprince', 'collegemenfess', 'bukan', 'seindonesia', 'lagi', 'nder', 'tapi', 'seasia', 'tenggara', 'inget', 'gak_kalo', 'kalo', 'mbak', 'nana', 'pernah', 'bilang', 'fee', 'suaminya', 'tuh']
 
 
-['rt', 'purebprince', 'collegemenfess', 'bukan', 'seindonesia', 'lagi', 'nder', 'tapi', 'seasia', 'tenggara', 'inget', 'gak', 'kalo', 'mbak', 'nana', 'pernah', 'bilang', 'fee', 'suaminya', 'tuh']
+['rt', 'purebprince', 'collegemenfess', 'bukan', 'seindonesia', 'lagi', 'nder', 'tapi', 'seasia', 'tenggara', 'inget', 'gak_kalo', 'kalo', 'mbak', 'nana', 'pernah', 'bilang', 'fee', 'suaminya', 'tuh']
 
 
 ['stvardvst', 'mata', 'najwa', 'yang', 'terakhir']
 
 
 ['rt', 'matanajwa', 'jadi', 'kritis', 'bukan', 'cuma', 'asal', 'kritik', 'tapi', 'juga', 'harus', 'mau', 'tahu', 'dan', 'berani', 'salah', 'berani', 'dikritik', 'abigailimuriaa', 'founder', 'wh']
+
+
+['rt', 'leehurstcomic', 'had', 'great', 'time', 'gigging', 'at', 'the', 'backyard', 'comedy', 'club', 'last', 'night', 'the', 'next', 'step', 'in', 'trying', 'to', 'claw', 'my', 'way', 'back', 'to', 'stand', 'up']
+
+
+['takeastepback16', 'lizchurchill7', 'saline', 'it', 'was', 'obviously', 'typo', 'but', 'stand', 'up', 'comedy', 'is', 'not', 'in', 'your', 'future']
+
+
+['rt', 'captnmarvl', 'need', 'rene', 'rapp', 'to', 'do', 'stand', 'up', 'comedy', 'special', 'whys', 'she', 'so', 'fucking', 'funny']
+
+
+['rt', 'captnmarvl', 'need', 'rene', 'rapp', 'to', 'do', 'stand', 'up', 'comedy', 'special', 'whys', 'she', 'so', 'fucking', 'funny']
+
+
+['guganoblat', 'zeliabatisti', 'profpadilla', 'villarpaulo17', 'nilcebregalda', 'corazzathais', 'melhor', 'que', 'stand', 'up', 'comedy', 'ou', 'marceloadnet', 'imitando', 'galvo', 'kkkkk']
+
+
+['motangcules', 'aniesbaswedan', 'bahan', 'stand', 'up', 'comedy']
+
+
+['rt', 'thesokrates', 'one', 'night', 'stand', 'stand', 'up', 'comedy', 'one', 'stand', 'up']
+
+
+['rt', 'crazydogsp', 'stand', 'up', 'comedy', 'uauauauauau']
+
+
+['nah', 'zena', 'tuh', 'menurut', 'aku', 'pinter', 'banget', 'yg', 'kalo', 'bikin', 'jokes', 'pasti', 'lucu', 'dan', 'terdengar', 'cerdas', 'jokesnya', 'kaya', 'kepikiran', 'aja', 'bercanda', 'kaya', 'gitu', 'harusnya', 'zena', 'ikutan', 'stand', 'up', 'comedy']
+
+
+['thiscrystalfins', 'hi', 'do', 'you', 'actually', 'do', 'stand', 'up', 'comedy', 'and', 'if', 'so', 'do', 'you', 'perform', 'in', 'ny']
+
+
+['rt', 'captnmarvl', 'need', 'rene', 'rapp', 'to', 'do', 'stand', 'up', 'comedy', 'special', 'whys', 'she', 'so', 'fucking', 'funny']
+
+
+['mlindsay1998', 'parissathena', 'theyre', 'not', 'going', 'to', 'make', 'you', 'their', 'queen', 'literally', 'you', 'have', 'so', 'much', 'white', 'culture', 'in', 'your', 'everyday', 'life', 'that', 'you', 'dont', 'even', 'know', 'it', 'oh', 'get', 'to', 'vote', 'oh', 'speak', 'english', 'watch', 'bball', 'soccer', 'football', 'baseball', 'sitcoms', 'stand', 'up', 'comedy', 'innocent', 'till', 'proven', 'guilty', 'electricity']
+
+
+['rt', 'captnmarvl', 'need', 'rene', 'rapp', 'to', 'do', 'stand', 'up', 'comedy', 'special', 'whys', 'she', 'so', 'fucking', 'funny']
+
+
+['rt', 'captnmarvl', 'need', 'rene', 'rapp', 'to', 'do', 'stand', 'up', 'comedy', 'special', 'whys', 'she', 'so', 'fucking', 'funny']
+
+
+['rt', 'sunilbhanot2', 'always', 'deeply', 'nostalgic', 'for', 'me', 'fresh', 'cutting', 'edge', 'stand', 'up', 'comedystoreuk', 'in', 'london', 'nimble', 'piercing', 'comedy', 'late', 'las']
+
+
+['rt', 'captnmarvl', 'need', 'rene', 'rapp', 'to', 'do', 'stand', 'up', 'comedy', 'special', 'whys', 'she', 'so', 'fucking', 'funny']
+
+
+['rt', 'georginadriver', 'adamdriver', 'attends', 'the', '10th', 'annual', 'stand', 'up', 'for', 'heroes', 'event', 'presented', 'by', 'the', 'new', 'york', 'comedy', 'festival', 'and', 'the', 'bob']
+
+
+['stand', 'up', 'comedy', 'uauauauauau']
+
+
+['listening', 'to', 'stand', 'up', 'comedy', 'from', 'the', '80s', 'the', 'political', 'stuff', 'doesnt', 'hold', 'up', 'observations', 'about', 'society', 'sound', 'trite', 'as', 'well', 'the', 'only', 'material', 'that', 'holds', 'up', 'is', 'men', 'complaining', 'about', 'women', 'about', 'break', 'ups', 'and', 'making', 'fun', 'of', 'other', 'people', 'punching', 'down', 'as', 'they', 'say', 'now']
+
+
+['berontak', 'ngakaaak', 'ini', 'lagi', 'stand', 'up', 'comedy', 'cabang', 'roasting', 'mempelai', 'ya']
+
+
+['this', 'is', 'what', 'stand', 'up', 'comedy', 'is']
 
 
 ['rt', 'thesokrates', 'one', 'night', 'stand', 'stand', 'up', 'comedy', 'one', 'stand', 'up']
@@ -307,7 +370,7 @@
 ['leokearse', 'huge', 'fan', 'of', 'stand', 'up', 'comedy', 'might', 'explain', 'why', 'ive', 'never', 'heard', 'of', 'you']
 
 
-['youtubesnlnflnbanhlmlbbbcctvcbscbc', 'instagramstandup', 'comedy', 'suka', 'oscar']
+['youtubesnlnflnbanhlmlbbbcctvcbscbc', 'instagramstandup', 'comedyoscar']
 
 
 ['rt', 'pwrettesavage', 'iyel', 'doang', 'yang', 'mikirin', 'apa', 'kata', 'stand', 'up', 'comedy']
@@ -319,16 +382,16 @@
 ['one', 'night', 'stand', 'stand', 'up', 'comedy', 'one', 'stand', 'up']
 
 
-['nanaaboagye10', 'sunlily19', 'maneeji', 'postsubman', 'haaa', 'walai', 'you', 'should', 'do', 'stand', 'up', 'comedy']
+['nanaaboagye10', 'sunlily19', 'maneeji', 'postsubman', 'haaa', 'walai', 'you', 'should', 'do', 'stand', 'up', 'comedy', 'ketawa']
 
 
 ['chicoperez', 'cuando', 'apareca', 'avello', 'lo', 'vea', 'ese', 'era', 'el', 'avello', 'crack', 'no', 'el', 'wn', 'fome', 'en', 'el', 'se', 'transform', 'desde', 'hace', 'stand', 'up', 'comedy']
 
 
-['rt', 'georgina', 'ketawa', 'river', 'adam', 'ketawa', 'river', 'attends', 'the', '10th', 'annual', 'stand', 'up', 'for', 'heroes', 'event', 'presented', 'by', 'the', 'new', 'york', 'comedy', 'festival', 'and', 'the', 'bob']
+['rt', 'georginadriver', 'adamdriver', 'attends', 'the', '10th', 'annual', 'stand', 'up', 'for', 'heroes', 'event', 'presented', 'by', 'the', 'new', 'york', 'comedy', 'festival', 'and', 'the', 'bob']
 
 
-['ontem', 'como', 'se', 'estivesse', 'vendo', 'um', 'stan', 'ketawa', 'up', 'come', 'ketawa', 'vi', 'notcia', 'que', 'corinthians', 'tem', 'interesse', 'em', 'tirar', 'cebolinha', 'do', 'flamengo', 'bvio', 'que', 'aos', 'risos', 'sem', 'levar', 'srio', 'pensei', 'em', 'indicar', 'jnior', 'urso', 'pra', 'eles']
+['ontem', 'como', 'se', 'estivesse', 'vendo', 'um', 'stand', 'up', 'comedy', 'vi', 'notcia', 'que', 'corinthians', 'tem', 'interesse', 'em', 'tirar', 'cebolinha', 'do', 'flamengo', 'bvio', 'que', 'aos', 'risos', 'sem', 'levar', 'srio', 'pensei', 'em', 'indicar', 'jnior', 'urso', 'pra', 'eles']
 
 
 ['tem', 'stand', 'up', 'comedy', 'da', 'minha', 'amiga', 'hoje', 'no', 'workroom', 'quem', 'vamos']
@@ -346,7 +409,7 @@
 ['rt', 'pressboxwarrior', 'richardstamford', 'stamfordcet', 'its', 'stand', 'up', 'comedy', 'show', 'what', 'happened', 'to', 'freedom', 'of', 'speech', 'hows', 'the', 'bookburning']
 
 
-['noorthevirgo', 'my', 'name', 'is', 'shintaro', 'im', 'japanese', 'comedian', 'devote', 'my', 'life', 'to', 'make', 'people', 'all', 'over', 'the', 'world', 'laugh', 'please', 'give', 'me', 'just', 'minutes', '29', 'seconds', 'that', 'my', 'soul', 'made', 'japanese', 'stand', 'up', 'comedy', 'subway', 'ketawa', '3ir3w']
+['noorthevirgo', 'my', 'name', 'is', 'shintaro', 'im', 'japanese', 'comedian', 'devote', 'my', 'life', 'to', 'make', 'people', 'all', 'over', 'the', 'world', 'laugh', 'please', 'give', 'me', 'just', 'minutes', '29', 'seconds', 'that', 'my', 'soul', 'made', 'japanese', 'stand', 'up', 'comedy', 'subway']
 
 
 ['rt', 'ssaratht', 'masthsab', 'ko', 'dekh', 'na', 'padega', 'bjy', 'aur', 'pappu', 'ke', 'upar', 'stand', 'up', 'comedy', 'who', 'is', 'this', 'guy']
@@ -355,13 +418,13 @@
 ['terrified', 'to', 'announce', 'now', 'have', 'tiktok', 'for', 'my', 'stand', 'up', 'poetry', 'please', 'stalk', 'me', 'or', 'whatever', 'happens', 'over', 'there', 'tiktok', 'standup', 'comedy', 'poetry', 'comedypoem', 'newcontentcreator', 'killme']
 
 
-['vindestwitt', 'min', 'undang', 'chandra', 'stand', 'up', 'comedy', 'yg', 'ga', 'lucu', 'dong', 'dulu', 'sempet', 'ngehits', 'tonetso']
+['vindestwitt', 'min', 'undang', 'chandra', 'stand', 'up', 'comedy', 'yg', 'ga_lucu', 'lucu', 'dong', 'dulu', 'sempet', 'ngehits', 'tonetso']
 
 
 ['billybaldwin', 'billy', 'you', 'need', 'to', 'do', 'stand', 'up', 'misery', 'comedy', 'since', 'the', 'acting', 'thing', 'is', 'dead']
 
 
-['rt', 'iamnikita', 'ketawa', 'you', 'think', 'malaikas', 'stand', 'up', 'was', 'good', 'or', 'bharti', 'ki', 'comedy', 'skills', 'movinginwithmalaikaonhotstar']
+['rt', 'iamnikita', 'do', 'you', 'think', 'malaikas', 'stand', 'up', 'was', 'good', 'or', 'bharti', 'ki', 'comedy', 'skills', 'movinginwithmalaikaonhotstar']
 
 
 ['inimah', 'disuruh', 'stand', 'up', 'comedy', 'ajgggg']
@@ -373,10 +436,10 @@
 ['legacybuilder', 'im', 'probably', 'weird', 'but', 'dont', 'like', 'stand', 'up', 'comedy', 'its', 'lame', 'and', 'cringy', 'see', 'most', 'of', 'these', 'answers', 'are', 'standup', 'comics', 'find', 'myself', 'feeling', 'bad', 'for', 'the', 'performer', 'which', 'hate', 'to', 'this', 'day', 'the', 'funniest', 'dude', 'ever', 'was', 'tomgreenlive', 'on', 'mtv', 'in', '1999', 'just', 'hit', 'me', 'right']
 
 
-['rt', 'paulo', 'ketawa', 'ijollio', 'get', 'yourselves', 'to', 'the', 'stand', 'tonight', 'if', 'you', 'fancy', 'good', 'night', 'of', 'comedy', 'cracking', 'line', 'up', 'with', 'my', 'boy', 'ketawa', 'arrenconnell87']
+['rt', 'paulodijollio', 'get', 'yourselves', 'to', 'the', 'stand', 'tonight', 'if', 'you', 'fancy', 'good', 'night', 'of', 'comedy', 'cracking', 'line', 'up', 'with', 'my', 'boy', 'darrenconnell87']
 
 
-['rt', 'georgina', 'ketawa', 'river', 'adam', 'ketawa', 'river', 'attends', 'the', '10th', 'annual', 'stand', 'up', 'for', 'heroes', 'event', 'presented', 'by', 'the', 'new', 'york', 'comedy', 'festival', 'and', 'the', 'bob']
+['rt', 'georginadriver', 'adamdriver', 'attends', 'the', '10th', 'annual', 'stand', 'up', 'for', 'heroes', 'event', 'presented', 'by', 'the', 'new', 'york', 'comedy', 'festival', 'and', 'the', 'bob']
 
 
 ['rt', 'mukulagarwal66', 'stand', 'up', 'comedy', 'of', 'the', 'worst', 'kind', 'the', 'judges', 'should', 'be', 'heard', 'only', 'in', 'courtrooms', 'the', 'more', 'they', 'speak', 'outside', 'more']
@@ -385,22 +448,22 @@
 ['mikemoves12', 'jeremyclarkson', 'have', 'you', 'been', 'to', 'any', 'jeremy', 'clarkson', 'stand', 'up', 'shows', 'lately', 'always', 'thought', 'he', 'was', 'broadcaster', 'journalist', 'whens', 'his', 'next', 'comedy', 'gig']
 
 
-['ketawa', 'depan', 'keluarga', 'udah', 'kek', 'kulkas', 'berjalan', 'dingin', 'beud', 'eh', 'kumpul', 'bareng', 'perbestaian', 'kek', 'kontestan', 'stand', 'up', 'comedy', 'hmmm', 'itulah', 'dirikuy']
+['depan', 'keluarga', 'udah', 'kek', 'kulkas', 'berjalan', 'dingin', 'beud', 'eh', 'kumpul', 'bareng', 'perbestaian', 'kek', 'kontestan', 'stand', 'up', 'comedy', 'hmmm', 'itulah', 'dirikuy']
 
 
 ['rt', 'leehurstcomic', 'had', 'great', 'time', 'gigging', 'at', 'the', 'backyard', 'comedy', 'club', 'last', 'night', 'the', 'next', 'step', 'in', 'trying', 'to', 'claw', 'my', 'way', 'back', 'to', 'stand', 'up']
 
 
-['stand', 'up', 'comedy', 'of', 'the', 'worst', 'kind', 'the', 'judges', 'should', 'be', 'heard', 'only', 'in', 'courtrooms', 'the', 'more', 'they', 'speak', 'outside', 'more', 'they', 'expose', 'their', 'own', 'sense', 'of', 'nonsense', 'ketawa']
+['stand', 'up', 'comedy', 'of', 'the', 'worst', 'kind', 'the', 'judges', 'should', 'be', 'heard', 'only', 'in', 'courtrooms', 'the', 'more', 'they', 'speak', 'outside', 'more', 'they', 'expose', 'their', 'own', 'sense', 'of', 'nonsense']
 
 
-['rt', 'musicalone', 'happy', 'birthday', 'to', 'ronald', 'ron', 'white', 'born', 'ketawa', 'ecember', '18', '1956', 'suka', 'stand', 'up', 'comedian', 'and', 'actor', 'who', 'has', 'had', 'two', 'grammy', 'award']
+['rt', 'musicalone', 'happy', 'birthday', 'to', 'ronald', 'ron', 'white', 'born', 'december', '18', '1956stand', 'up', 'comedian', 'and', 'actor', 'who', 'has', 'had', 'two', 'grammy', 'award']
 
 
 ['11fess', 'yuk', 'ngopi', 'nyantai', 'dan', 'ngakak', 'bareng', 'lawangredjobp', 'besok', 'akan', 'ada', 'ajang', 'latihan', 'komunitas', 'stand', 'up', 'uns', 'mengasah', 'materi', 'comedy']
 
 
-['udah', 'bener', 'tetep', 'stand', 'up', 'comedy', 'waktu', 'itu', 'ngapain', 'ikut', 'pilpres', 'sih', 'ketawa', '4b3']
+['udah', 'bener', 'tetep', 'stand', 'up', 'comedy', 'waktu', 'itu', 'ngapain', 'ikut', 'pilpres', 'sih', 'kecewa']
 
 
 ['stand', 'up', 'comedy']
@@ -412,10 +475,10 @@
 ['pacaran', 'rasa', 'stand', 'up', 'comedy']
 
 
-['umarfadhil', 'ya', 'allah', 'beb', 'mending', 'kamu', 'ikut', 'stand', 'up', 'comedy']
+['umarfadhil', 'ya', 'allah', 'beb', 'mending', 'kamu', 'ikut', 'stand', 'up', 'comedy', 'ketawa']
 
 
-['pai', 'da', 'mentira', 'que', 'conta', 'verdades', 'deus', 'mestre', 'nico', 'que', 'conseguiu', 'me', 'seduzir', 'ao', 'espetculo', 'do', 'stand', 'up', 'comedy', 'suka', 'tiagosantineli']
+['pai', 'da', 'mentira', 'que', 'conta', 'verdades', 'deus', 'mestre', 'nico', 'que', 'conseguiu', 'me', 'seduzir', 'ao', 'espetculo', 'do', 'stand', 'up', 'comedy', 'tiagosantineli']
 
 
 ['ahy', 'lebih', 'pas', 'masuk', 'stand', 'up', 'comedy', 'saja', 'ahypolitikusgagal']
@@ -439,19 +502,16 @@
 ['rt', 'kzscrgallery', 'kaedehara', 'kazuha', 'found', 'using', 'his', 'trauma', 'for', 'stand', 'up', 'comedy']
 
 
-['rt', 'tixlondon', 'house', 'of', 'stan', 'ketawa', 'up', 'presents', 'chislehurst', 'come', 'ketawa', 'christmas', 'show', 'with', 'jeff', 'innocent', 'the', 'beaverwood', 'chislehurst', 'on', 'sun', '18', 'ketawa', 'ec']
+['rt', 'tixlondon', 'house', 'of', 'stand', 'up', 'presents', 'chislehurst', 'comedy', 'christmas', 'show', 'with', 'jeff', 'innocent', 'the', 'beaverwood', 'chislehurst', 'on', 'sun', '18', 'dec']
 
 
 ['abiroberts', 'lovillajavea', 'your', 'good', 'self', 'aside', 'stand', 'up', 'comedy', 'could', 'be', 'dead', 'within', 'years']
 
 
-['house', 'of', 'stan', 'ketawa', 'up', 'presents', 'chislehurst', 'come', 'ketawa', 'christmas', 'show', 'with', 'jeff', 'innocent', 'the', 'beaverwood', 'chislehurst', 'on', 'sun', '18', 'ketawa', 'ec', '2022', '700pm', 'houseofstandup', 'comedy', 'tickets']
+['house', 'of', 'stand', 'up', 'presents', 'chislehurst', 'comedy', 'christmas', 'show', 'with', 'jeff', 'innocent', 'the', 'beaverwood', 'chislehurst', 'on', 'sun', '18', 'dec', '2022', '700pm', 'houseofstandup', 'comedy', 'tickets']
 
 
 ['kalo', 'sahabatan', 'sm', 'cowo', 'selalu', 'jadiin', 'dia', 'kaya', 'keluarga', 'yakali', 'baper', 'sm', 'kakak', 'sendiri', 'yg', 'ada', 'kegiatannya', 'bukan', 'pacaran', 'malah', 'jd', 'stand', 'up', 'comedy']
-
-
-['stand', 'up', 'comedy', 'is', 'such', 'an', 'ick', 'to', 'me', 'cant', 'explain', 'it', 'theres', 'just', 'something', 'ab', 'it']
 
 
 ['hermeslepinski', 'joanasilva14', 'folha', 'kkkkkk', 'muito', 'boa', 'vc', 'tem', 'time', 'certo', 'pra', 'stand', 'up', 'comedy', 'srio']
@@ -460,28 +520,28 @@
 ['greenpeaceuk', 'stand', 'up', 'comedy', 'at', 'its', 'worst']
 
 
-['get', 'yourselves', 'to', 'the', 'stand', 'tonight', 'if', 'you', 'fancy', 'good', 'night', 'of', 'comedy', 'cracking', 'line', 'up', 'with', 'my', 'boy', 'ketawa', 'arrenconnell87']
+['get', 'yourselves', 'to', 'the', 'stand', 'tonight', 'if', 'you', 'fancy', 'good', 'night', 'of', 'comedy', 'cracking', 'line', 'up', 'with', 'my', 'boy', 'darrenconnell87']
 
 
-['rt', 'omeprajol', 'himbauan', 'tapi', 'tidak', 'diizinkan', 'penjelasan', 'anda', 'sangat', 'menjelaskan', 'sekali', 'ikut', 'stand', 'up', 'comedy', 'dong', 'pak']
+['rt', 'omeprajol', 'himbauan', 'tapi', 'tidak_diizinkan', 'diizinkan', 'penjelasan', 'anda', 'sangat', 'menjelaskan', 'sekali', 'ikut', 'stand', 'up', 'comedy', 'dong', 'pak', 'senang']
 
 
-['twixmas', 'stand', 'up', 'comedy', 'class', 'wed', '28', 'ketawa', 'ec', '2022', '9pm', 'ketawa', 'you', 'or', 'friend', 'need', 'dose', 'of', 'humour', 'in', 'between', 'christmas', 'amp', 'new', 'year', 'looking', 'to', 'give', 'christmasgift', 'with', 'difference', 'look', 'no', 'further', 'see', 'you', 'there']
+['twixmas', 'stand', 'up', 'comedy', 'class', 'wed', '28', 'dec', '2022', '9pm', 'do', 'you', 'or', 'friend', 'need', 'dose', 'of', 'humour', 'in', 'between', 'christmas', 'amp', 'new', 'year', 'looking', 'to', 'give', 'christmasgift', 'with', 'difference', 'look', 'no', 'further', 'see', 'you', 'there']
 
 
 ['rt', 'mburhanuddin3', 'besok', 'nu', 'tech', 'bakal', 'berlangsung', 'akan', 'ada', 'presentasi', 'innovation', 'pitching', 'forum', 'competition', 'challenge', 'capture', 'the']
 
 
-['tonight', '1930', 'english', 'standup', 'sunday', 'comedy', 'party', 'neuklln', 'berlin', 'comedy', 'comedyinenglish', 'englishcomedy', 'ketawa', 'ketawa', 'eh']
+['tonight', '1930', 'english', 'standup', 'sunday', 'comedy', 'party', 'neuklln', 'berlin', 'comedy', 'comedyinenglish', 'englishcomedy']
 
 
 ['lets', 'do', 'this', 'one', 'last', 'time', 'this', 'year', 'get', 'your', 'team', 'together', 'and', 'join', 'us', 'tonight', 'for', 'the', 'le', 'pub', 'quiz', 'with', 'your', 'host', 'and', 'newport', 'stand', 'up', 'comedy', 'king', 'mrchrischopping', 'cash', 'prize', 'to', 'be', 'won', 'entry']
 
 
-['rt', 'notsarkar', 'important', 'announcement', 'ketawa', 'oing', 'my', 'one', 'hour', 'solo', 'untouchable', 'in', 'bangalore', 'on', '25th', 'ketawa', 'ecemberwhich', 'is', 'also', 'my', 'birthday', 'suka', 'get']
+['rt', 'notsarkar', 'important', 'announcement', 'doing', 'my', 'one', 'hour', 'solo', 'untouchable', 'in', 'bangalore', 'on', '25th', 'decemberwhich', 'is', 'also', 'my', 'birthday', 'get']
 
 
-['carolvorders', 'ketawa', 'oes', 'anyone', 'seriously', 'take', 'jeremy', 'seriously', 'anymore', 'he', 'should', 'try', 'stand', 'up', 'comedy']
+['carolvorders', 'does', 'anyone', 'seriously', 'take', 'jeremy', 'seriously', 'anymore', 'he', 'should', 'try', 'stand', 'up', 'comedy']
 
 
 ['rt', 'leehurstcomic', 'had', 'great', 'time', 'gigging', 'at', 'the', 'backyard', 'comedy', 'club', 'last', 'night', 'the', 'next', 'step', 'in', 'trying', 'to', 'claw', 'my', 'way', 'back', 'to', 'stand', 'up']
@@ -496,10 +556,10 @@
 ['rt', 'leicscomedyfest', 'comics', 'are', 'like', 'fine', 'wine', 'better', 'with', 'age', 'hosted', 'by', 'mrs', 'barbara', 'nice', 'at', 'peter', 'pizzeria', 'on', 'feb', '21st', 'were', 'delighted']
 
 
-['besok', 'nu', 'tech', 'bakal', 'berlangsung', 'akan', 'ada', 'presentasi', 'innovation', 'pitching', 'forum', 'competition', 'challenge', 'capture', 'the', 'flag', 'competition', 'narasi', 'academy', 'amp', 'tech', 'seminar', 'sekaligus', 'stand', 'up', 'comedy', 'salah', 'satu', 'narasumbernya', 'adalah', 'instruktur', 'pw', 'acta', 'jatim', 'loh', 'wow']
+['besok', 'nu', 'tech', 'bakal', 'berlangsung', 'akan', 'ada', 'presentasi', 'innovation', 'pitching', 'forum', 'competition', 'challenge', 'capture', 'the', 'flag', 'competition', 'narasi', 'academy', 'amp', 'tech', 'seminar', 'sekaligus', 'stand', 'up', 'comedy', 'suka', 'salah', 'satu', 'narasumbernya', 'adalah', 'instruktur', 'pw', 'acta', 'jatim', 'loh', 'wow']
 
 
-['besok', 'nu', 'tech', 'bakal', 'berlangsung', 'akan', 'ada', 'presentasi', 'innovation', 'pitching', 'forum', 'competition', 'challenge', 'capture', 'the', 'flag', 'competition', 'narasi', 'academy', 'amp', 'tech', 'seminar', 'sekaligus', 'stand', 'up', 'comedy', 'salah', 'satu', 'pematerinya', 'adalah', 'bang', 'zvlham', 'anggota', 'cyber', 'pwansorjatim', 'ketawa']
+['besok', 'nu', 'tech', 'bakal', 'berlangsung', 'akan', 'ada', 'presentasi', 'innovation', 'pitching', 'forum', 'competition', 'challenge', 'capture', 'the', 'flag', 'competition', 'narasi', 'academy', 'amp', 'tech', 'seminar', 'sekaligus', 'stand', 'up', 'comedy', 'suka', 'salah', 'satu', 'pematerinya', 'adalah', 'bang', 'zvlham', 'anggota', 'cyber', 'pwansorjatim']
 
 
 ['bringing', 'worldclass', 'stand', 'up', 'comedy', 'to', 'an', 'audience', 'in', 'nyc', 'style', 'whatson', 'sydney', 'happyendingscomedyclub']
@@ -508,7 +568,7 @@
 ['bubbletiess', 'plisss', 'lucu', 'bgt', 'nanti', 'hobinya', 'stand', 'up', 'comedy']
 
 
-['ketawa', 'olfie85', 'lol', 'stand', 'up', 'comedy', 'ik', 'ben', 'fan']
+['dolfie85', 'lol', 'stand', 'up', 'comedy', 'ik', 'ben', 'fan']
 
 
 ['rt', 'hansdavidian', 'yg', 'namanya', 'komika', 'ini', 'lagaknya', 'seakan2', 'jenis', 'komedian', 'baru', 'nan', 'intelektual', 'edgy', 'banget', 'sini', 'padahal', 'sedari', 'jaman', 'sri']
@@ -520,10 +580,10 @@
 ['im', 'going', 'into', 'stand', 'up', 'comedy', 'fuck', 'you', 'guys', 'reckon', 'it', 'would', 'be', 'funny', 'as', 'fuck']
 
 
-['nonton', 'yuk', 'english', 'stand', 'up', 'comedy', 'ketawa', 'bar', 'lounge', 'jaksel', 'astaghfirullah']
+['nonton', 'yuk', 'english', 'stand', 'up', 'comedy', 'bar', 'lounge', 'jaksel', 'astaghfirullah', 'ketawa']
 
 
-['rt', 'theratpack', 'beautiful', 'sold', 'out', 'show', 'camdencomedy', 'camdenhead', 'last', 'night', 'with', 'ace', 'sets', 'from', 'finlaycomedy', 'karenhobbs', 'ketawa', 'avidmills', 'ketawa', 'ept']
+['rt', 'theratpack', 'beautiful', 'sold', 'out', 'show', 'camdencomedy', 'camdenhead', 'last', 'night', 'with', 'ace', 'sets', 'from', 'finlaycomedy', 'karenhobbs', 'davidmillsdept']
 
 
 ['im', 'posting', 'this', 'on', 'twitter', 'so', 'dont', 'chicken', 'out', '2023', 'is', 'the', 'year', 'give', 'stand', 'up', 'comedy', 'go']
@@ -532,154 +592,100 @@
 ['yokk', 'pura', 'mangkunegaran', 'ada', 'akbar', 'kobar', 'dan', 'arif', 'alfiansyah', 'yang', 'bakal', 'stand', 'up', 'comedy', 'pestarakyatsimpedessolo2022', 'prssolo', '2022']
 
 
-['cironogueira', 'nossamuito', 'engraado', 'faz', 'stand', 'up', 'comedy']
+['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
 
 
-['just', 'went', 'to', 'stand', 'up', 'comedy', 'show', 'and', 'now', 'im', 'wondering', 'what', 'took', 'me', 'so', 'long', 'to', 'go', 'to', 'one', 'of', 'these', 'lmao']
+['gaplekemplu', '5ecretnumber', 'ini', 'yang', 'kuharapkan', 'idol', 'kpop', 'yang', 'berasal', 'dari', 'indonesia', 'harus', 'juga', 'mengenalkan', 'budaya', 'indonesia', 'ke', 'publik', 'korea', 'sana']
 
 
-['bvpat2501', 'stand', 'up', 'comedy']
-
-
-['only', 'the', 'best', 'most', 'outrageous', 'cutting', 'edge', 'stand', 'up', 'comedy', 'comedystoreuk', 'in', 'london', 'power', 'paradox', 'and', 'the', 'sublime', 'last', 'night', 'with', 'fab', 'jeff', 'innocent', 'innocentjeff']
-
-
-['rt', 'georgina', 'ketawa', 'river', 'adam', 'ketawa', 'river', 'attends', 'the', '10th', 'annual', 'stand', 'up', 'for', 'heroes', 'event', 'presented', 'by', 'the', 'new', 'york', 'comedy', 'festival', 'and', 'the', 'bob']
-
-
-['detikcom', 'mungkin', 'si', 'kangen', 'stand', 'up', 'comedy', 'panggung']
-
-
-['rt', 'omeprajol', 'himbauan', 'tapi', 'tidak', 'diizinkan', 'penjelasan', 'anda', 'sangat', 'menjelaskan', 'sekali', 'ikut', 'stand', 'up', 'comedy', 'dong', 'pak']
-
-
-['primeministergr', 'stand', 'up', 'comedy', '45']
-
-
-['bilionairesec', 'unless', 'they', 'are', 'trying', 'to', 'do', 'better', 'at', 'stand', 'up', 'comedy', 'in', 'which', 'case', 'not', 'laughing', 'would', 'be', 'quite', 'rude']
-
-
-['orwell2022', 'planetcognito', 'michaelesders', 'bei', 'stand', 'up', 'comedy', 'darf', 'aber', 'der', 'meister', 'nicht', 'fehlen', 'wenn', 'er', 'jetzt', 'doch', 'bei', 'amazon', 'durchgestartet', 'ist']
-
-
-['detikcom', 'maaf', 'ya', 'husky', 'pildun', 'itu', 'bukan', 'panggung', 'stand', 'up', 'comedy']
-
-
-['ketawa', 'omisge', 'planetcognito', 'michaelesders', 'wir', 'haben', 'genug', 'material', 'fr', '30', 'jahre', 'stand', 'up', 'comedy']
-
-
-['hyphhytv', 'is', 'sean', 'doing', 'stand', 'up', 'comedy', 'wasnt', 'aware', 'of', 'this', 'also', 'am', 'thinking', 'for', 'myself', 'you', 'arent', 'clearly', 'because', 'youve', 'been', 'told', 'how', 'to', 'react', 'to', 'racism', 'when', 'you', 'want', 'to', 'maintain', 'good', 'relationship', 'with', 'again', 'those', 'who', 'dont', 'care', 'for', 'you', 'yield']
-
-
-['ketawa', 'aripada', 'award2', 'ga', 'jelas', 'mending', 'nonton', 'stand', 'up', 'comedy', 'noh']
-
-
-['rt', 'iamnikita', 'ketawa', 'you', 'think', 'malaikas', 'stand', 'up', 'was', 'good', 'or', 'bharti', 'ki', 'comedy', 'skills', 'movinginwithmalaikaonhotstar']
-
-
-['rt', 'iamnikita', 'ketawa', 'you', 'think', 'malaikas', 'stand', 'up', 'was', 'good', 'or', 'bharti', 'ki', 'comedy', 'skills', 'movinginwithmalaikaonhotstar']
-
-
-['rt', 'leicscomedyfest', 'comics', 'are', 'like', 'fine', 'wine', 'better', 'with', 'age', 'hosted', 'by', 'mrs', 'barbara', 'nice', 'at', 'peter', 'pizzeria', 'on', 'feb', '21st', 'were', 'delighted']
-
-
-['rt', 'leehurstcomic', 'had', 'great', 'time', 'gigging', 'at', 'the', 'backyard', 'comedy', 'club', 'last', 'night', 'the', 'next', 'step', 'in', 'trying', 'to', 'claw', 'my', 'way', 'back', 'to', 'stand', 'up']
-
-
-['rt', 'leehurstcomic', 'had', 'great', 'time', 'gigging', 'at', 'the', 'backyard', 'comedy', 'club', 'last', 'night', 'the', 'next', 'step', 'in', 'trying', 'to', 'claw', 'my', 'way', 'back', 'to', 'stand', 'up']
-
-
-['rt', 'georgina', 'ketawa', 'river', 'adam', 'ketawa', 'river', 'attends', 'the', '10th', 'annual', 'stand', 'up', 'for', 'heroes', 'event', 'presented', 'by', 'the', 'new', 'york', 'comedy', 'festival', 'and', 'the', 'bob']
-
-
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
 
 
 ['rt', 'ninabobooooo', 'enstars', 'fanfiction', 'arashi', 'narukami', 'sang', 'member', 'idol', 'dari', 'unit', 'knights', 'liburan', 'ke', 'indonesia', 'dan', 'mau', 'nonton', 'idola', 'ibukot']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
 
 
-['saveronicashn', 'indrisulami', 'kdramamenfess', 'sus', 'knp', 'apa', 'yg', 'ga', 'percaya', 'gw', 'emg', 'suka', 'lyodra', 'support', 'dia', 'dr', '2020', 'zaman', 'indonesia', 'idol', 'ngikutin', 'dia', 'bgt', 'bahkan', 'pernah', 'dateng', 'langsung', 'ke', 'konser', 'kemenangannya', 'napa', 'jd', 'yg', 'pojokin', 'si', 'ya', 'klo', 'nganggep', 'dia', 'sensi', 'ya', 'mungkin', 'cara', 'baca', 'yg', 'salah', 'dan', 'minta', 'maaf']
+['saveronicashn', 'indrisulami', 'kdramamenfess', 'sus', 'knp', 'apa', 'yg', 'ga_di', 'percaya', 'gw', 'emg', 'suka', 'lyodra', 'support', 'dia', 'dr', '2020', 'zaman', 'indonesia', 'idol', 'ngikutin', 'dia', 'bgt', 'bahkan', 'pernah', 'dateng', 'langsung', 'ke', 'konser', 'kemenangannya', 'napa', 'jd', 'yg', 'pojokin', 'si', 'ya', 'klo', 'nganggep', 'dia', 'sensi', 'ya', 'mungkin', 'cara', 'baca', 'yg', 'salah', 'dan', 'minta', 'maaf']
 
 
 ['rt', 'starfess', 'guys', 'idol', 'kpop', '2023', 'makin', 'aneh', 'masa', 'bisa', 'jelasin', 'ke', 'mc', 'kalau', 'ibukota', 'indonesia', 'dari', 'jakarta', 'mau', 'pindah', 'ke', 'kalimantan']
 
 
-['japan', 'tour', 'is', 'like', 'every', 'idols', 'dream', 'beside', 'world', 'tour', 'ofc', 'indonesian', 'tour', 'why', 'not', 'fyi', 'indonesia', 'is', 'the', 'biggest', 'country', 'that', 'has', 'so', 'much', 'kpop', 'fans', 'in', 'this', 'universe', 'so', 'why', 'not', 'and', '5ecretnumber', 'paved', 'the', 'way', 'anyway', 'proud', 'of', 'my', 'senum', 'girl', 'secretnumber', 'jaya', 'jaya']
+['japan', 'tour', 'is', 'like', 'every', 'idols', 'dream', 'beside', 'world', 'tour', 'ofc', 'indonesian', 'tour', 'why', 'not', 'fyi', 'indonesia', 'is', 'the', 'biggest', 'country', 'that', 'has', 'so', 'much', 'kpop', 'fans', 'in', 'this', 'universe', 'so', 'why', 'not', 'and', '5ecretnumber', 'paved', 'the', 'way', 'anyway', 'proud', 'of', 'my', 'senum', 'girl', 'suka', 'secretnumber', 'jaya', 'jaya']
 
 
-['rt', 'kimt', 'ketawa', 'hsn', 'ketawa', 'ia', 'hidup', 'goa', 'kali', 'ya', 'banyak', 'fandom', 'lain', 'ngarep', 'idolnya', 'manggung', 'indo', 'loh', 'emang', 'salah', 'kalo', 'sn', 'manggung', 'indo', 'cuma']
+['rt', 'kimtdhsn', 'dia', 'hidup', 'goa', 'kali', 'ya', 'banyak', 'fandom', 'lain', 'ngarep', 'idolnya', 'manggung', 'indo', 'loh', 'emang', 'salah', 'kalo', 'sn', 'manggung', 'indo', 'cuma']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
 
 
-['ssakuse', 'fans', 'kpop', 'terbesar', 'nomor', 'dunia', 'dari', 'indo', 'cuy', 'makanya', 'idol', 'kpop', 'berlomba', 'lomba', 'nyari', 'pasar', 'indo', 'karna', 'pasar', 'korea', 'itu', 'sedikit', 'dan', 'harus', 'dari', 'agensi', 'besar', 'bru', 'bisa', 'terkenal', 'makanya', 'banyak', 'idol', 'kpop', 'korea', 'mati', 'matian', 'cari', 'fans', 'indonesia', 'biar', 'dapat', 'manggung', 'sini']
+['ssakuse', 'fans', 'kpop', 'terbesar', 'nomor', 'dunia', 'dari', 'indo', 'cuy', 'makanya', 'idol', 'kpop', 'berlomba', 'lomba', 'nyari', 'pasar', 'indo', 'karna', 'pasar', 'korea', 'itu', 'sedikit', 'dan', 'harus', 'dari', 'agensi', 'besar', 'bru', 'bisa', 'terkenal', 'makanya', 'banyak', 'idol', 'kpop', 'korea', 'mati', 'matian', 'cari', 'fans', 'indonesia', 'biar', 'dapat', 'manggung', 'sini', 'ketawa']
 
 
-['reyhandreas', '5ecretnumber', 'iya', 'idol', 'berbicara', 'terus', 'makan', 'makanan', 'indo', 'fans', 'luar', 'negri', 'lain', 'minimal', 'notice', 'oh', 'ada', 'negara', 'yang', 'namanya', 'indonesia', 'kalo', 'ada', 'member', 'indo', 'hal2', 'kaya', 'gitu', 'akan', 'dibahas', 'terus', 'diacara', 'apapun', 'kalo', 'ga', 'ada', 'member', 'indo', 'ya', 'bahas', 'indo', 'ketika', 'promo', 'doang', 'wkwk']
+['reyhandreas', '5ecretnumber', 'iya', 'idol', 'berbicara', 'terus', 'makan', 'makanan', 'indo', 'fans', 'luar', 'negri', 'lain', 'minimal', 'notice', 'oh', 'ada', 'negara', 'yang', 'namanya', 'indonesia', 'kalo', 'ada', 'member', 'indo', 'hal2', 'kaya', 'gitu', 'akan', 'dibahas', 'terus', 'diacara', 'apapun', 'kalo', 'ga_ada', 'ada', 'member', 'indo', 'ya', 'bahas', 'indo', 'ketika', 'promo', 'doang', 'wkwk']
 
 
 ['rosieporsie', 'hwhwhwhwh', 'side', 'job', 'nya', 'jadi', 'juri', 'indonesia', 'idol']
 
 
-['rt', 'yumi95206204', 'eisyeci7', 'bisa', 'lah', 'ketawa', 'ita', 'amp', 'jinny', 'collab', 'sama', 'idol', 'lain', 'segment', 'nya', 'belajar', 'bahasa', 'indonesia', 'gitu']
+['rt', 'yumi95206204', 'eisyeci7', 'bisa', 'lah', 'dita', 'amp', 'jinny', 'collab', 'sama', 'idol', 'lain', 'segment', 'nya', 'belajar', 'bahasa', 'indonesia', 'gitu']
 
 
-['indrisulami', 'kdramamenfess', 'apaan', 'si', 'sensi', 'bgttlagian', 'jg', 'mancung', 'bisa', 'krn', 'penurunan', 'bb', 'pas', 'makeup', 'lagi', 'perform', 'indonesia', 'idol', 'dulu', 'emg', 'ga', 'semancung', 'ini', 'kok', 'tp', 'emg', 'mungil', 'dr', 'dlu', 'aku', 'jg', 'ngikutin', 'lyodra', 'dr', 'zaman', 'indonesia', 'idol']
+['indrisulami', 'kdramamenfess', 'apaan', 'si', 'sensi', 'bgttlagian', 'jg', 'mancung', 'bisa', 'krn', 'penurunan', 'bb', 'pas', 'makeup', 'lagi', 'perform', 'indonesia', 'idol', 'dulu', 'emg', 'ga_semancung', 'semancung', 'ini', 'kok', 'tp', 'emg', 'mungil', 'dr', 'dlu', 'aku', 'jg', 'ngikutin', 'lyodra', 'dr', 'zaman', 'indonesia', 'idol']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
-
-
-['rt', 'ninabobooooo', 'enstars', 'fanfiction', 'arashi', 'narukami', 'sang', 'member', 'idol', 'dari', 'unit', 'knights', 'liburan', 'ke', 'indonesia', 'dan', 'mau', 'nonton', 'idola', 'ibukot']
-
-
-['eisyeci7', 'bisa', 'lah', 'ketawa', 'ita', 'amp', 'jinny', 'collab', 'sama', 'idol', 'lain', 'segment', 'nya', 'belajar', 'bahasa', 'indonesia', 'gitu']
-
-
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
-
-
-['kulturjaringan', 'ya', 'nyadar', 'aja', 'klo', 'postingan', 'itu', 'ada', 'yg', 'ngesaltyin', 'aja', 'udah', 'anehh', 'once', 'again', 'ketawa', 'ol', 'korea', 'ketawa', 'ari', 'in', 'ketawa', 'onesia', 'manggung', 'ketawa', 'negaranya', 'sen', 'ketawa', 'iri', 'lo', 'salty', 'in', 'sakit', 'lu']
+['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
 
 
 ['rt', 'ninabobooooo', 'enstars', 'fanfiction', 'arashi', 'narukami', 'sang', 'member', 'idol', 'dari', 'unit', 'knights', 'liburan', 'ke', 'indonesia', 'dan', 'mau', 'nonton', 'idola', 'ibukot']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['eisyeci7', 'bisa', 'lah', 'dita', 'amp', 'jinny', 'collab', 'sama', 'idol', 'lain', 'segment', 'nya', 'belajar', 'bahasa', 'indonesia', 'gitu']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
-
-
-['rt', 'ninabobooooo', 'enstars', 'fanfiction', 'arashi', 'narukami', 'sang', 'member', 'idol', 'dari', 'unit', 'knights', 'liburan', 'ke', 'indonesia', 'dan', 'mau', 'nonton', 'idola', 'ibukot']
-
-
-['happy', '11th', 'anniversary', 'officialjkt48', 'semoga', 'tetap', 'jadi', 'idol', 'group', 'satusatunya', 'yang', 'eksis', 'ketawa', 'indonesia', 'sampai', 'saat', 'ini', 'salam', 'ini', 'lagu', 'spesial', 'buat', 'para', 'member', 'jkt', '48']
-
-
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
-
-
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
-
-
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['kulturjaringan', 'ya', 'nyadar', 'aja', 'klo', 'postingan', 'itu', 'ada', 'yg', 'ngesaltyin', 'aja', 'udah', 'anehh', 'once', 'again', 'idol', 'korea', 'dari', 'indonesia', 'manggung', 'negaranya', 'sendiri', 'lo', 'salty', 'in', 'sakit', 'lu']
 
 
 ['rt', 'ninabobooooo', 'enstars', 'fanfiction', 'arashi', 'narukami', 'sang', 'member', 'idol', 'dari', 'unit', 'knights', 'liburan', 'ke', 'indonesia', 'dan', 'mau', 'nonton', 'idola', 'ibukot']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
 
 
-['ssakuse', 'pingin', 'ngatain', 'jangan', 'sebut', 'idol', 'anda', 'grup', 'kpop', 'global', 'sebelum', 'mereka', 'terkenal', 'indonesia', 'ketawa', 'asar', 'gw', 'emang', 'overproot']
+['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+
+
+['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+
+
+['rt', 'ninabobooooo', 'enstars', 'fanfiction', 'arashi', 'narukami', 'sang', 'member', 'idol', 'dari', 'unit', 'knights', 'liburan', 'ke', 'indonesia', 'dan', 'mau', 'nonton', 'idola', 'ibukot']
+
+
+['happy', '11th', 'anniversary', 'officialjkt48', 'semoga', 'tetap', 'jadi', 'idol', 'group', 'satusatunya', 'yang', 'eksis', 'indonesia', 'sampai', 'saat', 'ini', 'salam', 'ini', 'lagu', 'spesial', 'buat', 'para', 'member', 'jkt', '48']
+
+
+['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+
+
+['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+
+
+['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+
+
+['rt', 'ninabobooooo', 'enstars', 'fanfiction', 'arashi', 'narukami', 'sang', 'member', 'idol', 'dari', 'unit', 'knights', 'liburan', 'ke', 'indonesia', 'dan', 'mau', 'nonton', 'idola', 'ibukot']
+
+
+['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+
+
+['ssakuse', 'pingin', 'ngatain', 'jangan', 'sebut', 'idol', 'anda', 'grup', 'kpop', 'global', 'sebelum', 'mereka', 'terkenal', 'indonesia', 'dasar', 'gw', 'emang', 'overproot']
 
 
 ['rt', 'ninabobooooo', 'enstars', 'fanfiction', 'arashi', 'narukami', 'sang', 'member', 'idol', 'dari', 'unit', 'knights', 'liburan', 'ke', 'indonesia', 'dan', 'mau', 'nonton', 'idola', 'ibukot']
@@ -688,49 +694,49 @@
 ['njie', 'finalis', 'indonesia', 'idol', 'nyanyiin']
 
 
-['isiduasarmi', 'starfess', 'setidaknya', 'mereka', 'undang', 'idol', 'kebanggaan', 'mereka', 'lah', 'lo', 'kasihan', 'gak', 'bisa', 'dateng', 'ke', 'indonesia', 'ya', 'ntar', 'pas', 'dateng', 'ke', 'indo', 'ngomong', 'bindo', 'langsung', 'koar', 'ihhhhh', 'melokal', 'banget', 'lagian', 'gratis', 'pun', 'merek', 'abutih', 'perjuangan']
+['isiduasarmi', 'starfess', 'setidaknya', 'mereka', 'undang', 'idol', 'kebanggaan', 'mereka', 'lah', 'lo', 'kasihan', 'gak_bisa', 'bisa', 'dateng', 'ke', 'indonesia', 'ya', 'ntar', 'pas', 'dateng', 'ke', 'indo', 'ngomong', 'bindo', 'langsung', 'koar', 'ihhhhh', 'melokal', 'banget', 'lagian', 'gratis', 'pun', 'merek', 'abutih', 'perjuangan']
 
 
-['khllmi', 'jeonale', 'starfess', 'kan', 'emang', 'ada', 'member', 'asal', 'indonesia', 'namanya', 'ketawa', 'ita', 'karang', 'dan', 'menjadikannya', 'sebagai', 'wanita', 'pertama', 'asal', 'indo', 'yg', 'berhasil', 'debut', 'menjadi', 'idol', 'kpop']
+['khllmi', 'jeonale', 'starfess', 'kan', 'emang', 'ada', 'member', 'asal', 'indonesia', 'namanya', 'dita', 'karang', 'dan', 'menjadikannya', 'sebagai', 'wanita', 'pertama', 'asal', 'indo', 'yg', 'berhasil', 'debut', 'menjadi', 'idol', 'kpop']
 
 
-['dinaindrir', 'yang', 'salty', 'itu', 'iri', 'ngelihat', 'sn', 'bolak', 'balik', 'konser', 'dan', 'ingin', 'nonton', 'tapi', 'ga', 'bisa', 'makanya', 'cuma', 'hate', 'komen', 'doang', 'padahal', 'berharap', 'idol', 'yang', 'dibiasin', 'konser', 'ke', 'indonesia', 'dan', 'gratis', 'juga', 'jangan', 'munafik', 'modal', 'ketik', 'doang', 'ngesalty', 'idol', 'fandom', 'lain']
-
-
-['rt', 'indonesianidol', 'berbagai', 'macam', 'peserta', 'dari', 'seluruh', 'indonesia', 'berkumpul', 'indonesian', 'idol', 'xii', 'ini', 'pastikan', 'kalian', 'melihat', 'keseruann']
+['dinaindrir', 'yang', 'salty', 'itu', 'iri', 'ngelihat', 'sn', 'bolak', 'balik', 'konser', 'dan', 'ingin', 'nonton', 'tapi', 'ga_bisa', 'bisa', 'makanya', 'cuma', 'hate', 'komen', 'doang', 'padahal', 'berharap', 'idol', 'yang', 'dibiasin', 'konser', 'ke', 'indonesia', 'dan', 'gratis', 'juga', 'jangan', 'munafik', 'modal', 'ketik', 'doang', 'ngesalty', 'idol', 'fandom', 'lain']
 
 
 ['rt', 'indonesianidol', 'berbagai', 'macam', 'peserta', 'dari', 'seluruh', 'indonesia', 'berkumpul', 'indonesian', 'idol', 'xii', 'ini', 'pastikan', 'kalian', 'melihat', 'keseruann']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'indonesianidol', 'berbagai', 'macam', 'peserta', 'dari', 'seluruh', 'indonesia', 'berkumpul', 'indonesian', 'idol', 'xii', 'ini', 'pastikan', 'kalian', 'melihat', 'keseruann']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+
+
+['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
 
 
 ['semoga', 'ke', 'depan', 'secret', 'number', 'makin', 'banyak', 'baby', 'lockey', 'indonesia', 'andai', 'sn', 'didukung', '2030jt', 'lockey', 'indonesia', 'sn', 'baru', 'bisa', 'selevel', 'pada', 'grup', 'idol', 'terkenal', 'indonesia', 'hampir', '300juta', 'jiwa', 'penduduk', 'secretnumber']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
 
 
-['kulturjaringan', 'bilang', 'aja', 'elu', 'iri', 'blokk', 'karna', 'idol', 'lu', 'ga', 'laku', 'indonesia']
+['kulturjaringan', 'bilang', 'aja', 'elu', 'iri', 'blokk', 'karna', 'idol', 'lu', 'ga_laku', 'laku', 'indonesia']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
 
 
 ['rt', 'indonesianidol', 'berbagai', 'macam', 'peserta', 'dari', 'seluruh', 'indonesia', 'berkumpul', 'indonesian', 'idol', 'xii', 'ini', 'pastikan', 'kalian', 'melihat', 'keseruann']
@@ -739,16 +745,16 @@
 ['ferdinandhutah7', 'aniesbaswedan', 'kemqren', 'fans', 'nya', 'nyenggol', 'kain', 'khas', 'ulossekarang', 'si', 'idol', 'nya', 'nyenggol', 'kain', 'khas', 'batikancen', 'idol', 'dan', 'fans', 'sama2', 'dungumereka', 'suka', 'kain', 'khas', 'indonesiamereka', 'sukannya', 'baju2', 'ala', 'dementor']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
 
 
-['prik', 'banget', 'anjir', 'bahasannya', 'keluar', 'konteks', 'idol', 'korea', 'juga', 'udah', 'beda', 'agama', 'dan', 'budaya', 'ga', 'ads', 'hubungannya', 'mbak', 'nana', 'ga', 'pake', 'jilbab', 'sama', 'idol', 'korea', 'toh', 'dari', 'awal', 'yang', 'suka', 'julid', 'duluan', 'emang', 'netizen', 'indonesia', 'sendiri']
+['prik', 'banget', 'anjir', 'bahasannya', 'keluar', 'konteks', 'idol', 'korea', 'juga', 'udah', 'beda', 'agama', 'dan', 'budaya', 'ga_ads', 'ads', 'hubungannya', 'mbak', 'nana', 'ga_pake', 'pake', 'jilbab', 'sama', 'idol', 'korea', 'toh', 'dari', 'awal', 'yang', 'suka', 'julid', 'duluan', 'emang', 'netizen', 'indonesia', 'sendiri']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
 
 
 ['padahal', 'tahun', 'depan', 'mo', 'ikutan', 'indonesia', 'idol', 'wkwkwkwkwkwkkwkw']
@@ -760,135 +766,129 @@
 ['rt', 'indonesianidol', 'berbagai', 'macam', 'peserta', 'dari', 'seluruh', 'indonesia', 'berkumpul', 'indonesian', 'idol', 'xii', 'ini', 'pastikan', 'kalian', 'melihat', 'keseruann']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
 
 
 ['juyfordami', '5ecretnumber', 'kurasa', 'dia', 'mc', 'acara', 'hajatan', 'yg', 'namanya', 'mc', 'apa', 'lagi', 'ini', 'acara', 'gede', 'gues', 'star', 'nya', 'skelas', 'idol', 'kpop', 'hlo', 'masak', 'gk', 'bisa', 'gtu', 'ngemc', 'dngn', 'perkataan', 'yg', 'baik', 'tnpa', 'menyebut', 'idol', 'lain', 'pdahal', 'sdah', 'jls', 'sn', 'ada', 'mb', 'dita', 'yg', 'jls', 'tau', 'bahasa', 'indonesia']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
 
 
 ['rt', 'yogurtmatcha24', 'evelynyle', 'khllmi', 'starfess', 'wkwkwk', 'apakabar', 'idol', 'kpop', 'yang', 'lain', 'sering', 'banget', 'diundang', 'ke', 'indonesia', 'wkwk']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
 
 
-['rt', '48gphilippines', '12', 'suka', 'ganbatte', 'ne', 'good', 'luck', 'jkt48', 'on', 'your', '11th', 'anniversary', 'concert', 'tonight', 'on', 'behalf', 'of', 'mnloves', 'happy', '11th', 'anniv']
+['rt', '48gphilippines', '12', 'ganbatte', 'ne', 'good', 'luck', 'jkt48', 'on', 'your', '11th', 'anniversary', 'concert', 'tonight', 'on', 'behalf', 'of', 'mnloves', 'happy', '11th', 'anniv']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
 
 
 ['juyfordami', 'sya', 'juga', 'overproud', 'ke', 'sn', 'ada', 'alasan', 'kuat', 'nya', 'satu2nya', 'idol', 'grup', 'yg', 'ada', 'org', 'indonesia', 'nya', 'hak', 'dan', 'kewajiban', 'saya', 'buat', 'dukung', 'satu2nya', 'idol', 'grup', 'yg', 'ada', 'org', 'indonesia', 'nya', 'satu2nya', 'grup', 'kpop', 'yg', 'gw', 'stan', 'ikutin']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
 
 
-['khllmi', 'starfess', 'smua', 'idol', 'kpop', 'ngejar', 'pasar', 'indonesia', 'bos', 'mau', 'dr', 'agncy', 'big', 'ky', 'sm', 'yg', 'bighit', 'semua', 'ngejar', 'pasar', 'indonesia', 'skelas', 'sn', 'untung', 'bgt', 'donk', 'ga', 'usah', 'susah', 'payah', 'ngambil', 'hati', 'pasar', 'indonesia', 'krn', 'ada', 'ketawa', 'itanya', 'privilege', 'gtuloh', 'knp', 'mau', 'suruh', 'big3', 'ada', 'org', 'indonesianya', 'sono', 'sirik', 'aja', 'lo']
+['khllmi', 'starfess', 'smua', 'idol', 'kpop', 'ngejar', 'pasar', 'indonesia', 'bos', 'mau', 'dr', 'agncy', 'big', 'ky', 'sm', 'yg', 'bighit', 'semua', 'ngejar', 'pasar', 'indonesia', 'skelas', 'sn', 'untung', 'bgt', 'donk', 'ga_usah', 'usah', 'susah', 'payah', 'ngambil', 'hati', 'pasar', 'indonesia', 'krn', 'ada', 'ditanya', 'privilege', 'gtuloh', 'knp', 'mau', 'suruh', 'big3', 'ada', 'org', 'indonesianya', 'sono', 'sirik', 'aja', 'lo']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
 
 
-['khllmi', 'starfess', 'mau', 'jawab', 'sn', 'tuh', 'grup', 'kpopterus', 'infoin', 'satu', 'lagi', 'indonesia', 'salah', 'satu', 'negara', 'yang', 'paling', 'tuju', 'para', 'idol', 'kpop', 'salah', 'satunya', 'ngegaet', 'fans', 'internasionaldan', 'gak', 'semua', 'idol', 'kpop', 'bisa', 'banyak', 'job', 'diindo', 'karena', 'ga', 'semua', 'terkenal', 'diindo', 'wkwkindo', 'tu', 'target', 'pasar', 'kpop']
+['khllmi', 'starfess', 'mau', 'jawab', 'sn', 'tuh', 'grup', 'kpopterus', 'infoin', 'satu', 'lagi', 'indonesia', 'salah', 'satu', 'negara', 'yang', 'paling', 'tuju', 'para', 'idol', 'kpop', 'salah', 'satunya', 'ngegaet', 'fans', 'internasionaldan', 'gak_semua', 'semua', 'idol', 'kpop', 'bisa', 'banyak', 'job', 'diindo', 'karena', 'ga_semua', 'semua', 'terkenal', 'diindo', 'wkwkindo', 'tu', 'target', 'pasar', 'kpop']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
 
 
 ['evelynyle', 'khllmi', 'starfess', 'wkwkwk', 'apakabar', 'idol', 'kpop', 'yang', 'lain', 'sering', 'banget', 'diundang', 'ke', 'indonesia', 'wkwk']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
-
-
-['rt', 'lilavalila', 'sedih', 'sih', 'baca', 'sebagian', 'rep', 'nya', 'yg', 'bilang', 'gratisan', 'makanya', 'rame', 'lah', 'kaya', 'bukan', 'konser', 'idol', 'kpop', 'lah', 'indonesia', 'mulu', 'la']
-
-
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
 
 
 ['rt', 'lilavalila', 'sedih', 'sih', 'baca', 'sebagian', 'rep', 'nya', 'yg', 'bilang', 'gratisan', 'makanya', 'rame', 'lah', 'kaya', 'bukan', 'konser', 'idol', 'kpop', 'lah', 'indonesia', 'mulu', 'la']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'lilavalila', 'sedih', 'sih', 'baca', 'sebagian', 'rep', 'nya', 'yg', 'bilang', 'gratisan', 'makanya', 'rame', 'lah', 'kaya', 'bukan', 'konser', 'idol', 'kpop', 'lah', 'indonesia', 'mulu', 'la']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
 
 
-['berbagai', 'macam', 'peserta', 'dari', 'seluruh', 'indonesia', 'berkumpul', 'indonesian', 'idol', 'xii', 'ini', 'pastikan', 'kalian', 'melihat', 'keseruannya', 'ya', 'senin', '19', 'ketawa', 'esember', '2022', '2100', 'wib', 'homeoftheidols', 'indonesianidolxii', 'indonesianidol12', 'indonesianidol2023', 'fremantleid', 'officialrcti']
+['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+
+
+['berbagai', 'macam', 'peserta', 'dari', 'seluruh', 'indonesia', 'berkumpul', 'indonesian', 'idol', 'xii', 'ini', 'pastikan', 'kalian', 'melihat', 'keseruannya', 'ya', 'senin', '19', 'desember', '2022', '2100', 'wib', 'homeoftheidols', 'indonesianidolxii', 'indonesianidol12', 'indonesianidol2023', 'fremantleid', 'officialrcti']
+
+
+['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
 
 
 ['rt', 'ninabobooooo', 'enstars', 'fanfiction', 'arashi', 'narukami', 'sang', 'member', 'idol', 'dari', 'unit', 'knights', 'liburan', 'ke', 'indonesia', 'dan', 'mau', 'nonton', 'idola', 'ibukot']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
 
 
 ['rt', 'lilavalila', 'sedih', 'sih', 'baca', 'sebagian', 'rep', 'nya', 'yg', 'bilang', 'gratisan', 'makanya', 'rame', 'lah', 'kaya', 'bukan', 'konser', 'idol', 'kpop', 'lah', 'indonesia', 'mulu', 'la']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
 
 
 ['rt', 'ninabobooooo', 'enstars', 'fanfiction', 'arashi', 'narukami', 'sang', 'member', 'idol', 'dari', 'unit', 'knights', 'liburan', 'ke', 'indonesia', 'dan', 'mau', 'nonton', 'idola', 'ibukot']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
 
 
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
-
-
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
-
-
-['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
+['rt', 'zoeyaluv66', 'aku', 'juga', 'pengen', 'mereka', 'bisa', 'konser', 'tour', 'indonesia', 'ga_peduli', 'peduli', 'dibilang', 'idol', 'lokal', 'pun', 'yang', 'penting', 'semua', 'lockey', 'indonesia']
 
 

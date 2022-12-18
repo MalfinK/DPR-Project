@@ -1,7 +1,7 @@
 import re
 
 # kalimat negatif
-kata_kunci_negatif = ['ga seru', 'ga lucu']
+kata_kunci_negatif = ['ga_seru', 'ga_lucu']
 pencarianBarisNegatif = [[] for x in range(len(kata_kunci_negatif))]
 pencarianKalimatNegatif = [[] for x in range(len(kata_kunci_negatif))]
 

@@ -3,41 +3,47 @@
 import re
 
 def preprocessing(data) :
+    data = data.split()
     # coversi emoticon
     emoticons = { 
-        'Senang' : [':-)', ':)', ':o)', ':]', ':3', ':c)', ':>', '=]', '8)', '=)', ':}', ':^),' ':っ)'],
-        'Ketawa' : [':-D', ':D', '8-D', '8D', 'x-D', 'xD', 'X-D', 'XD', '=-', 'D', '=D', '=-3', '=3', 'B^D'],
-        'Benci' : [':-||', ':@', '>:(',],
-        'Kecewa' : [":$", ">:[", ":-(", ":(", ":-c", ":c", ":-<", ":っC", ":<", ":-[", ":[", ":{", ";(", ":'-(", ":'(", "D:<", "D:", "D8", "D;", "D=", "DX", "v.v", "D-':",],
-        'Suka' : ['<3', ';-)', ';)', '-)', ')', ';-]', ';]', ';D', ';^)', ':-,'],
+        'senang' : [':-)', ':)', ':o)', ':]', ':3', ':c)', ':>', '=]', '8)', '=)', ':}', ':^),' ':っ)', '😁'],
+        'ketawa' : [':-D', ':D', '8-D', '8D', 'x-D', 'xD', 'X-D', 'XD', '=-', 'D', '=D', '=-3', '=3', 'B^D', '🤣', '😂'],
+        'benci' : [':-||', ':@', '>:('],
+        'kecewa' : [":$", ">:[", ":-(", ":(", ":-c", ":c", ":-<", ":っC", ":<", ":-[", ":[", ":{", ";(", ":'-(", ":'(", "D:<", "D:", "D8", "D;", "D=", "DX", "v.v", "D-':", '😌'],
+        'suka' : ['<3', ';-)', ';)', '-)', ')', ';-]', ';]', ';D', ';^)', ':-,', '🥰'],
     }
     # replace emoticon
-    for word in data:
-        if word in emoticons['Senang']:
-            data = data.replace(word, ' Senang ')
-        elif word in emoticons['Ketawa']:
-            data = data.replace(word, ' Ketawa ')
-        elif word in emoticons['Benci']:
-            data = data.replace(word, ' Benci ')
-        elif word in emoticons['Kecewa']:
-            data = data.replace(word, ' Kecewa ')
-        elif word in emoticons['Suka']:
-            data = data.replace(word, ' Suka ')
+    for i in range(len(data)):
+        if data[i] in emoticons['senang']:
+            data[i] = 'senang'
+        elif data[i] in emoticons['ketawa']:
+            data[i] = 'ketawa'
+        elif data[i] in emoticons['benci']:
+            data[i] = 'benci'
+        elif data[i] in emoticons['kecewa']:
+            data[i] = 'kecewa'
+        elif data[i] in emoticons['suka']:
+            data[i] = 'suka'
+            
     # transform the crawled data to lower case
-    data = data.lower()
-    # remove all non-alphanumeric characters
-    data = re.sub(r'[^a-z0-9\s]', '', data)
-    # remove links
-    data = re.sub(r'http\S+', '', data)
-    # remove mentions
-    data = re.sub(r'@\S+', '', data)
+    temp = []
+    for word in data:
+        word = word.lower()
+        # remove all non-alphanumeric characters
+        word = re.sub(r'[^a-z0-9\s]', '', word)
+        # remove links
+        word = re.sub(r'http\S+', '', word)
+        # remove mentions
+        word = re.sub(r'@\S+', '', word)
+        temp.append(word)
+    data = temp
     # convert negation
     negation = ['kurang', 'tidak', 'enggak', 'ga', 'nggak', 'tak', 'gak']
-    for word in data:
-        if word in negation:
-            data = data.replace(word, word + '_' + data[data.index(word)+1])
-    # tokenize
-    data = data.split()
+    for i in range(len(data)):
+        if data[i] in negation:
+            data[i] = data[i] + '_' + data[i+1]
+    # # tokenize
+    # data = data.split()
     # filter tokens by length
     data = [word for word in data if len(word) > 1]
     # stopwords indonesia language
