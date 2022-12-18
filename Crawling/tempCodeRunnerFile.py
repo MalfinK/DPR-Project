@@ -1,1 +1,1 @@
-tweet.text
+ngakak
