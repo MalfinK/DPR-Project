@@ -40,7 +40,7 @@ for indexNo, baris in enumerate(barisPerSatuKalimat):
                 pencarianKalimatPositif[indexKata].append(baris)
 
 
-with open("hasil_crawler2.txt", "w", encoding="utf8") as hasilKeseluruhan:
+with open("hasil_crawler2.csv", "w", encoding="utf8") as hasilKeseluruhan:
     
 #     print(f'''
 # Kelompok \t: 5
