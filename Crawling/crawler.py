@@ -1,7 +1,7 @@
 import tweepy
 from preprocessing import preprocessing
 
-bearer_token = 'AAAAAAAAAAAAAAAAAAAAAO3%2BigEAAAAAap1frk%2FV1bDMLWcNs5IdcoE%2FEb4%3D1kg0iclHuoXmPc8ZL18xdYOyNOMnQ1WjbgUiLSx5sNGW0kGxN0'
+bearer_token = 'AAAAAAAAAAAAAAAAAAAAAO3%2BigEAAAAA6cKmmhOTjGH%2Bkkrs8SdeUAUxrA8%3DwVS4x0Ax1xCYXLwMnU7q7wdcW8hsmYDNDewcQg36IKuzcxiaxC'
 
 client = tweepy.Client(bearer_token)
 # kata_kunci = 'ga_seru'
